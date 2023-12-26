@@ -9,29 +9,23 @@
 		<div id="my-mirador"/></div>
 
 		<script type="text/javascript">
-		var IIIFCatalog;
-		
-		$.ajax({
-		  dataType: "json",
-		  url: 'iiif-catalog.json',
-		  data: IIIFCatalog,
-		  success: success
+		$.getJSON( "iiif-catalog.json", function( data ) {
+			var mirador = Mirador.viewer({
+			  "id": "my-mirador",
+				themes: {
+			 light: {
+			   palette: {
+				 type: 'dark',
+				 primary: {
+				   main: '#0088ce',
+				 },
+			   },
+			 },
+		   },
+		   catalog: data
+		   });
 		});
 		
-		var mirador = Mirador.viewer({
-		  "id": "my-mirador",
-			themes: {
-         light: {
-           palette: {
-             type: 'dark',
-             primary: {
-               main: '#0088ce',
-             },
-           },
-         },
-       },
-	   catalog: []
-	   });
 		</script>
 	</body>
 </html>
