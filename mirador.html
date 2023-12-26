@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Mirador Viewer: Browse 253 computistical and calendrical manuscripts</title>
-		<script src="https://requirejs.org/docs/release/2.1.5/comments/require.js">
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 		<script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
 	</head>
@@ -9,8 +9,14 @@
 		<div id="my-mirador"/></div>
 
 		<script type="text/javascript">
-		var IIIFCatalog = require("iiif-catalog.json");
-		console.log(IIIFCatalog);
+		var IIIFCatalog;
+		
+		$.ajax({
+		  dataType: "json",
+		  url: 'iiif-catalog.json',
+		  data: IIIFCatalog,
+		  success: success
+		});
 		
 		var mirador = Mirador.viewer({
 		  "id": "my-mirador",
