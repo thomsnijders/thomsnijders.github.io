@@ -8,6 +8,10 @@
 		<div id="my-mirador"/></div>
 
 		<script type="text/javascript">
+
+		var iifCatalog = [];
+		fetch('iiif-catalog.json').then(response => json = response.json());
+			
 		var mirador = Mirador.viewer({
 		  "id": "my-mirador",
 			themes: {
@@ -20,7 +24,7 @@
            },
          },
        },
-	   catalog: 
+	   catalog: iifCatalog
 		});
 		</script>
 	</body>
