@@ -1,0 +1,815 @@
+[{
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8455925x/manifest.json",
+					"location": null
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3b3c8a05-c87e-4296-be62-8da07baeb0c4.json",
+					"location": null
+				}, {
+					"manifestId": "https://bvmm.irht.cnrs.fr/iiif/1097/manifest",
+					"location": null
+				}, {
+					"manifestId": "https://bvmm.irht.cnrs.fr/iiif/4663/manifest",
+					"location": null
+				}, {
+					"manifestId": "https://bvmm.irht.cnrs.fr/iiif/27638/manifest",
+					"location": "Biblissima"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/e224e40b-334c-4ad8-834c-b02ebfa4c589.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/076c5aee-3836-4576-aaf3-f39a18193fa7.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/82f44653-e732-4233-990b-1a8deb3a61cc.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/78052fc7-16c9-4c1d-a7cb-30442b39deb5.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/74f7b7c2-4d52-4c43-b44a-d5e638122b88.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/dc320630-0d87-41d5-8b84-5c60b49449df.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/c558481e-91af-4d4e-8a31-9910edd472cc.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/9b12d41d-5573-45fa-be3d-33ea44eede56.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/530c071a-3c39-41a8-be67-1887bd7deb99.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/96ffbea9-64a7-4e67-8dab-a4b73a399431.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/acac02ba-72aa-48c9-8e80-d446493539df.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/b17e93d3-aa72-415c-a07c-2e3d3f2b4b0f.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/beb70aae-97bb-4bce-a5e9-d57e2cbb1941.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/3e172a17-daab-411f-b96e-41709d80aff6.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/14e97b1e-4264-41ab-ad4b-77c8c49c19db.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/66a78997-ab65-4059-a9d3-d08a0bba067c.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/11f12671-e61e-423f-bf3d-b51723fd75ec.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/9c3d36d0-6b4d-4d5e-9705-60d0fc24c267.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/b29ff397-89fd-44ad-ad28-e7db3896edc5.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/a36fbb27-5ba6-4e72-8aa3-b01bfdd45ba8.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/6bfb0f50-0a4c-491c-901b-04006af9bb4a.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/b018fc4c-443d-424a-a590-01d2cc2e4323.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/87406531-c12c-4f6e-bfe0-103b4e44122d.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/602a141c-6bf6-47ad-87eb-38e9bb8aee91.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/fede3ec6-25c8-4b9d-9a30-8a1c34e5af65.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/133d1de8-153e-43ff-b901-f4a4bd62b125.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/d7ca590b-865d-46a9-9652-ce74801a5601.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/27e6b3db-48b7-4c6d-bfd1-c286e004b4d4.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/dbf152ee-f757-417e-bc6e-1f4be59510a1.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/8536915c-f459-4fae-8a27-3eabaea2da91.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/b9cb9cfe-6eb4-47ac-aad1-c905379f6af7.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/ad482738-9419-49e5-af60-676cdb2f1508.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/93b83416-7972-40d7-9789-18f54e17ae25.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/fb444229-b937-4f05-b596-241621638562.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/86dd3006-88da-4777-9dc9-5ff71fc10c59.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/97b5f725-af6d-4934-ad75-575eb081838f.json",
+					"location": "Bodleian Libraries"
+				}, {
+					"manifestId": "https://bvmm.irht.cnrs.fr/iiif/19171/manifest",
+					"location": "BVMM"
+				}, {
+					"manifestId": "https://bvmm.irht.cnrs.fr/iiif/1058/manifest",
+					"location": "BVMM"
+				}, {
+					"manifestId": "https://bvmm.irht.cnrs.fr/iiif/8090/manifest",
+					"location": "BVMM"
+				}, {
+					"manifestId": "https://bvmm.irht.cnrs.fr/iiif/19166/manifest",
+					"location": "BVMM"
+				}, {
+					"manifestId": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/783d604c-a873-4d64-967a-8140cc0eafa5.json",
+					"location": "Digital Bodleian"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_485/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Pal.lat.1447/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_1448/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_1449/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Pal.lat.1557/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_834/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.123/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.13014/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.1053/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.3123/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.1038/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Pal.lat.235/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_1341/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_833/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_495/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_39/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_973/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_277/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_reg_lat_586/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.gr.1291/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.12/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Ross.204/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/bav_pal_lat_499/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.1324/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.1855/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.1709.pt.A/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.141/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.438/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.713/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.3101/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.4162/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.5755/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.3806/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Borg.lat.211/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Arch.Cap.S.Pietro.H.58/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.1260/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Barb.lat.12/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Urb.lat.290/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Ross.247/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.6018/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.645/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.644/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.643/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.642/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.2077/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.1723/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.1263/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.755/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.713/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.612/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.596/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.540/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.309/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.288/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.49/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Pal.lat.830/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Pal.lat.1377/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Ott.lat.1870/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.3124/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.226/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.272/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Reg.lat.258/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digi.vatlib.it/iiif/MSS_Vat.lat.687/manifest.json",
+					"location": "Digital Vatican Library"
+				}, {
+					"manifestId": "https://digital.dombibliothek-koeln.de/hs/i3f/v20/168520/manifest",
+					"location": "Dombibliothek Ku00f6ln"
+				}, {
+					"manifestId": "https://digital.dombibliothek-koeln.de/hs/i3f/v20/224557/manifest",
+					"location": "Dombibliothek Ku00f6ln"
+				}, {
+					"manifestId": "https://digital.dombibliothek-koeln.de/hs/i3f/v20/171998/manifest",
+					"location": "Dombibliothek Ku00f6ln"
+				}, {
+					"manifestId": "https://digital.dombibliothek-koeln.de/hs/i3f/v20/169979/manifest",
+					"location": "Dombibliothek Ku00f6ln"
+				}, {
+					"manifestId": "https://digital.dombibliothek-koeln.de/hs/i3f/v20/270250/manifest",
+					"location": "Dombibliothek Ku00f6ln"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/ubb-F-III-0008/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/ubb-F-III-0015/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/bbb-0347/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/bbb-0611/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/ubb-F-III-0015a/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/bcuf-L0309/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0111/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/zbz-C0062/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0315/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0266/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0321/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/bge-lat0050/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0184/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0225/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0459/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0397/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0248/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0250/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0251/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0732/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0878/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0899/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/bbb-0207/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0051/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0238/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0913/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0124/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/ubb-F-III-0015f/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0319/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0339/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0340/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0341/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0342/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0378/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0380/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0338/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0413/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0387/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0450/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0376/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0866/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0827/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0414/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0381/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0610/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0453/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/csg-0902/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/ubb-AN-IV-0018/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/ubb-F-III-0025/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/fmb-cb-0188/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0029/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0358/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/sbe-0319/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/zbz-C0125/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/bcuf-L0293/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/hba-chart0139/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://www.e-codices.unifr.ch/metadata/iiif/zbs-SI-0167/manifest.json",
+					"location": "E-Codices"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90768211/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9076956k/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90783104/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9076778g/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9067670v/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8529701g/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9072417h/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8552412w/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90726428/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066920p/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452179s/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105458488/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8492138z/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9078152s/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85409594/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84323098/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10721203n/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10502052p/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90665291/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065953r/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9072594n/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90784129/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90782183/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9072622h/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9078321x/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065955k/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9078262h/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432469w/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6001113z/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84900617/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90783972/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9076834n/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90807799/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105110031/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9067149q/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9078367x/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9076751t/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8423833p/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52506589n/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515892q/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065879n/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9065920c/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85722454/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154335/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9072585p/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066990b/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9076751t/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90671222/f1.image/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000718s/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066535r/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b85722454/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10224563x/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9067241r/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9076527g/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432307f/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b84900936/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9068096b/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b90782205/manifest.json",
+					"location": "Gallica"
+				}, {
+					"manifestId": "https://iiif.lib.harvard.edu/manifests/drs:6650256",
+					"location": "Houghton Library, Harvard University"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046289/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00035053/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046640/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00064057/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065770/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00047183/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046449/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00048179/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065170/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00051024/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00042784/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00035463/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046640/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046572/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00033074/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103303/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065777/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046287/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046471/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065770/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00047183/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046449/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00048179/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065170/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00051024/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00042784/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00035463/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046640/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046572/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00033074/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046287/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046471/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00064057/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00065777/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00103303/manifest",
+					"location": "MDZ"
+				}, {
+					"manifestId": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/manifest.json",
+					"location": "Parker Library"
+				}, {
+					"manifestId": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/manifest.json",
+					"location": "Parker Library"
+				}, {
+					"manifestId": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/manifest.json",
+					"location": "Parker Library"
+				}, {
+					"manifestId": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/manifest.json",
+					"location": "Parker Library"
+				}, {
+					"manifestId": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/manifest.json",
+					"location": "Parker Library"
+				}, {
+					"manifestId": "https://digi.ub.uni-heidelberg.de/diglit/iiif3/sal9b/manifest",
+					"location": "UB Heidelberg"
+				}
+			];
