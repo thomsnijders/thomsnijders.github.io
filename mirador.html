@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>Mirador Viewer: Browse 253 computistical and calendrical manuscripts</title>
+		<script src="http://requirejs.org/docs/release/2.1.5/comments/require.js">
 		<script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
 	</head>
@@ -20,7 +21,7 @@
            },
          },
        },
-	   catalog: include("iiif-catalog.json")
+	   catalog: require("iiif-catalog.json")
 	   });
 		</script>
 	</body>
