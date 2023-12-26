@@ -74,7 +74,11 @@
 		
 	var LocationsOfPreservation = L.layerGroup();
 			
-	function color(val) {
+	var color = [];
+    color.push("9D9D9D", "00E18B", "00DD47", "00D904", "3BD500", "79D200", "B5CE00", "CAA600", "C66700", "C22B00", "BF000E");
+
+			
+	function colors(val) {
 		if(val == 0){
 			return "#" + color[0];
 		}
@@ -107,8 +111,8 @@
 	$.each(data.LocationsOfPreservation, function(index, LocationOfPreservation) {
 		if(LocationOfPreservation.lat !== null && LocationOfPreservation.lng !== null) {
 		marker = new L.circleMarker([LocationOfPreservation.lat,LocationOfPreservation.lng], {
-			color: color(LocationOfPreservation.MSCount),
-			fillColor: color(LocationOfPreservation.MSCount),
+			color: colors(LocationOfPreservation.MSCount),
+			fillColor: colors(LocationOfPreservation.MSCount),
 			fillOpacity: 0.5,
 			radius: 5
 		}).bindPopup("<strong>" + LocationOfPreservation.Location + " " + LocationOfPreservation.Institution + "</strong><br>" + LocationOfPreservation.MSCount + " computistical manuscripts<br><br>");
@@ -123,8 +127,8 @@
 	$.each(data.PlacesOfOrigin, function(index, PlaceOfOrigin) {
 		if(PlaceOfOrigin.lat !== null && PlaceOfOrigin.lng !== null) {
 		marker = new L.circleMarker([PlaceOfOrigin.lat,PlaceOfOrigin.lng], {
-			color: color(PlaceOfOrigin.MSCount),
-			fillColor: color(PlaceOfOrigin.MSCount),
+			color: colors(PlaceOfOrigin.MSCount),
+			fillColor: colors(PlaceOfOrigin.MSCount),
 			fillOpacity: 0.5,
 			radius: 5
 		}).bindPopup("<strong>" + PlaceOfOrigin.Label + "</strong><br>" + PlaceOfOrigin.MSCount + " computistical manuscripts<br><br>" + "<a href='//computus.lat/origin/" + PlaceOfOrigin.MetaID + "' target='_blank'>Browse</a>")
