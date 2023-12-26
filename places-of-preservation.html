@@ -72,11 +72,74 @@
     var hdr = L.control.header({ position: 'topleft' }).addTo(map);
     map.zoomControl.setPosition('bottomright');
 		
-    Maps.render(data, map);
- 
-	
+	var LocationsOfPreservation = L.layerGroup();
+			
+	function color(val) {
+		if(val == 0){
+			return "#" + color[0];
+		}
 
+		if(val == 1){
+			return "#"+ color[3];
+		}
+
+		if(val > 1 && val <= 5){
+			return "#" + color[5];
+		}
+
+		if(val > 5 && val <= 25){
+			return "#" + color[7];
+		}
+
+		if(val > 25 && val <= 50){
+			return "#" + color[8];
+		}
+
+		if(val > 50 && val <= 75){
+			return "#" + color[9];
+		}
+
+		if(val > 75){
+			return "#" + color[10];
+		}
+	}
+			
+	$.each(data.LocationsOfPreservation, function(index, LocationOfPreservation) {
+		if(LocationOfPreservation.lat !== null && LocationOfPreservation.lng !== null) {
+		marker = new L.circleMarker([LocationOfPreservation.lat,LocationOfPreservation.lng], {
+			color: Methods.color(LocationOfPreservation.MSCount),
+			fillColor: Methods.color(LocationOfPreservation.MSCount),
+			fillOpacity: 0.5,
+			radius: 5
+		}).bindPopup("<strong>" + LocationOfPreservation.Location + " " + LocationOfPreservation.Institution + "</strong><br>" + LocationOfPreservation.MSCount + " computistical manuscripts<br><br>" +
+					  "<a href='//computus.lat/lib/" + LocationOfPreservation.MetaID + "' target='_blank'>Browse</a>");
+		marker.addTo(LocationsOfPreservation);
+		}
+	});
+
+	LocationsOfPreservation.addTo(map);
 	
+	  var PlacesOfOrigin = L.layerGroup();
+	
+	$.each(data.PlacesOfOrigin, function(index, PlaceOfOrigin) {
+		if(PlaceOfOrigin.lat !== null && PlaceOfOrigin.lng !== null) {
+		marker = new L.circleMarker([PlaceOfOrigin.lat,PlaceOfOrigin.lng], {
+			color: Methods.color(PlaceOfOrigin.MSCount),
+			fillColor: Methods.color(PlaceOfOrigin.MSCount),
+			fillOpacity: 0.5,
+			radius: 5
+		}).bindPopup("<strong>" + PlaceOfOrigin.Label + "</strong><br>" + PlaceOfOrigin.MSCount + " computistical manuscripts<br><br>" + "<a href='//computus.lat/origin/" + PlaceOfOrigin.MetaID + "' target='_blank'>Browse</a>")
+
+		marker.addTo(PlacesOfOrigin);
+		}
+	});
+
+	var overlayMaps = {
+		"Libraries of preservation": LocationsOfPreservation,
+		"Places of origin": PlacesOfOrigin
+	};
+
+	L.control.layers(null, overlayMaps).addTo(map);
 
 </script>
 
