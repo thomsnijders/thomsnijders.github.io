@@ -106,8 +106,8 @@
 		}
 	}
 	
-	
-	$.getJSON( places-of-preservation.json", function( data ) {
+
+	$.getJSON("places-of-preservation.json", function( data ) {
 		$.each(data.LocationsOfPreservation, function(index, LocationOfPreservation) {
 			if(LocationOfPreservation.lat !== null && LocationOfPreservation.lng !== null) {
 			marker = new L.circleMarker([LocationOfPreservation.lat,LocationOfPreservation.lng], {
