@@ -9,6 +9,9 @@
 		<div id="my-mirador"/></div>
 
 		<script type="text/javascript">
+		var IIIFCatalog = require("iiif-catalog.json");
+		console.log(IIIFCatalog);
+		
 		var mirador = Mirador.viewer({
 		  "id": "my-mirador",
 			themes: {
@@ -21,7 +24,7 @@
            },
          },
        },
-	   catalog: require("iiif-catalog.json")
+	   catalog: []
 	   });
 		</script>
 	</body>
