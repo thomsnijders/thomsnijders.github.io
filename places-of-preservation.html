@@ -107,8 +107,8 @@
 	$.each(data.LocationsOfPreservation, function(index, LocationOfPreservation) {
 		if(LocationOfPreservation.lat !== null && LocationOfPreservation.lng !== null) {
 		marker = new L.circleMarker([LocationOfPreservation.lat,LocationOfPreservation.lng], {
-			color: Methods.color(LocationOfPreservation.MSCount),
-			fillColor: Methods.color(LocationOfPreservation.MSCount),
+			color: color(LocationOfPreservation.MSCount),
+			fillColor: color(LocationOfPreservation.MSCount),
 			fillOpacity: 0.5,
 			radius: 5
 		}).bindPopup("<strong>" + LocationOfPreservation.Location + " " + LocationOfPreservation.Institution + "</strong><br>" + LocationOfPreservation.MSCount + " computistical manuscripts<br><br>");
@@ -123,8 +123,8 @@
 	$.each(data.PlacesOfOrigin, function(index, PlaceOfOrigin) {
 		if(PlaceOfOrigin.lat !== null && PlaceOfOrigin.lng !== null) {
 		marker = new L.circleMarker([PlaceOfOrigin.lat,PlaceOfOrigin.lng], {
-			color: Methods.color(PlaceOfOrigin.MSCount),
-			fillColor: Methods.color(PlaceOfOrigin.MSCount),
+			color: color(PlaceOfOrigin.MSCount),
+			fillColor: color(PlaceOfOrigin.MSCount),
 			fillOpacity: 0.5,
 			radius: 5
 		}).bindPopup("<strong>" + PlaceOfOrigin.Label + "</strong><br>" + PlaceOfOrigin.MSCount + " computistical manuscripts<br><br>" + "<a href='//computus.lat/origin/" + PlaceOfOrigin.MetaID + "' target='_blank'>Browse</a>")
