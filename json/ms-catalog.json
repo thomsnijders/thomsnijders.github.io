@@ -36,7 +36,7 @@
 		"Shelfmark": "Angers, Bibliothèque Municipale, 476 (460)",
 		"Digitalizations": "//bvmm.irht.cnrs.fr/mirador/index.php?manifest=https%3A%2F%2Fbvmm.irht.cnrs.fr%2Fiiif%2F4663%2Fmanifest",
 		"IIIF": "//bvmm.irht.cnrs.fr/iiif/4663/manifest",
-		"Schriften": "An → Ser. nov. (pp. 951-1008)<br>An → Vers. Tur. (pp. 795-819)",
+		"Schriften": "An → Ser. nov. (pp. 951-1008), An → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": null
 	},
 	{
@@ -84,7 +84,7 @@
 		"Shelfmark": "Avignon, Bibliothèque Municipale, 175",
 		"Digitalizations": "//bvmm.irht.cnrs.fr/mirador/index.php?manifest=https://bvmm.irht.cnrs.fr/iiif/19171/manifest",
 		"IIIF": "//bvmm.irht.cnrs.fr/iiif/19171/manifest",
-		"Schriften": "Av → Lib. comp. (pp. 1054-1334)<br>Av → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Av → Lib. comp. (pp. 1054-1334), Av → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -100,7 +100,7 @@
 		"Shelfmark": "Baltimore, Walters Art Gallery, W 73",
 		"Digitalizations": "//art.thewalters.org/detail/32220",
 		"IIIF": "",
-		"Schriften": "Ba → Lib. ann. (pp. 660-772)<br>Ba → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ba → Lib. ann. (pp. 660-772), Ba → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -124,7 +124,7 @@
 		"Shelfmark": "Bamberg, Staatsbibliothek, 55",
 		"Digitalizations": "//zendsbb.digitale-sammlungen.de/db/0000/sbb00000113/images/index.html",
 		"IIIF": "",
-		"Schriften": "Bb → Lib. ann. (pp. 660-772)<br>Bb → Lib. comp. (pp. 1054-1334)<br>Bb → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Bb → Lib. ann. (pp. 660-772), Bb → Lib. comp. (pp. 1054-1334), Bb → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -164,7 +164,7 @@
 		"Shelfmark": "Bamberg, Staatsbibliothek, 63",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Bd → Lib. comp. (pp. 1054-1334)<br>Bd → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Bd → Lib. comp. (pp. 1054-1334), Bd → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -268,7 +268,7 @@
 		"Shelfmark": "Berlin, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, 1830",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Bf → Lib. ann. (pp. 660-772)<br>Bf → Lib. calc. (pp. 1367-1454)<br>Bf → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Bf → Lib. ann. (pp. 660-772), Bf → Lib. calc. (pp. 1367-1454), Bf → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -276,15 +276,15 @@
 		"Shelfmark": "Berlin, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, 1831",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Bg → Dial. Longob. (pp. 424-461)<br>Bg → Dial. Neustr. (pp. 375-423)<br>Bg → Lect. comp. (pp. 527-659)<br>Bg → Lib. ann. (pp. 660-772)<br>Bg → Lib. comp. (pp. 1054-1334)<br>Bg → Quaest. Longob. (pp. 509-526)",
-		"Reichskalender": "B1 (1r-6r) → Italiensche Fassung (pp. 100-102)<br>b2 (135r-137v) → Kalendarium Veronense (pp. 115-116)"
+		"Schriften": "Bg → Dial. Longob. (pp. 424-461), Bg → Dial. Neustr. (pp. 375-423), Bg → Lect. comp. (pp. 527-659), Bg → Lib. ann. (pp. 660-772), Bg → Lib. comp. (pp. 1054-1334), Bg → Quaest. Longob. (pp. 509-526)",
+		"Reichskalender": "B1 (1r-6r) → Italiensche Fassung (pp. 100-102), b2 (135r-137v) → Kalendarium Veronense (pp. 115-116)"
 	},
 	{
 		"MSID": 35,
 		"Shelfmark": "Berlin, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, 1832",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Bh → Lib. calc. (pp. 1367-1454)<br>Bh → Lib. comp. (pp. 1054-1334)<br>Bh → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Bh → Lib. calc. (pp. 1367-1454), Bh → Lib. comp. (pp. 1054-1334), Bh → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -300,7 +300,7 @@
 		"Shelfmark": "Berlin, Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, 1869",
 		"Digitalizations": "//bibliotheca-laureshamensis-digital.de/view/sbb-pk_msphillipps1869",
 		"IIIF": "",
-		"Schriften": "Bi → Lib. ann. (pp. 660-772)<br>Bi → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Bi → Lib. ann. (pp. 660-772), Bi → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "A1 (1r-11v) → Rheinfränkische Fassung (pp. 56-59)"
 	},
 	{
@@ -340,7 +340,7 @@
 		"Shelfmark": "Bern, Burgerbibliothek, 83",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Bn → Lib. comp. (pp. 1054-1334)<br>Bn → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Bn → Lib. comp. (pp. 1054-1334), Bn → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -365,7 +365,7 @@
 		"Digitalizations": null,
 		"IIIF": null,
 		"Schriften": null,
-		"Reichskalender": "e3d (26v-27r) → Abbo Kalendarium (pp. 216-216)<br>e3c (21r-22v) → Abbo Kalendarium (pp. 216-216)<br>e3b (15r-17v) → Abbo Kalendarium (pp. 215-215)<br>e3a (12v) → Abbo Kalendarium (pp. 214-215)"
+		"Reichskalender": "e3d (26v-27r) → Abbo Kalendarium (pp. 216-216), e3c (21r-22v) → Abbo Kalendarium (pp. 216-216), e3b (15r-17v) → Abbo Kalendarium (pp. 215-215), e3a (12v) → Abbo Kalendarium (pp. 214-215)"
 	},
 	{
 		"MSID": 40,
@@ -436,7 +436,7 @@
 		"Shelfmark": "Bern, Burgerbibliothek, 417",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Bo → Lect. comp. (pp. 527-659)<br>Bo → Lib. ann. (pp. 660-772)<br>Bo → Lib. calc. (pp. 1367-1454)<br>Bo → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Bo → Lect. comp. (pp. 527-659), Bo → Lib. ann. (pp. 660-772), Bo → Lib. calc. (pp. 1367-1454), Bo → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -468,7 +468,7 @@
 		"Shelfmark": "Besançon, Bibliothèque Municipale, 186",
 		"Digitalizations": "//memoirevive.besancon.fr/ark:/48565/fl7xr2js3k6d/e5737117-226e-4069-999f-ea1fc7760b9b",
 		"IIIF": "",
-		"Schriften": "Bs → Lib. ann. (pp. 660-772)<br>Bs → Lib. calc. (pp. 1367-1454)<br>Bs → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Bs → Lib. ann. (pp. 660-772), Bs → Lib. calc. (pp. 1367-1454), Bs → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -476,8 +476,8 @@
 		"Shelfmark": "Bordeaux, Bibliothèque Municipale, 11",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Bu → Lib. ann. (pp. 660-772)<br>Bu → Lib. calc. (pp. 1367-1454)<br>Bu → Lib. comp. (pp. 1054-1334)<br>Bu → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "h1b (4r-5v) → Bernold Kalendarium (pp. 320-320)<br>g4 (190r-191r) → Kalendarium Silvaemaioris (pp. 283-285)"
+		"Schriften": "Bu → Lib. ann. (pp. 660-772), Bu → Lib. calc. (pp. 1367-1454), Bu → Lib. comp. (pp. 1054-1334), Bu → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "h1b (4r-5v) → Bernold Kalendarium (pp. 320-320), g4 (190r-191r) → Kalendarium Silvaemaioris (pp. 283-285)"
 	},
 	{
 		"MSID": 404,
@@ -532,7 +532,7 @@
 		"Shelfmark": "Brussels, Koninklijke Bibliotheek Albert I, 5413-22",
 		"Digitalizations": "//uurl.kbr.be/1449095",
 		"IIIF": "",
-		"Schriften": "Bx → Lib. comp. (pp. 1054-1334)<br>Bx → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Bx → Lib. comp. (pp. 1054-1334), Bx → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -596,7 +596,7 @@
 		"Shelfmark": "Cambridge, Corpus Christi College Library, 291",
 		"Digitalizations": "//parker.stanford.edu/parker/catalog/pj101rk1280",
 		"IIIF": "//dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/manifest.json",
-		"Schriften": "Cm → Lect. comp. (pp. 527-659)<br>Cm → Lib. ann. (pp. 660-772)<br>Cm → Lib. calc. (pp. 1367-1454)<br>Cm → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Cm → Lect. comp. (pp. 527-659), Cm → Lib. ann. (pp. 660-772), Cm → Lib. calc. (pp. 1367-1454), Cm → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -732,7 +732,7 @@
 		"Shelfmark": "Cologne, Erzbischöfliche Diözesan- und Dombibliothek, 83-II (83-2)",
 		"Digitalizations": "//digital.dombibliothek-koeln.de/hs/content/titleinfo/168520",
 		"IIIF": "//digital.dombibliothek-koeln.de/hs/i3f/v20/168520/manifest",
-		"Schriften": "Ko → Add. Col. (pp. 773-794)<br>Ko → Comp. Col. (pp. 885-950)<br>Ko → Lect. comp. (pp. 527-659)<br>Ko → Quaest. Austr. (pp. 462-508)<br>Ko → Quaest. Longob. (pp. 509-526)",
+		"Schriften": "Ko → Add. Col. (pp. 773-794), Ko → Comp. Col. (pp. 885-950), Ko → Lect. comp. (pp. 527-659), Ko → Quaest. Austr. (pp. 462-508), Ko → Quaest. Longob. (pp. 509-526)",
 		"Reichskalender": "A4 (72v-76r) → Rheinfränkische Fassung (pp. 62-63)"
 	},
 	{
@@ -756,7 +756,7 @@
 		"Shelfmark": "Cologne, Erzbischöfliche Diözesan- und Dombibliothek, 103",
 		"Digitalizations": "//digital.dombibliothek-koeln.de/hs/content/titleinfo/224557",
 		"IIIF": "//digital.dombibliothek-koeln.de/hs/i3f/v20/224557/manifest",
-		"Schriften": "Kp → Lect. comp. (pp. 527-659)<br>Kp → Lib. ann. (pp. 660-772)<br>Kp → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Kp → Lect. comp. (pp. 527-659), Kp → Lib. ann. (pp. 660-772), Kp → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "A5 (3r-8v) → Rheinfränkische Fassung (pp. 63-65)"
 	},
 	{
@@ -820,7 +820,7 @@
 		"Shelfmark": "Darmstadt, Landes- und Hochschulbibliothek, 1020",
 		"Digitalizations": "//tudigit.ulb.tu-darmstadt.de/show/Hs-1020",
 		"IIIF": "",
-		"Schriften": "Da → Lect. comp. (pp. 527-659)<br>Da → Lib. ann. (pp. 660-772)<br>Da → Lib. calc. (pp. 1367-1454)<br>Da → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Da → Lect. comp. (pp. 527-659), Da → Lib. ann. (pp. 660-772), Da → Lib. calc. (pp. 1367-1454), Da → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "F8 (9r-14v) → Ostfränkische Fassung (pp. 237-239)"
 	},
 	{
@@ -836,7 +836,7 @@
 		"Shelfmark": "Dijon, Bibliothèque Municipale, 448",
 		"Digitalizations": "//warburg-archive.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=9&cat_2=71&cat_3=32&cat_4=39&cat_5=975&cat_6=452&cat_7=233, //www.enluminures.culture.fr/documentation/enlumine/fr/BM/dijon_161-01.htm",
 		"IIIF": ", ",
-		"Schriften": "Di → Lect. comp. (pp. 527-659)<br>Di → Lib. ann. (pp. 660-772)<br>Di → Lib. comp. (pp. 1054-1334)<br>Di → Ser. nov. (pp. 951-1008)<br>Di → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Di → Lect. comp. (pp. 527-659), Di → Lib. ann. (pp. 660-772), Di → Lib. comp. (pp. 1054-1334), Di → Ser. nov. (pp. 951-1008), Di → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": "G4 (88r-92v) → Westeuropäische Fassung (pp. 276-278)"
 	},
 	{
@@ -860,7 +860,7 @@
 		"Shelfmark": "Durham, Cathedral Library, 100",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Du → Lib. ann. (pp. 660-772)<br>Du → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Du → Lib. ann. (pp. 660-772), Du → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "g11 (2r-7v) → Kalendarium Dunelmense (pp. 294-295)"
 	},
 	{
@@ -940,7 +940,7 @@
 		"Shelfmark": "Einsiedeln, Stiftsbibliothek, 321",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/sbe/0321",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/sbe-0321/manifest.json",
-		"Schriften": "Ek → Epist. Rat. (pp. 1021-1033)<br>Ek → Lect. comp. (pp. 527-659)<br>Ek → Lib. ann. (pp. 660-772)<br>Ek → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ek → Epist. Rat. (pp. 1021-1033), Ek → Lect. comp. (pp. 527-659), Ek → Lib. ann. (pp. 660-772), Ek → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "c7 (28-40) → Kalendarium Argentinense (pp. 152-153)"
 	},
 	{
@@ -972,7 +972,7 @@
 		"Shelfmark": "El Escorial, Real Biblioteca del Monasterio de San Lorenzo, C IV 10 (100 4 10)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Es → Lib. ann. (pp. 660-772)<br>Es → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Es → Lib. ann. (pp. 660-772), Es → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -980,7 +980,7 @@
 		"Shelfmark": "El Escorial, Real Biblioteca del Monasterio de San Lorenzo, L III 8 (50 3 8)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Et → Lect. comp. (pp. 527-659)<br>Et → Lib. calc. (pp. 1367-1454)<br>Et → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Et → Lect. comp. (pp. 527-659), Et → Lib. calc. (pp. 1367-1454), Et → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1052,7 +1052,7 @@
 		"Shelfmark": "Florence, Biblioteca Medicea Laurenziana, XXIX 24 (29 24)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Fi → Lib. ann. (pp. 660-772)<br>Fi → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Fi → Lib. ann. (pp. 660-772), Fi → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1100,7 +1100,7 @@
 		"Shelfmark": "Freiburg im Breisgau, Erzbischöfliche Archiv, 35",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Fr → Lib. ann. (pp. 660-772)<br>Fr → Lib. calc. (pp. 1367-1454)<br>Fr → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Fr → Lib. ann. (pp. 660-772), Fr → Lib. calc. (pp. 1367-1454), Fr → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1180,7 +1180,7 @@
 		"Shelfmark": "Geneva, Bibliotheque Publique et Universitaire, 50",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/bge/lat0050",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/bge-lat0050/manifest.json",
-		"Schriften": "Ge → Lect. comp. (pp. 527-659)<br>Ge → Lib. calc. (pp. 1367-1454)<br>Ge → Lib. comp. (pp. 1054-1334)<br>Ge → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Ge → Lect. comp. (pp. 527-659), Ge → Lib. calc. (pp. 1367-1454), Ge → Lib. comp. (pp. 1054-1334), Ge → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": "D2 (18r-23v) → Aachener enzyklopädische Fassung (pp. 180-181)"
 	},
 	{
@@ -1252,7 +1252,7 @@
 		"Shelfmark": "Ivrea, Biblioteca Capitolare, XXXVII (37)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Iv → Lect. comp. (pp. 527-659)<br>Iv → Lib. ann. (pp. 660-772)<br>Iv → Lib. calc. (pp. 1367-1454)<br>Iv → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Iv → Lect. comp. (pp. 527-659), Iv → Lib. ann. (pp. 660-772), Iv → Lib. calc. (pp. 1367-1454), Iv → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "D7 (1r-7v) → Aachener enzyklopädische Fassung (pp. 185-186)"
 	},
 	{
@@ -1276,7 +1276,7 @@
 		"Shelfmark": "Karlsruhe, Landesbibliothek, CLXVII (167)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Ka → Lect. comp. (pp. 527-659)<br>Ka → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ka → Lect. comp. (pp. 527-659), Ka → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "F2 (16v-17v) → Ostfränkische Fassung (pp. 228-230)"
 	},
 	{
@@ -1284,7 +1284,7 @@
 		"Shelfmark": "Karlsruhe, Landesbibliothek, CCXXIX (229)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Kb → Lect. comp. (pp. 527-659)<br>Kb → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Kb → Lect. comp. (pp. 527-659), Kb → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1332,7 +1332,7 @@
 		"Shelfmark": "Karlsruhe, Landesbibliothek, 106",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Kc → Lect. comp. (pp. 527-659)<br>Kc → Lib. ann. (pp. 660-772)<br>Kc → Lib. calc. (pp. 1367-1454)<br>Kc → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Kc → Lect. comp. (pp. 527-659), Kc → Lib. ann. (pp. 660-772), Kc → Lib. calc. (pp. 1367-1454), Kc → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1404,7 +1404,7 @@
 		"Shelfmark": "Laon, Bibliothèque Municipale, 422",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b8492138z",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b8492138z/manifest.json",
-		"Schriften": "La → Lect. comp. (pp. 527-659)<br>La → Lib. ann. (pp. 660-772)<br>La → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "La → Lect. comp. (pp. 527-659), La → Lib. ann. (pp. 660-772), La → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1437,7 +1437,7 @@
 		"Digitalizations": null,
 		"IIIF": null,
 		"Schriften": "Le → Vers. Tur. (pp. 795-819)",
-		"Reichskalender": "e7 (7v-13r) → Kalendarium Scaligeranum (pp. 221-222)<br>e1a (41v-94r) → Wandalbert Martyrologium (pp. 209-209)"
+		"Reichskalender": "e7 (7v-13r) → Kalendarium Scaligeranum (pp. 221-222), e1a (41v-94r) → Wandalbert Martyrologium (pp. 209-209)"
 	},
 	{
 		"MSID": 656,
@@ -1764,7 +1764,7 @@
 		"Shelfmark": "London, British Library, Tiberius B V Part I (Tiberius B 4 Part 1)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Lo → Lib. ann. (pp. 660-772)<br>Lo → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Lo → Lib. ann. (pp. 660-772), Lo → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "c17 (2v-8v) → Kalendarium Hampsonianum II (pp. 168-169)"
 	},
 	{
@@ -1772,7 +1772,7 @@
 		"Shelfmark": "London, British Library, Tiberius C I (Tiberius 100 1)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Lp → Lect. comp. (pp. 527-659)<br>Lp → Lib. ann. (pp. 660-772)<br>Lp → Lib. calc. (pp. 1367-1454)<br>Lp → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Lp → Lect. comp. (pp. 527-659), Lp → Lib. ann. (pp. 660-772), Lp → Lib. calc. (pp. 1367-1454), Lp → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1852,7 +1852,7 @@
 		"Shelfmark": "London, British Library, 647",
 		"Digitalizations": "//www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_647&index=8",
 		"IIIF": "",
-		"Schriften": "Lq → Lib. calc. (pp. 1367-1454)<br>Lq → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Lq → Lib. calc. (pp. 1367-1454), Lq → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -1876,7 +1876,7 @@
 		"Shelfmark": "London, British Library, 3017",
 		"Digitalizations": "//www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_3017",
 		"IIIF": "",
-		"Schriften": "Ls → Arg. Aquens. (pp. 1350-1366)<br>Ls → Lect. comp. (pp. 527-659)<br>Ls → Lib. ann. (pp. 660-772)<br>Ls → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ls → Arg. Aquens. (pp. 1350-1366), Ls → Lect. comp. (pp. 527-659), Ls → Lib. ann. (pp. 660-772), Ls → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "C5 (22r-31v) → Westfränkische Fassung (pp. 135-136)"
 	},
 	{
@@ -2020,7 +2020,7 @@
 		"Shelfmark": "London, British Library, 13 A XI (13 A 11)",
 		"Digitalizations": "//www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_13_a_xi_fs001r",
 		"IIIF": "",
-		"Schriften": "Lu → Lib. ann. (pp. 660-772)<br>Lu → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Lu → Lib. ann. (pp. 660-772), Lu → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -2028,7 +2028,7 @@
 		"Shelfmark": "London, British Library, 263",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Lv → Lect. comp. (pp. 527-659)<br>Lv → Lib. ann. (pp. 660-772)<br>Lv → Lib. comp. (pp. 1054-1334)<br>Lv → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Lv → Lect. comp. (pp. 527-659), Lv → Lib. ann. (pp. 660-772), Lv → Lib. comp. (pp. 1054-1334), Lv → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": "g1 (34r-38r) → Kalendarium Lugdunense (pp. 280-281)"
 	},
 	{
@@ -2092,7 +2092,7 @@
 		"Shelfmark": "Madrid, Biblioteca Nacional de España, 3307",
 		"Digitalizations": "//bdh-rd.bne.es/viewer.vm?id=0000122617&page=1",
 		"IIIF": "",
-		"Schriften": "Mb → Lib. ann. (pp. 660-772)<br>Mb → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Mb → Lib. ann. (pp. 660-772), Mb → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "D1 (5r-6v, 79r-80v) → Aachener enzyklopädische Fassung (pp. 178-180)"
 	},
 	{
@@ -2100,7 +2100,7 @@
 		"Shelfmark": "Madrid, Biblioteca Nacional de España, 9605 (E e 40)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Mc → Claudius Ser. (pp. 1335-1349)<br>Mc → Lect. comp. (pp. 527-659)<br>Mc → Lib. ann. (pp. 660-772)<br>Mc → Lib. calc. (pp. 1367-1454)<br>Mc → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Mc → Claudius Ser. (pp. 1335-1349), Mc → Lect. comp. (pp. 527-659), Mc → Lib. ann. (pp. 660-772), Mc → Lib. calc. (pp. 1367-1454), Mc → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "G2 (27v-37v) → Westeuropäische Fassung (pp. 272-274)"
 	},
 	{
@@ -2109,7 +2109,7 @@
 		"Digitalizations": null,
 		"IIIF": null,
 		"Schriften": null,
-		"Reichskalender": "g7 (6r-11v) → Kalendarium Aemilianense (pp. 287-287)<br>c19b (2r-3v) → Kalendarium Albeldense (pp. 175-175)<br>c20b (1r-v) → Kalendarium Silense (pp. 177-178)"
+		"Reichskalender": "g7 (6r-11v) → Kalendarium Aemilianense (pp. 287-287), c19b (2r-3v) → Kalendarium Albeldense (pp. 175-175), c20b (1r-v) → Kalendarium Silense (pp. 177-178)"
 	},
 	{
 		"MSID": 666,
@@ -2188,8 +2188,8 @@
 		"Shelfmark": "Milan, Biblioteca Ambrosiana, D 48 inferior",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Mk → Lib. ann. (pp. 660-772)<br>Mk → Lib. comp. (pp. 1054-1334)",
-		"Reichskalender": "i2 (163v) → Imago temporum Salisburgensis (pp. 337-338)<br>b8 (101r-108v) → Kalendarium Derthonense (pp. 123-124)"
+		"Schriften": "Mk → Lib. ann. (pp. 660-772), Mk → Lib. comp. (pp. 1054-1334)",
+		"Reichskalender": "i2 (163v) → Imago temporum Salisburgensis (pp. 337-338), b8 (101r-108v) → Kalendarium Derthonense (pp. 123-124)"
 	},
 	{
 		"MSID": 165,
@@ -2300,7 +2300,7 @@
 		"Shelfmark": "Montecassino, Archivio della Badia, 3",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Mo → Lect. comp. (pp. 527-659)<br>Mo → Lib. ann. (pp. 660-772)<br>Mo → Lib. comp. (pp. 1054-1334)<br>Mo → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Mo → Lect. comp. (pp. 527-659), Mo → Lib. ann. (pp. 660-772), Mo → Lib. comp. (pp. 1054-1334), Mo → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -2324,7 +2324,7 @@
 		"Shelfmark": "Montpellier, Bibliothèque Interuniversitaire, 157",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Mp → Lib. ann. (pp. 660-772)<br>Mp → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Mp → Lib. ann. (pp. 660-772), Mp → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -2340,7 +2340,7 @@
 		"Shelfmark": "Montpellier, Bibliothèque Interuniversitaire, 306",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Mq → Lib. comp. (pp. 1054-1334)<br>Mq → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Mq → Lib. comp. (pp. 1054-1334), Mq → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -2348,7 +2348,7 @@
 		"Shelfmark": "Montpellier, Bibliothèque Interuniversitaire, 334",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Mr → Lib. ann. (pp. 660-772)<br>Mr → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Mr → Lib. ann. (pp. 660-772), Mr → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -2356,7 +2356,7 @@
 		"Shelfmark": "Montpellier, Bibliothèque Interuniversitaire, 384",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Ms → Lect. comp. (pp. 527-659)<br>Ms → Lib. ann. (pp. 660-772)<br>Ms → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ms → Lect. comp. (pp. 527-659), Ms → Lib. ann. (pp. 660-772), Ms → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -2372,7 +2372,7 @@
 		"Shelfmark": "Monza, Biblioteca Capitolare, F IX 176 (F 9 176)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Mt → Lib. ann. (pp. 660-772)<br>Mt → Lib. calc. (pp. 1367-1454)<br>Mt → Lib. comp. (pp. 1054-1334)<br>Mt → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Mt → Lib. ann. (pp. 660-772), Mt → Lib. calc. (pp. 1367-1454), Mt → Lib. comp. (pp. 1054-1334), Mt → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": "D4 (11r-17r) → Aachener enzyklopädische Fassung (pp. 182-183)"
 	},
 	{
@@ -2388,8 +2388,8 @@
 		"Shelfmark": "Munich, Bayerische Staatsbibliothek, 210",
 		"Digitalizations": "//www.digitale-sammlungen.de/en/view/bsb00047183?page=,1, //www.digitale-sammlungen.de/en/view/bsb00047183?page=,1",
 		"IIIF": "//api.digitale-sammlungen.de/iiif/presentation/v2/bsb00047183/manifest, //api.digitale-sammlungen.de/iiif/presentation/v2/bsb00047183/manifest",
-		"Schriften": "Mu → Lib. ann. (pp. 660-772)<br>Mu → Lib. calc. (pp. 1367-1454)<br>Mu → Lib. comp. (pp. 1054-1334)<br>Mu → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "E4 (145v-162v) → Salzburger enzyklopädische Fassung (pp. 202-204)<br>E1 (7v-15v) → Salzburger enzyklopädische Fassung (pp. 197-198)"
+		"Schriften": "Mu → Lib. ann. (pp. 660-772), Mu → Lib. calc. (pp. 1367-1454), Mu → Lib. comp. (pp. 1054-1334), Mu → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "E4 (145v-162v) → Salzburger enzyklopädische Fassung (pp. 202-204), E1 (7v-15v) → Salzburger enzyklopädische Fassung (pp. 197-198)"
 	},
 	{
 		"MSID": 555,
@@ -2460,7 +2460,7 @@
 		"Shelfmark": "Munich, Bayerische Staatsbibliothek, 10270",
 		"Digitalizations": "//www.digitale-sammlungen.de/en/view/bsb00051024?page=,1, //www.digitale-sammlungen.de/en/view/bsb00051024?page=,1",
 		"IIIF": "//api.digitale-sammlungen.de/iiif/presentation/v2/bsb00051024/manifest, //api.digitale-sammlungen.de/iiif/presentation/v2/bsb00051024/manifest",
-		"Schriften": "Mv → Lect. comp. (pp. 527-659)<br>Mv → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Mv → Lect. comp. (pp. 527-659), Mv → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -2508,7 +2508,7 @@
 		"Shelfmark": "Munich, Bayerische Staatsbibliothek, 14221",
 		"Digitalizations": "//www.digitale-sammlungen.de/en/view/bsb00035463?page=,1, //www.digitale-sammlungen.de/en/view/bsb00035463?page=,1",
 		"IIIF": "//api.digitale-sammlungen.de/iiif/presentation/v2/bsb00035463/manifest, //api.digitale-sammlungen.de/iiif/presentation/v2/bsb00035463/manifest",
-		"Schriften": "Mx → Lib. calc. (pp. 1367-1454)<br>Mx → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Mx → Lib. calc. (pp. 1367-1454), Mx → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "E7 (1v-14r) → Salzburger enzyklopädische Fassung (pp. 206-207)"
 	},
 	{
@@ -2548,7 +2548,7 @@
 		"Shelfmark": "Munich, Bayerische Staatsbibliothek, 14456",
 		"Digitalizations": "//www.digitale-sammlungen.de/en/view/bsb00046449?page=,1, //www.digitale-sammlungen.de/en/view/bsb00046449?page=,1",
 		"IIIF": "//api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046449/manifest, //api.digitale-sammlungen.de/iiif/presentation/v2/bsb00046449/manifest",
-		"Schriften": "My → Epist. Rat. (pp. 1021-1033)<br>My → Lect. comp. (pp. 527-659)<br>My → Lib. ann. (pp. 660-772)<br>My → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "My → Epist. Rat. (pp. 1021-1033), My → Lect. comp. (pp. 527-659), My → Lib. ann. (pp. 660-772), My → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "a2 (48r-53v) → Kalendarium Ratisbonense I (pp. 75-75)"
 	},
 	{
@@ -2780,7 +2780,7 @@
 		"Shelfmark": "Oxford, Bodleian Library, 309",
 		"Digitalizations": "//digital.bodleian.ox.ac.uk/objects/74f7b7c2-4d52-4c43-b44a-d5e638122b88/",
 		"IIIF": "//iiif.bodleian.ox.ac.uk/iiif/manifest/74f7b7c2-4d52-4c43-b44a-d5e638122b88.json",
-		"Schriften": "Ox → Cap. comp. (pp. 1034-1053)<br>Ox → Lect. comp. (pp. 527-659)<br>Ox → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Ox → Cap. comp. (pp. 1034-1053), Ox → Lect. comp. (pp. 527-659), Ox → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": "c11 (143r-146v) → Kalendarium Vindocinense (pp. 159-160)"
 	},
 	{
@@ -3220,7 +3220,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 2341",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b85409594",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b85409594/manifest.json",
-		"Schriften": "Pa → Claudius Ser. (pp. 1335-1349)<br>Pa → Lect. comp. (pp. 527-659)<br>Pa → Lib. ann. (pp. 660-772)<br>Pa → Lib. comp. (pp. 1054-1334)<br>Pa → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Pa → Claudius Ser. (pp. 1335-1349), Pa → Lect. comp. (pp. 527-659), Pa → Lib. ann. (pp. 660-772), Pa → Lib. comp. (pp. 1054-1334), Pa → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -3244,7 +3244,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 2796",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Pb → Lect. comp. (pp. 527-659)<br>Pb → Lib. ann. (pp. 660-772)<br>Pb → Lib. comp. (pp. 1054-1334)<br>Pb → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Pb → Lect. comp. (pp. 527-659), Pb → Lib. ann. (pp. 660-772), Pb → Lib. comp. (pp. 1054-1334), Pb → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": null
 	},
 	{
@@ -3252,8 +3252,8 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 4860",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b10721203n",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b10721203n/manifest.json",
-		"Schriften": "Pc → Lect. comp. (pp. 527-659)<br>Pc → Lib. ann. (pp. 660-772)<br>Pc → Lib. calc. (pp. 1367-1454)<br>Pc → Lib. comp. (pp. 1054-1334)<br>Pc → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "f1 (135v-136v) → Kalendarium Alemannicum (pp. 239-239)<br>F1 (158r-160r) → Ostfränkische Fassung (pp. 226-228)"
+		"Schriften": "Pc → Lect. comp. (pp. 527-659), Pc → Lib. ann. (pp. 660-772), Pc → Lib. calc. (pp. 1367-1454), Pc → Lib. comp. (pp. 1054-1334), Pc → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "f1 (135v-136v) → Kalendarium Alemannicum (pp. 239-239), F1 (158r-160r) → Ostfränkische Fassung (pp. 226-228)"
 	},
 	{
 		"MSID": 254,
@@ -3284,7 +3284,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 5009",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Pd → Lib. ann. (pp. 660-772)<br>Pd → Lib. comp. (pp. 1054-1334)<br>Pd → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Pd → Lib. ann. (pp. 660-772), Pd → Lib. comp. (pp. 1054-1334), Pd → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -3292,8 +3292,8 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 5239",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Pe → Arg. Aquens. (pp. 1350-1366)<br>Pe → Lect. comp. (pp. 527-659)<br>Pe → Lib. ann. (pp. 660-772)<br>Pe → Lib. calc. (pp. 1367-1454)<br>Pe → Lib. comp. (pp. 1054-1334)<br>Pe → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "c3a (205v-211r) → Kalendarium Ligerianum (pp. 148-148)<br>C2 (129r-134v) → Westfränkische Fassung (pp. 131-133)"
+		"Schriften": "Pe → Arg. Aquens. (pp. 1350-1366), Pe → Lect. comp. (pp. 527-659), Pe → Lib. ann. (pp. 660-772), Pe → Lib. calc. (pp. 1367-1454), Pe → Lib. comp. (pp. 1054-1334), Pe → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "c3a (205v-211r) → Kalendarium Ligerianum (pp. 148-148), C2 (129r-134v) → Westfränkische Fassung (pp. 131-133)"
 	},
 	{
 		"MSID": 299,
@@ -3308,7 +3308,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 5543",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b10502052p",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b10502052p/manifest.json",
-		"Schriften": "Pf → Arg. Aquens. (pp. 1350-1366)<br>Pf → Lect. comp. (pp. 527-659)<br>Pf → Lib. ann. (pp. 660-772)<br>Pf → Lib. comp. (pp. 1054-1334)<br>Pf → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Pf → Arg. Aquens. (pp. 1350-1366), Pf → Lect. comp. (pp. 527-659), Pf → Lib. ann. (pp. 660-772), Pf → Lib. comp. (pp. 1054-1334), Pf → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": "C4 (95r-101r) → Westfränkische Fassung (pp. 134-135)"
 	},
 	{
@@ -3364,7 +3364,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 7297",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b9072594n",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b9072594n/manifest.json",
-		"Schriften": "Pg → Lib. comp. (pp. 1054-1334)<br>Pg → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Pg → Lib. comp. (pp. 1054-1334), Pg → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -3380,7 +3380,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 7299 A",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Ph → Lect. comp. (pp. 527-659)<br>Ph → Lib. ann. (pp. 660-772)<br>Ph → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ph → Lect. comp. (pp. 527-659), Ph → Lib. ann. (pp. 660-772), Ph → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -3388,7 +3388,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 7361",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b90782183",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b90782183/manifest.json",
-		"Schriften": "Pi → Lib. ann. (pp. 660-772)<br>Pi → Lib. calc. (pp. 1367-1454)<br>Pi → Lib. comp. (pp. 1054-1334)<br>Pi → Ser. nov. (pp. 951-1008)<br>Pi → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Pi → Lib. ann. (pp. 660-772), Pi → Lib. calc. (pp. 1367-1454), Pi → Lib. comp. (pp. 1054-1334), Pi → Ser. nov. (pp. 951-1008), Pi → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": null
 	},
 	{
@@ -3412,7 +3412,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 7418",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b9065955k",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b9065955k/manifest.json",
-		"Schriften": "Pk → Lect. comp. (pp. 527-659)<br>Pk → Lib. ann. (pp. 660-772)<br>Pk → Lib. calc. (pp. 1367-1454)<br>Pk → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Pk → Lect. comp. (pp. 527-659), Pk → Lib. ann. (pp. 660-772), Pk → Lib. calc. (pp. 1367-1454), Pk → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "b13a (71r-77v) → Leo Kalendarium (pp. 130-130)"
 	},
 	{
@@ -3620,8 +3620,8 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 12117",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b9076834n",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b9076834n/manifest.json",
-		"Schriften": "Pn → Lib. comp. (pp. 1054-1334)<br>Pn → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "e4a (148v-160r) → Kalendarium Sancti Dionysii II (pp. 218-218)<br>g9h (3r-8v) → Kalendarium Wintoniense II (pp. 292-292)"
+		"Schriften": "Pn → Lib. comp. (pp. 1054-1334), Pn → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "e4a (148v-160r) → Kalendarium Sancti Dionysii II (pp. 218-218), g9h (3r-8v) → Kalendarium Wintoniense II (pp. 292-292)"
 	},
 	{
 		"MSID": 129,
@@ -3629,7 +3629,7 @@
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b90807799",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b90807799/manifest.json",
 		"Schriften": null,
-		"Reichskalender": "c4 (2r-8r) → Kalendarium Autissiodorense II (pp. 148-150)<br>g3 (24r-26v) → Kalendarium Cenomannense (pp. 282-283)"
+		"Reichskalender": "c4 (2r-8r) → Kalendarium Autissiodorense II (pp. 148-150), g3 (24r-26v) → Kalendarium Cenomannense (pp. 282-283)"
 	},
 	{
 		"MSID": 483,
@@ -3693,7 +3693,7 @@
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b90768211",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b90768211/manifest.json",
 		"Schriften": null,
-		"Reichskalender": "f16 (52v-57v) → Gerland Kalendarium (pp. 265-267)<br>f17 (20v-26r) → Kalendarium Saxonicum (pp. 267-268)"
+		"Reichskalender": "f16 (52v-57v) → Gerland Kalendarium (pp. 265-267), f17 (20v-26r) → Kalendarium Saxonicum (pp. 267-268)"
 	},
 	{
 		"MSID": 341,
@@ -3748,7 +3748,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 18461",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Po → Lib. comp. (pp. 1054-1334)<br>Po → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Po → Lib. comp. (pp. 1054-1334), Po → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -3772,7 +3772,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 456",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Pr → Lib. ann. (pp. 660-772)<br>Pr → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Pr → Lib. ann. (pp. 660-772), Pr → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "D8 (16v-24r) → Aachener enzyklopädische Fassung (pp. 187-188)"
 	},
 	{
@@ -3796,7 +3796,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 1613",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Ps → Cap. comp. (pp. 1034-1053)<br>Ps → Lect. comp. (pp. 527-659)<br>Ps → Lib. ann. (pp. 660-772)<br>Ps → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ps → Cap. comp. (pp. 1034-1053), Ps → Lect. comp. (pp. 527-659), Ps → Lib. ann. (pp. 660-772), Ps → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -3812,7 +3812,7 @@
 		"Shelfmark": "Paris, Bibliothèque Nationale de France, 1615",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b10515892q",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b10515892q/manifest.json",
-		"Schriften": "Pt → Cap. comp. (pp. 1034-1053)<br>Pt → Lect. comp. (pp. 527-659)<br>Pt → Lib. ann. (pp. 660-772)<br>Pt → Lib. calc. (pp. 1367-1454)<br>Pt → Lib. comp. (pp. 1054-1334)<br>Pt → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Pt → Cap. comp. (pp. 1034-1053), Pt → Lect. comp. (pp. 527-659), Pt → Lib. ann. (pp. 660-772), Pt → Lib. calc. (pp. 1367-1454), Pt → Lib. comp. (pp. 1054-1334), Pt → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": "c1 (3r-9v) → Kalendarium Autissiodorense I (pp. 143-145)"
 	},
 	{
@@ -3900,7 +3900,7 @@
 		"Shelfmark": "Rome, Biblioteca Nazionale Centrale, 33",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Rp → Lib. comp. (pp. 1054-1334)<br>Rp → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Rp → Lib. comp. (pp. 1054-1334), Rp → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -3908,7 +3908,7 @@
 		"Shelfmark": "Rome, Biblioteca Vallicelliana, E 26",
 		"Digitalizations": "//www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ACNMD%5C%5C0000171870",
 		"IIIF": "",
-		"Schriften": "Rq → Lect. comp. (pp. 527-659)<br>Rq → Lib. ann. (pp. 660-772)<br>Rq → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Rq → Lect. comp. (pp. 527-659), Rq → Lib. ann. (pp. 660-772), Rq → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "C1 (3r-8v) → Westfränkische Fassung (pp. 130-131)"
 	},
 	{
@@ -3940,7 +3940,7 @@
 		"Shelfmark": "Rouen, Bibliothèque Municipale, A 292",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Ru → Lib. ann. (pp. 660-772)<br>Ru → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Ru → Lib. ann. (pp. 660-772), Ru → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -3980,7 +3980,7 @@
 		"Shelfmark": "Salerno, Archivio della Badia, 3",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Cv → Lib. comp. (pp. 1054-1334)<br>Cv → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Cv → Lib. comp. (pp. 1054-1334), Cv → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": "B7 (81r-90v) → Italiensche Fassung (pp. 108-110)"
 	},
 	{
@@ -4060,7 +4060,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 184",
 		"Digitalizations": "//www.e-codices.unifr.ch/de/list/one/csg/0184",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0184/manifest.json",
-		"Schriften": "Sg → Lib. ann. (pp. 660-772)<br>Sg → Lib. calc. (pp. 1367-1454)<br>Sg → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Sg → Lib. ann. (pp. 660-772), Sg → Lib. calc. (pp. 1367-1454), Sg → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "d4 (217-222) → Kalendarium Sangallense I (pp. 192-193)"
 	},
 	{
@@ -4084,7 +4084,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 248",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/csg/0248",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0248/manifest.json",
-		"Schriften": "Sh → Lect. comp. (pp. 527-659)<br>Sh → Lib. ann. (pp. 660-772)<br>Sh → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Sh → Lect. comp. (pp. 527-659), Sh → Lib. ann. (pp. 660-772), Sh → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "F3 (72-76) → Ostfränkische Fassung (pp. 230-231)"
 	},
 	{
@@ -4092,7 +4092,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 250",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/csg/0250",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0250/manifest.json",
-		"Schriften": "Si → Lect. comp. (pp. 527-659)<br>Si → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Si → Lect. comp. (pp. 527-659), Si → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "f2 (82-103) → Kalendarium Sangallense III (pp. 240-241)"
 	},
 	{
@@ -4188,7 +4188,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 397",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/csg/0397",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0397/manifest.json",
-		"Schriften": "Sk → Lib. ann. (pp. 660-772)<br>Sk → Lib. calc. (pp. 1367-1454)<br>Sk → Lib. comp. (pp. 1054-1334)<br>Sk → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Sk → Lib. ann. (pp. 660-772), Sk → Lib. calc. (pp. 1367-1454), Sk → Lib. comp. (pp. 1054-1334), Sk → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": "d1 (54-69) → Kalendarium Grimaldi (pp. 188-189)"
 	},
 	{
@@ -4228,7 +4228,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 459",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/csg/0459",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0459/manifest.json",
-		"Schriften": "Sl → Lib. calc. (pp. 1367-1454)<br>Sl → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Sl → Lib. calc. (pp. 1367-1454), Sl → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "f3 (32-56) → Kalendarium Sangallense IV (pp. 241-242)"
 	},
 	{
@@ -4244,7 +4244,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 732",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/csg/0732",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0732/manifest.json",
-		"Schriften": "Sm → Lib. comp. (pp. 1054-1334)<br>Sm → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Sm → Lib. comp. (pp. 1054-1334), Sm → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -4268,7 +4268,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 878",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/csg/0878",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0878/manifest.json",
-		"Schriften": "Sn → Lib. comp. (pp. 1054-1334)<br>Sn → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Sn → Lib. comp. (pp. 1054-1334), Sn → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": "a4 (324-327) → Walafrid Kalendarium (pp. 77-78)"
 	},
 	{
@@ -4276,7 +4276,7 @@
 		"Shelfmark": "St. Gall, Stiftsbibliothek, 899",
 		"Digitalizations": "//www.e-codices.unifr.ch/en/list/one/csg/0899",
 		"IIIF": "//www.e-codices.unifr.ch/metadata/iiif/csg-0899/manifest.json",
-		"Schriften": "So → Lib. comp. (pp. 1054-1334)<br>So → Ser. nov. (pp. 951-1008)",
+		"Schriften": "So → Lib. comp. (pp. 1054-1334), So → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -4308,7 +4308,7 @@
 		"Shelfmark": "St. Petersburg, Natsionalnaja biblioteka, I 28 (1 28)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Sp → Lib. comp. (pp. 1054-1334)<br>Sp → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Sp → Lib. comp. (pp. 1054-1334), Sp → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -4324,7 +4324,7 @@
 		"Shelfmark": "St. Petersburg, Natsionalnaja biblioteka, I 56 (1 56)",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Sq → Lect. comp. (pp. 527-659)<br>Sq → Lib. ann. (pp. 660-772)<br>Sq → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Sq → Lect. comp. (pp. 527-659), Sq → Lib. ann. (pp. 660-772), Sq → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "c5 (1r-6v) → Kalendarium Camerascense (pp. 150-150)"
 	},
 	{
@@ -4380,8 +4380,8 @@
 		"Shelfmark": "Strasbourg, Bibliothèque Nationale et Universitaire, 326",
 		"Digitalizations": "//gallica.bnf.fr/ark:/12148/btv1b10224563x",
 		"IIIF": "//gallica.bnf.fr/iiif/ark:/12148/btv1b10224563x/manifest.json",
-		"Schriften": "St → Arg. Aquens. (pp. 1350-1366)<br>St → Lect. comp. (pp. 527-659)<br>St → Lib. ann. (pp. 660-772)<br>St → Lib. comp. (pp. 1054-1334)<br>St → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "c3b (186r-190v) → Kalendarium Ligerianum (pp. 148-148)<br>C3 (173v-179r) → Westfränkische Fassung (pp. 133-134)"
+		"Schriften": "St → Arg. Aquens. (pp. 1350-1366), St → Lect. comp. (pp. 527-659), St → Lib. ann. (pp. 660-772), St → Lib. comp. (pp. 1054-1334), St → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "c3b (186r-190v) → Kalendarium Ligerianum (pp. 148-148), C3 (173v-179r) → Westfränkische Fassung (pp. 133-134)"
 	},
 	{
 		"MSID": 612,
@@ -4453,7 +4453,7 @@
 		"Digitalizations": null,
 		"IIIF": null,
 		"Schriften": null,
-		"Reichskalender": "e2 (2r-7v) → Kalendarium Tridentinum I (pp. 210-211)<br>E3 (204r-217v) → Salzburger enzyklopädische Fassung (pp. 200-202)"
+		"Reichskalender": "e2 (2r-7v) → Kalendarium Tridentinum I (pp. 210-211), E3 (204r-217v) → Salzburger enzyklopädische Fassung (pp. 200-202)"
 	},
 	{
 		"MSID": 595,
@@ -4476,7 +4476,7 @@
 		"Shelfmark": "Trier, Stadtbibliothek, 2500",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Tr → Lib. comp. (pp. 1054-1334)<br>Tr → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Tr → Lib. comp. (pp. 1054-1334), Tr → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": "c2 (10r-15v) → Kalendarium Remense (pp. 145-146)"
 	},
 	{
@@ -4532,7 +4532,7 @@
 		"Shelfmark": "Valenciennes, Bibliothèque Municipale, 174",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Va → Lect. comp. (pp. 527-659)<br>Va → Lib. ann. (pp. 660-772)<br>Va → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Va → Lect. comp. (pp. 527-659), Va → Lib. ann. (pp. 660-772), Va → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "c8 (32r-40r) → Kalendarium Elnonense II (pp. 153-154)"
 	},
 	{
@@ -4540,7 +4540,7 @@
 		"Shelfmark": "Valenciennes, Bibliothèque Municipale, 343",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Vb → Lect. comp. (pp. 527-659)<br>Vb → Lib. ann. (pp. 660-772)<br>Vb → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Vb → Lect. comp. (pp. 527-659), Vb → Lib. ann. (pp. 660-772), Vb → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "C8 (27v-35r) → Westfränkische Fassung (pp. 139-142)"
 	},
 	{
@@ -4700,7 +4700,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 1447",
 		"Digitalizations": "//digi.ub.uni-heidelberg.de/diglit/bav_pal_lat_1447, //digi.vatlib.it/view/MSS_Pal.lat.1447",
 		"IIIF": ", //digi.vatlib.it/iiif/MSS_Pal.lat.1447/manifest.json",
-		"Schriften": "Vk → Lect. comp. (pp. 527-659)<br>Vk → Lib. ann. (pp. 660-772)<br>Vk → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Vk → Lect. comp. (pp. 527-659), Vk → Lib. ann. (pp. 660-772), Vk → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "a1 (11v-17v) → Kalendarium Moguntinum I (pp. 73-74)"
 	},
 	{
@@ -4708,15 +4708,15 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 1448",
 		"Digitalizations": "//bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_1448, //digi.vatlib.it/view/bav_pal_lat_1448",
 		"IIIF": ", //digi.vatlib.it/iiif/bav_pal_lat_1448/manifest.json",
-		"Schriften": "Vl → Lect. comp. (pp. 527-659)<br>Vl → Lib. ann. (pp. 660-772)<br>Vl → Lib. calc. (pp. 1367-1454)<br>Vl → Lib. comp. (pp. 1054-1334)",
-		"Reichskalender": "a3 (62r-69v) → Kalendarium Palatinum (pp. 76-76)<br>A3 (6r-11v) → Rheinfränkische Fassung (pp. 60-62)"
+		"Schriften": "Vl → Lect. comp. (pp. 527-659), Vl → Lib. ann. (pp. 660-772), Vl → Lib. calc. (pp. 1367-1454), Vl → Lib. comp. (pp. 1054-1334)",
+		"Reichskalender": "a3 (62r-69v) → Kalendarium Palatinum (pp. 76-76), A3 (6r-11v) → Rheinfränkische Fassung (pp. 60-62)"
 	},
 	{
 		"MSID": 4,
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 1449",
 		"Digitalizations": "//bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_1449, //digi.vatlib.it/view/bav_pal_lat_1449",
 		"IIIF": ", //digi.vatlib.it/iiif/bav_pal_lat_1449/manifest.json",
-		"Schriften": "Vm → Lect. comp. (pp. 527-659)<br>Vm → Lib. ann. (pp. 660-772)<br>Vm → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Vm → Lect. comp. (pp. 527-659), Vm → Lib. ann. (pp. 660-772), Vm → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "A2 (3r-8v) → Rheinfränkische Fassung (pp. 59-60)"
 	},
 	{
@@ -4756,7 +4756,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 123",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Reg.lat.123",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Reg.lat.123/manifest.json",
-		"Schriften": "Vn → Lect. comp. (pp. 527-659)<br>Vn → Lib. ann. (pp. 660-772)<br>Vn → Lib. calc. (pp. 1367-1454)<br>Vn → Lib. comp. (pp. 1054-1334)<br>Vn → Prol. Aquit. (pp. 329-347)<br>Vn → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Vn → Lect. comp. (pp. 527-659), Vn → Lib. ann. (pp. 660-772), Vn → Lib. calc. (pp. 1367-1454), Vn → Lib. comp. (pp. 1054-1334), Vn → Prol. Aquit. (pp. 329-347), Vn → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": "G3 (220r-223v) → Westeuropäische Fassung (pp. 274-276)"
 	},
 	{
@@ -4804,8 +4804,8 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 309",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Reg.lat.309",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Reg.lat.309/manifest.json",
-		"Schriften": "Vp → Lect. comp. (pp. 527-659)<br>Vp → Lib. ann. (pp. 660-772)<br>Vp → Lib. calc. (pp. 1367-1454)<br>Vp → Lib. comp. (pp. 1054-1334)<br>Vp → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "D6 (6r-12v) → Aachener enzyklopädische Fassung (pp. 184-185)<br>e4 (128v-140r) → Kalendarium Sancti Dionysii II (pp. 216-218)"
+		"Schriften": "Vp → Lect. comp. (pp. 527-659), Vp → Lib. ann. (pp. 660-772), Vp → Lib. calc. (pp. 1367-1454), Vp → Lib. comp. (pp. 1054-1334), Vp → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "D6 (6r-12v) → Aachener enzyklopädische Fassung (pp. 184-185), e4 (128v-140r) → Kalendarium Sancti Dionysii II (pp. 216-218)"
 	},
 	{
 		"MSID": 634,
@@ -4844,7 +4844,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 612",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Reg.lat.612",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Reg.lat.612/manifest.json",
-		"Schriften": "Vq → Lect. comp. (pp. 527-659)<br>Vq → Quaest. Longob. (pp. 509-526)",
+		"Schriften": "Vq → Lect. comp. (pp. 527-659), Vq → Quaest. Longob. (pp. 509-526)",
 		"Reichskalender": null
 	},
 	{
@@ -4860,7 +4860,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 755",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Reg.lat.755",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Reg.lat.755/manifest.json",
-		"Schriften": "Vr → Lib. ann. (pp. 660-772)<br>Vr → Lib. comp. (pp. 1054-1334)<br>Vr → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Vr → Lib. ann. (pp. 660-772), Vr → Lib. comp. (pp. 1054-1334), Vr → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -4908,7 +4908,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 1723",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Reg.lat.1723",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Reg.lat.1723/manifest.json",
-		"Schriften": "Vs → Lect. comp. (pp. 527-659)<br>Vs → Lib. ann. (pp. 660-772)<br>Vs → Lib. comp. (pp. 1054-1334)<br>Vs → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Vs → Lect. comp. (pp. 527-659), Vs → Lib. ann. (pp. 660-772), Vs → Lib. comp. (pp. 1054-1334), Vs → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": null
 	},
 	{
@@ -4940,15 +4940,15 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 247",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Ross.247",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Ross.247/manifest.json",
-		"Schriften": "Vt → Lect. comp. (pp. 527-659)<br>Vt → Lib. ann. (pp. 660-772)<br>Vt → Lib. calc. (pp. 1367-1454)<br>Vt → Lib. comp. (pp. 1054-1334)<br>Vt → Ser. ant. (pp. 1009-1020)<br>Vt → Ser. nov. (pp. 951-1008)<br>Vt → Vers. Tur. (pp. 795-819)",
-		"Reichskalender": "e5 (53r-58v) → Kalendarium Calmiliense (pp. 218-219)<br>C9 (1r-6r) → Westfränkische Fassung (pp. 142-143)"
+		"Schriften": "Vt → Lect. comp. (pp. 527-659), Vt → Lib. ann. (pp. 660-772), Vt → Lib. calc. (pp. 1367-1454), Vt → Lib. comp. (pp. 1054-1334), Vt → Ser. ant. (pp. 1009-1020), Vt → Ser. nov. (pp. 951-1008), Vt → Vers. Tur. (pp. 795-819)",
+		"Reichskalender": "e5 (53r-58v) → Kalendarium Calmiliense (pp. 218-219), C9 (1r-6r) → Westfränkische Fassung (pp. 142-143)"
 	},
 	{
 		"MSID": 229,
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 290",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Urb.lat.290",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Urb.lat.290/manifest.json",
-		"Schriften": "Vu → Lect. comp. (pp. 527-659)<br>Vu → Lib. ann. (pp. 660-772)<br>Vu → Lib. calc. (pp. 1367-1454)<br>Vu → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Vu → Lect. comp. (pp. 527-659), Vu → Lib. ann. (pp. 660-772), Vu → Lib. calc. (pp. 1367-1454), Vu → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": null
 	},
 	{
@@ -4964,7 +4964,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 642",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Vat.lat.642",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Vat.lat.642/manifest.json",
-		"Schriften": "Vv → Lect. comp. (pp. 527-659)<br>Vv → Lib. calc. (pp. 1367-1454)<br>Vv → Lib. comp. (pp. 1054-1334)<br>Vv → Vers. Tur. (pp. 795-819)",
+		"Schriften": "Vv → Lect. comp. (pp. 527-659), Vv → Lib. calc. (pp. 1367-1454), Vv → Lib. comp. (pp. 1054-1334), Vv → Vers. Tur. (pp. 795-819)",
 		"Reichskalender": null
 	},
 	{
@@ -4980,7 +4980,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 644",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Vat.lat.644",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Vat.lat.644/manifest.json",
-		"Schriften": "Vx → Lib. ann. (pp. 660-772)<br>Vx → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Vx → Lib. ann. (pp. 660-772), Vx → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "d6 (24v-28v) → Kalendarium Sangallense II (pp. 195-196)"
 	},
 	{
@@ -4988,7 +4988,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 645",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Vat.lat.645",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Vat.lat.645/manifest.json",
-		"Schriften": "Vy → Lib. ann. (pp. 660-772)<br>Vy → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Vy → Lib. ann. (pp. 660-772), Vy → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "D5 (3r-11v) → Aachener enzyklopädische Fassung (pp. 183-184)"
 	},
 	{
@@ -5012,7 +5012,7 @@
 		"Shelfmark": "Vatican, Biblioteca Apostolica Vaticana, 3101",
 		"Digitalizations": "//digi.vatlib.it/view/MSS_Vat.lat.3101",
 		"IIIF": "//digi.vatlib.it/iiif/MSS_Vat.lat.3101/manifest.json",
-		"Schriften": "Vz → Lib. ann. (pp. 660-772)<br>Vz → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Vz → Lib. ann. (pp. 660-772), Vz → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "h2 (20r-25v) → Benedikt Kalendarium (pp. 320-321)"
 	},
 	{
@@ -5148,15 +5148,15 @@
 		"Shelfmark": "Vienna, Österreichische Nationalbibliothek, 387",
 		"Digitalizations": "//data.onb.ac.at/rec/AL00178131 ",
 		"IIIF": "",
-		"Schriften": "Wi → Lib. ann. (pp. 660-772)<br>Wi → Lib. calc. (pp. 1367-1454)<br>Wi → Lib. comp. (pp. 1054-1334)<br>Wi → Ser. nov. (pp. 951-1008)",
-		"Reichskalender": "i2 (165v) → Imago temporum Salisburgensis (pp. 337-338)<br>E5 (147v-165r) → Salzburger enzyklopädische Fassung (pp. 204-204)<br>E2 (7v-15v) → Salzburger enzyklopädische Fassung (pp. 198-200)"
+		"Schriften": "Wi → Lib. ann. (pp. 660-772), Wi → Lib. calc. (pp. 1367-1454), Wi → Lib. comp. (pp. 1054-1334), Wi → Ser. nov. (pp. 951-1008)",
+		"Reichskalender": "i2 (165v) → Imago temporum Salisburgensis (pp. 337-338), E5 (147v-165r) → Salzburger enzyklopädische Fassung (pp. 204-204), E2 (7v-15v) → Salzburger enzyklopädische Fassung (pp. 198-200)"
 	},
 	{
 		"MSID": 238,
 		"Shelfmark": "Vienna, Österreichische Nationalbibliothek, 408",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Wk → Lib. comp. (pp. 1054-1334)<br>Wk → Ser. nov. (pp. 951-1008)",
+		"Schriften": "Wk → Lib. comp. (pp. 1054-1334), Wk → Ser. nov. (pp. 951-1008)",
 		"Reichskalender": null
 	},
 	{
@@ -5196,7 +5196,7 @@
 		"Shelfmark": "Vienna, Österreichische Nationalbibliothek, 12600",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Wn → Lib. ann. (pp. 660-772)<br>Wn → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Wn → Lib. ann. (pp. 660-772), Wn → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "F7 (32r-37v) → Ostfränkische Fassung (pp. 236-237)"
 	},
 	{
@@ -5308,7 +5308,7 @@
 		"Shelfmark": "Wolfenbüttel, Herzog August Bibliothek, 91",
 		"Digitalizations": "//diglib.hab.de/show_image.php?dir=mss/91-weiss",
 		"IIIF": "",
-		"Schriften": "Wo → Lect. comp. (pp. 527-659)<br>Wo → Lib. ann. (pp. 660-772)",
+		"Schriften": "Wo → Lect. comp. (pp. 527-659), Wo → Lib. ann. (pp. 660-772)",
 		"Reichskalender": null
 	},
 	{
@@ -5404,7 +5404,7 @@
 		"Shelfmark": "Zürich, Zentralbibliothek, 176",
 		"Digitalizations": null,
 		"IIIF": null,
-		"Schriften": "Zu → Lib. ann. (pp. 660-772)<br>Zu → Lib. comp. (pp. 1054-1334)",
+		"Schriften": "Zu → Lib. ann. (pp. 660-772), Zu → Lib. comp. (pp. 1054-1334)",
 		"Reichskalender": "F5 (163r-172r) → Ostfränkische Fassung (pp. 232-234)"
 	},
 	{
