@@ -34,6 +34,7 @@
 					// Prepare Digitalizations
 					
 					let tdDigitalizations = $("<td>");
+					console.log(row.Digitalizations);
 					if(typeof row.Digitalizations !== "undefined") {
 						let aDigitalizations = row.Digitalizations.split(', ');
 						$.each(aDigitalizations, function(index, url) {
