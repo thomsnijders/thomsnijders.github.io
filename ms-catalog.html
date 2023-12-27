@@ -35,6 +35,7 @@
 					
 					let tdDigitalizations = $("<td>");
 					console.log(row.Digitalizations);
+					console.log(typeof row.Digitalizations);
 					if(typeof row.Digitalizations !== "undefined") {
 						let aDigitalizations = row.Digitalizations.split(', ');
 						$.each(aDigitalizations, function(index, url) {
@@ -43,6 +44,10 @@
 							}
 						});
 					}
+					
+					
+					console.log(row.IIIF);
+					console.log(typeof row.IIIF);
 					
 					let tdIIIF = $("<td>");
 					if(typeof row.IIIF !== "undefined") {
