@@ -34,9 +34,7 @@
 					// Prepare Digitalizations
 					
 					let tdDigitalizations = $("<td>");
-					console.log(row.Digitalizations);
-					console.log(typeof row.Digitalizations);
-					if(typeof row.Digitalizations !== "undefined") {
+					if(row.Digitalizations !== null) {
 						let aDigitalizations = row.Digitalizations.split(', ');
 						$.each(aDigitalizations, function(index, url) {
 							if(url !== "") {
@@ -44,13 +42,9 @@
 							}
 						});
 					}
-					
-					
-					console.log(row.IIIF);
-					console.log(typeof row.IIIF);
-					
+										
 					let tdIIIF = $("<td>");
-					if(typeof row.IIIF !== "undefined") {
+					if(typeof row.IIIF !== null {
 						let aIIIF = row.IIIF.split(', ');
 						$.each(aIIIF, function(index, url) {
 							if(url !== "") {
