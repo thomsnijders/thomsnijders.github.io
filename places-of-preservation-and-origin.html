@@ -70,7 +70,7 @@
 	<script>
 
 		// Initiate the map with the initial view in Europe and Zoom level 5
-		var map = L.map("map").setView([ 50,4.579], 5);
+		let map = L.map("map").setView([ 50,4.579], 5);
 		
 		// Setup the ArcGIS:Topographic basemap
 		// Please change the apikey when you create your own map
@@ -78,13 +78,13 @@
 			"apikey": "AAPK7cbfb9d0e1f3424eab34001fc3928216FnnnCT0hXWLeJD9SVMwARnRCbUStKfgwOUlKEJ9X1LLEEa205uB2MrxAHt5F68OB"	
 		}).addTo(map);
 
-		var layerLabels;
+		let layerLabels;
 
 		// Setup the header above the map
 		L.Control.Heading = L.Control.extend({
 			onAdd: function(map) {
-				var container = L.DomUtil.create('div', 'map-header leaflet-bar leaflet-control leaflet-control-custom');
-				var heading = L.DomUtil.create('h1');
+				let container = L.DomUtil.create('div', 'map-header leaflet-bar leaflet-control leaflet-control-custom');
+				let heading = L.DomUtil.create('h1');
 
 				heading.append("Computus manuscripts and where to find them");
 				container.append(heading);
@@ -96,29 +96,29 @@
 			return new L.Control.Heading(opts);
 		};
 
-		var hdr = L.control.header({ position: 'topleft' }).addTo(map);
+		let hdr = L.control.header({ position: 'topleft' }).addTo(map);
 		
 		// Place the zoomControl in the bottomright corner
 		map.zoomControl.setPosition('bottomright');
 			
 		// Prepare a new layer for places of preservation
-		var LocationsOfPreservation = L.layerGroup();
+		let LocationsOfPreservation = L.layerGroup();
 		
 		// Prepare a new layer for places of origin
-		var PlacesOfOrigin = L.layerGroup();
+		let PlacesOfOrigin = L.layerGroup();
 		
 		// Prepare the map layers as overlays
-		var overlayMaps = {
+		let overlayMaps = {
 			"Libraries of preservation": LocationsOfPreservation,
 			"Places of origin": PlacesOfOrigin
 		};
 				
 		// Prepare the colors for the dots on the map
-		var color = [];
+		let color = [];
 		color.push("9D9D9D", "00E18B", "00DD47", "00D904", "3BD500", "79D200", "B5CE00", "CAA600", "C66700", "C22B00", "BF000E");
 		
 		// Prepare the map layers as overlays
-		var overlayMaps = {
+		let overlayMaps = {
 			"Libraries of preservation": LocationsOfPreservation,
 			"Places of origin": PlacesOfOrigin
 		};

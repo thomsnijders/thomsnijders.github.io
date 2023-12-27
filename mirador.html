@@ -10,7 +10,7 @@
 		// Retrieve the contents of iiif-catalog.json, which should be present in the json directory
 		$.getJSON( "json/iiif-catalog.json", function( data ) {
 			// Once the content of iiif-catalog.json are loaded, the Mirador Viewer can me initiated
-			var mirador = Mirador.viewer({
+			let mirador = Mirador.viewer({
 			  "id": "my-mirador",
 				themes: {
 					light: {
