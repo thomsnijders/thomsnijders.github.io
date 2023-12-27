@@ -116,6 +116,15 @@
 		// Prepare the colors for the dots on the map
 		var color = [];
 		color.push("9D9D9D", "00E18B", "00DD47", "00D904", "3BD500", "79D200", "B5CE00", "CAA600", "C66700", "C22B00", "BF000E");
+		
+		// Prepare the map layers as overlays
+		var overlayMaps = {
+			"Libraries of preservation": LocationsOfPreservation,
+			"Places of origin": PlacesOfOrigin
+		};
+
+		// Add the control for switching between overlays
+		L.control.layers(null, overlayMaps).addTo(map);
 
 		function colors(val) {
 			if(val == 0){
@@ -154,6 +163,7 @@
 			}
 		}
 		
+	
 		// Retrieve the contents of places-of-preseravation.json, which should be present in the json directory
 		$.getJSON("json/places-of-preservation.json", function( data ) {
 		
@@ -176,15 +186,6 @@
 				// Add the map layer to the map
 				LocationsOfPreservation.addTo(map);
 				
-				// Prepare the map layers as overlays
-				var overlayMaps = {
-					"Libraries of preservation": LocationsOfPreservation,
-					"Places of origin": PlacesOfOrigin
-				};
-
-				map.removeControl(layers);
-				// Add the control for switching between overlays
-				L.control.layers(null, overlayMaps).addTo(map);
 		});
 			
 		// Retrieve the contents of places-of-preseravation.json, which should be present in the json directory
@@ -207,10 +208,6 @@
 			
 			// Add the map layer to the map
 			PlacesOfOrigin.addTo(map);
-			
-			map.removeControl(layers);
-			// Add the control for switching between overlays
-			L.control.layers(null, overlayMaps).addTo(map);
 		});
 
 			
