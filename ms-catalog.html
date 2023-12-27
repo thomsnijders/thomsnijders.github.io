@@ -76,6 +76,19 @@
 							}
 						});
 					}
+					
+					let tdReichskalender = $("<td>");
+					if(row.Reichskalender !== null) {
+						let aReichskalender = row.Reichskalender.split(', ');
+						$.each(aReichskalender, function(index, part) {
+							if(part !== "") {
+								tdReichskalender.append(part);
+								if (index != aReichskalender.length -1) {
+									tdReichskalender.append("<br>");
+								}
+							}
+						});
+					}
 				
 					// Prepare a new row
 					let tr = $("<tr>");
@@ -84,7 +97,7 @@
 					tdDigitalizations.appendTo(tr);
 					tdIIIF.appendTo(tr);
 					tdSchriften.appendTo(tr);
-					$($("<td>").text(row.Reichskalender)).appendTo(tr);
+					tdReichskalender.appendTo(tr);
 					
 					$("#msCatalog tbody").append(tr);
 				});
