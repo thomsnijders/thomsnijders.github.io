@@ -63,10 +63,16 @@
 					if(row.Digitalizations !== null) {
 						let aDigitalizations = row.Digitalizations.split(', ');
 						$.each(aDigitalizations, function(index, url) {
+						
 							if(url !== "") {
+							
+								url.replace("Prol. aquit.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/prol-aquit/\" target=\"_blank\">" + url + "</a>");
+								url.replace("pp. 329-347", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329\" target=\"_blank\">" + url + "</a>");
 								
 								url.replace("Lect. comp.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/lect-comp/\" target=\"_blank\">" + url + "</a>");
 								url.replace("pp. 527-659", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._527\" target=\"_blank\">" + url + "</a>");
+								
+
 									
 								tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
 								if (index != aDigitalizations.length -1) {
