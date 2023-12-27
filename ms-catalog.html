@@ -42,11 +42,12 @@
 						$.each(aDigitalizations, function(index, url) {
 							if(url !== "") {
 								tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
+								if (index != aDigitalizations.length -1) {
+									tdDigitalizations.append("<br>");
+								}
 							}
 						});
-						if (index != data.length -1) {
-							tdDigitalizations.append("<br>");
-						}
+						
 					}
 										
 					let tdIIIF = $("<td>");
@@ -55,6 +56,23 @@
 						$.each(aIIIF, function(index, url) {
 							if(url !== "") {
 								tdIIIF.append("<a href=\"" + url + "\" target=\"_blank\">IIIF</a>");
+								if (index != aIIIF.length -1) {
+									tdIIIF.append("<br>");
+								}
+							}
+						});
+						
+					}
+					
+					let tdSchriften = $("<td>");
+					if(row.Schriften !== null) {
+						let aSchriften = row.Schriften.split(', ');
+						$.each(aSchriften, function(index, part) {
+							if(part !== "") {
+								tdSchriften.append(part);
+								if (index != aSchriften.length -1) {
+									tdSchriften.append("<br>");
+								}
 							}
 						});
 						if (index != data.length -1) {
