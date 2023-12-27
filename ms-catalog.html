@@ -1,0 +1,71 @@
+<html>
+	<head>
+		<title>Computus.lat Catalogue 2.0</title>
+		<link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+		<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+		<style>
+			body {
+				font-family: Calibri, Verdana;
+			}
+		</style>
+	</head>
+	<body>
+		<table id="msCatalog" class="cell-border compact stripe">
+			<thead>
+				<tr>
+					<th>MSID</th>
+					<th>Shelfmark</th>
+					<th>Digitizations</th>
+					<th>IIIF</th>
+					<th>Schriften</th>
+					<th>Reichskalender</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+		</table>
+			
+		<script type="text/javascript">
+			// Retrieve the contents of places-of-preseravation.json, which should be present in the json directory
+			$.getJSON("json/ms-catalog.json", function( data ) {
+				$.each(data, function(index, row) {
+					let tr = $("<tr>");
+					tr.append("<td>" + row.MSID + "</td>");
+					tr.append("<td>" + row.Shelfmark + "</td>");
+					tr.append("<td>" + row.Digitizations + "</td>");
+					tr.append("<td>" + row.IIIF + "</td>");
+					tr.append("<td>" + row.Schriften + "</td>");
+					tr.append("<td>" + row.Reichskalender + "</td>");
+					$("#msCatalog tbody").append(tr);
+				});
+			});
+		
+			let table = new DataTable('#msCatalog', {
+				// options
+				pagin
+				initComplete: function () {
+				this.api()
+					.columns()
+					.every(function () {
+						let column = this;
+						let title = column.header().textContent;
+		 
+						// Create input element
+						let input = document.createElement('input');
+						input.placeholder = title;
+						column.header().replaceChildren(input);
+		 
+						// Event listener for user input
+						input.addEventListener('keyup', () => {
+							if (column.search() !== this.value) {
+								column.search(input.value).draw();
+							}
+						});
+					});
+			}
+			});
+		</script>
+					
+	</body>
+</html>
