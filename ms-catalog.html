@@ -64,25 +64,7 @@
 						let aDigitalizations = row.Digitalizations.split(', ');
 						$.each(aDigitalizations, function(index, url) {
 						
-							if(url !== "") {
-							
-								url.replace("Prol. Aquit.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/prol-aquit/\" target=\"_blank\">" + url + "</a>");
-								url.replace("pp. 329-347", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329\" target=\"_blank\">" + url + "</a>");
-								
-								url.replace("Dial. Burg.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/prol-aquit/\" target=\"_blank\">" + url + "</a>");
-								url.replace("pp. 348-374", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329\" target=\"_blank\">" + url + "</a>");
-								
-								url.replace("Dial. Neustr.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/prol-aquit/\" target=\"_blank\">" + url + "</a>");
-								url.replace("pp. 375-423", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329\" target=\"_blank\">" + url + "</a>");
-								
-								url.replace("Dial. Longob.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/prol-aquit/\" target=\"_blank\">" + url + "</a>");
-								url.replace("pp. 424-461", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329\" target=\"_blank\">" + url + "</a>");
-								
-								url.replace("Lect. comp.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/lect-comp/\" target=\"_blank\">" + url + "</a>");
-								url.replace("pp. 527-659", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._527\" target=\"_blank\">" + url + "</a>");
-								
-
-									
+							if(url !== "") {							
 								tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
 								if (index != aDigitalizations.length -1) {
 									tdDigitalizations.append("<br>");
@@ -111,6 +93,25 @@
 						let aSchriften = row.Schriften.split(', ');
 						$.each(aSchriften, function(index, part) {
 							if(part !== "") {
+							
+								part.replace("Prol. Aquit.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/prol-aquit/\" target=\"_blank\">" + url + "</a>");
+								part.replace("pp. 329-347", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329\" target=\"_blank\">" + url + "</a>");
+								
+								part.replace("Dial. Burg.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/de-racione-conpoti-dial-burg/\" target=\"_blank\">" + url + "</a>");
+								part.replace("pp. 348-374", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._348\" target=\"_blank\">" + url + "</a>");
+								
+								part.replace("Dial. Neustr.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/dial-neustr/\" target=\"_blank\">" + url + "</a>");
+								part.replace("pp. 375-423", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._375\" target=\"_blank\">" + url + "</a>");
+								
+								part.replace("Dial. Longob.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/dial-longob/\" target=\"_blank\">" + url + "</a>");
+								part.replace("pp. 424-461", "<a href=\"hhttp://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._424\" target=\"_blank\">" + url + "</a>");
+								
+								part.replace("Quaest. Austr. "<a href=\"https://thomsnijders.nl/computus-lat/schriften/quaest-austr/\" target=\"_blank\">" + url + "</a>");
+								part.replace("pp. 462-508", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._462\" target=\"_blank\">" + url + "</a>");
+								
+								part.replace("Lect. comp.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/lect-comp/\" target=\"_blank\">" + url + "</a>");
+								part.replace("pp. 527-659", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._527\" target=\"_blank\">" + url + "</a>");
+							
 								tdSchriften.append(part);
 								if (index != aSchriften.length -1) {
 									tdSchriften.append("<br>");
