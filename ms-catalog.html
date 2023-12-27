@@ -90,67 +90,134 @@
 					
 					let tdSchriften = $("<td>");
 					if(row.Schriften !== null) {
-						row.Schriften = row.Schriften.replace("Prol. Aquit.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/prol-aquit/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 329-347", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						/*row.Schriften = row.Schriften.replace("Dial. Burg.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/de-racione-conpoti-dial-burg/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 348-374", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._348\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Dial. Neustr.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/dial-neustr/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 375-423", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._375\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Dial. Longob.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/dial-longob/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 424-461", "<a href=\"hhttp://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._424\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Quaest. Austr.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/quaest-austr/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 462-508", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._462\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Quaest. Longob.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/quaest-longob/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 509-526", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._509\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Lect. comp.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/lect-comp/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 527-659", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._527\" target=\"_blank\">" + row.Schriften + "</a>");
+						let jsonSchriften = [
+							{
+								"Title": "Prol. Aquit.",
+								"Pages": "pp. 329-347",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/prol-aquit/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._329"
+							},
+							{
+								"Title": "Dial. Burg.",
+								"Pages": "pp. 348-374",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/de-racione-conpoti-dial-burg/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._348"
+							},
+							{
+								"Title": "Dial. Neustr.",
+								"Pages": "pp. 375-423",
+								"URL_TS": "Dial. Neustr.", "https://thomsnijders.nl/computus-lat/schriften/dial-neustr/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._375"
+							},
+							{
+								"Title": "Dial. Longob.",
+								"Pages": "pp. 424-461",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/dial-longob/",
+								"URL_Schriften": "hhttp://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._424"
+							},
+							{
+								"Title": "Quaest. Austr.",
+								"Pages": "pp. 462-508",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/quaest-austr/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._462"
+							},
+							{
+								"Title": "Quaest. Longob.",
+								"Pages": "pp. 509-526",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/quaest-longob/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,1_S._509"
+							},
+							{
+								"Title": "Lect. comp.",
+								"Pages": "pp. 527-659",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/lect-comp/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._527"
+							},
+							{
+								"Title": "Lib. ann.",
+								"Pages": "pp. 660-772",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/lib-ann/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._660"
+							},
+							{
+								"Title": "Add. Col.",
+								"Pages": "pp. 773-794",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/add-col/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._660"
+							},
+							{
+								"Title": "Vers. Tur.",
+								"Pages": "pp. 795-819",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/vers-tur/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._795"
+							},
+							{
+								"Title": "Arn. Serm.",
+								"Pages": "pp. 820-884",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/arn-serm/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._820"
+							},
+							{
+								"Title": "Comp. Col.",
+								"Pages": "pp. 885-950",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/comp-col/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._885"
+							},
+							{
+								"Title": "Ser. nov.",
+								"Pages": "pp. 951-1008",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/ser-nov/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._951"
+							},
+							{
+								"Title": "Ser. ant.",
+								"Pages": "pp. 1009-1020",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/ser-ant/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._1009"
+							},
+							{
+								"Title": "Epist. Rat.",
+								"Pages": "pp. 1021-1033",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/ser-ant/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1021"
+							},
+							{
+								"Title": "Cap. comp.",
+								"Pages": "pp. 1034-1053",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/cap-comp/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1034"
+							},
+							{
+								"Title": "Lib. comp.",
+								"Pages": "pp. 1054-1334",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/lib-comp/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1054"
+							},
+							{
+								"Title": "Claudius Ser.",
+								"Pages": "pp. 1335-1349",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/claudius-ser/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1335"
+							},
+							{
+								"Title": "Arg. Aquens.",
+								"Pages": "pp. 1350-1366",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/arg-aquens/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1350"
+							},
+							{
+								"Title": "Lib. calc.",
+								"Pages": "pp. 1367-1454",
+								"URL_TS": "https://thomsnijders.nl/computus-lat/schriften/lib-calc/",
+								"URL_Schriften": "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1367"
+							}
+						];
 					
-						row.Schriften = row.Schriften.replace("Lib. ann.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/lib-ann/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 660-772", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._660\" target=\"_blank\">" + row.Schriften + "</a>");
+						$.each(jsonSchriften, function(index, entry) {
+							row.Schriften = row.Schriften.replace(entry.Title, "<a href=\"" + entry.URL_TS + "\" target=\"_blank\">" + entry.Title + "</a>");
+							row.Schriften = row.Schriften.replace(entry.Pages, "<a href=\"" + entry.URL_Schriften+ "\" target=\"_blank\">" + entry.Pages + "</a>");
+						});
 						
-						row.Schriften = row.Schriften.replace("Add. Col.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/add-col/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 773-794", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._660\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Vers. Tur.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/vers-tur/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 795-819", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._795\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Arn. Serm.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/arn-serm/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 820-884", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._820\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Comp. Col.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/comp-col/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 885-950", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._885\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Ser. nov.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/ser-nov/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 951-1008", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._951\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Ser. ant.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/ser-ant/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 1009-1020", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,2_S._1009\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Epist. Rat.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/ser-ant/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 1021-1033", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1021\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Cap. comp.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/cap-comp/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 1034-1053", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1034\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Lib. comp.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/lib-comp/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 1054-1334", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1054\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Claudius Ser.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/claudius-ser/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 1335-1349", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1335\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Arg. Aquens.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/arg-aquens/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 1350-1366", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1350\" target=\"_blank\">" + row.Schriften + "</a>");
-						
-						row.Schriften = row.Schriften.replace("Lib. calc.", "<a href=\"https://thomsnijders.nl/computus-lat/schriften/lib-calc/\" target=\"_blank\">" + row.Schriften + "</a>");
-						row.Schriften = row.Schriften.replace("pp. 1367-1454", "<a href=\"http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,3_S._1367\" target=\"_blank\">" + row.Schriften + "</a>");
-						*/
-								
 						let aSchriften = row.Schriften.split(', ');
 						$.each(aSchriften, function(index, part) {
 							if(part !== "") {		
