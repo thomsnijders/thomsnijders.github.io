@@ -75,9 +75,6 @@
 								}
 							}
 						});
-						if (index != data.length -1) {
-							tdIIIF.append("<br>");
-						}
 					}
 				
 					// Prepare a new row
@@ -86,7 +83,7 @@
 					$($("<td>").text(row.Shelfmark)).appendTo(tr);
 					tdDigitalizations.appendTo(tr);
 					tdIIIF.appendTo(tr);
-					$($("<td>").text(row.Schriften)).appendTo(tr);
+					tdSchriften.appendTo(tr);
 					$($("<td>").text(row.Reichskalender)).appendTo(tr);
 					
 					$("#msCatalog tbody").append(tr);
