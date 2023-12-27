@@ -35,10 +35,10 @@
 					let tr = $("<tr>");
 					tr.append("<td>" + row.MSID + "</td>");
 					tr.append("<td>" + row.Shelfmark + "</td>");
-					tr.append("<td>" + (typeof row.Digitalizations !=== "undefined" ? row.Digitalizations : "") + "</td>");
-					tr.append("<td>" + (typeof row.IIIF !=== "undefined" ?  row.IIIF : "") + "</td>");
-					tr.append("<td>" + (typeof row.Schriften !=== "undefined" ?  row.Schriften : "") + "</td>");
-					tr.append("<td>" + (typeof row.Reichskalender !=== "undefined" ? row.Reichskalender : "") + "</td>");
+					tr.append("<td>" + (typeof row.Digitalizations !== "undefined" ? row.Digitalizations : "") + "</td>");
+					tr.append("<td>" + (typeof row.IIIF !== "undefined" ?  row.IIIF : "") + "</td>");
+					tr.append("<td>" + (typeof row.Schriften !== "undefined" ?  row.Schriften : "") + "</td>");
+					tr.append("<td>" + (typeof row.Reichskalender !== "undefined" ? row.Reichskalender : "") + "</td>");
 					
 					$("#msCatalog tbody").append(tr);
 				});
