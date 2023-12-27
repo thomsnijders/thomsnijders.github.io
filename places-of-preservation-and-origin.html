@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Computus manuscripts and where to find them</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+	
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/esri-leaflet/dist/esri-leaflet.js"></script>
+    <script src="https://unpkg.com/esri-leaflet-vector@3/dist/esri-leaflet-vector.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+        }
+        #basemaps-wrapper {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 400;
+            background: white;
+            padding: 10px;
+        }
+        #basemaps {
+            margin-bottom: 5px;
+        }
+    </style>
+
+</head>
+<body data-template="maps">
+
+	<div id="map" style="width: 100vw; height: 100vh;"></div>
+
+	<script>
+
+		// Initiate the map with the initial view in Europe and Zoom level 5
+		var map = L.map("map").setView([ 50,4.579], 5);
+		
+		// Setup the ArcGIS:Topographic basemap
+		// Please change the apikey when you create your own map
+		L.esri.Vector.vectorBasemapLayer("ArcGIS:Topographic", {
+			"apikey": "AAPK7cbfb9d0e1f3424eab34001fc3928216FnnnCT0hXWLeJD9SVMwARnRCbUStKfgwOUlKEJ9X1LLEEa205uB2MrxAHt5F68OB"	
+		}).addTo(map);
+
+		var layerLabels;
+
+		// Setup the header above the map
+		L.Control.Heading = L.Control.extend({
+			onAdd: function(map) {
+				var container = L.DomUtil.create('div', 'map-header leaflet-bar leaflet-control leaflet-control-custom');
+				var heading = L.DomUtil.create('h1');
+
+				heading.append("Computus manuscripts and where to find them");
+				container.append(heading);
+				return container;
+			}
+		});
+
+		L.control.header = function(opts) {
+			return new L.Control.Heading(opts);
+		};
+
+		var hdr = L.control.header({ position: 'topleft' }).addTo(map);
+		
+		// Place the zoomControl in the bottomright corner
+		map.zoomControl.setPosition('bottomright');
+			
+		// Prepare a new layer for places of preservation
+		var LocationsOfPreservation = L.layerGroup();
+		
+		// Prepare a new layer for places of origin
+		var PlacesOfOrigin = L.layerGroup();
+				
+		// Prepare the colors for the dots on the map
+		var color = [];
+		color.push("9D9D9D", "00E18B", "00DD47", "00D904", "3BD500", "79D200", "B5CE00", "CAA600", "C66700", "C22B00", "BF000E");
+
+		function colors(val) {
+			if(val == 0){
+				// 0 manuscripts
+				return "#" + color[0];
+			}
+
+			if(val == 1){
+				// 1 manuscript
+				return "#"+ color[3];
+			}
+
+			if(val > 1 && val <= 5){
+				// Between 1 and 5 manuscripts
+				return "#" + color[5];
+			}
+
+			if(val > 5 && val <= 25){
+				// Between 5 and 25 manuscripts
+				return "#" + color[7];
+			}
+
+			if(val > 25 && val <= 50){
+				// Between 25 and 25 manuscripts
+				return "#" + color[8];
+			}
+
+			if(val > 50 && val <= 75){
+				// Between 50 and 75 manuscripts
+				return "#" + color[9];
+			}
+
+			if(val > 75){
+				// More than 75 manuscripts
+				return "#" + color[10];
+			}
+		}
+		
+		// Retrieve the contents of places-of-preseravation.json, which should be present in the json directory
+		$.getJSON("json/places-of-preservation-and-origin.json", function( data ) {
+		
+			// PLACES OF PRESERVATION:
+				// Place a marker on the map layer for each place of preservation
+				$.each(data.LocationsOfPreservation, function(index, LocationOfPreservation) {
+					// Check the data for validity: lat and lng cannot be null
+					if (LocationOfPreservation.lat !== null && LocationOfPreservation.lng !== null) {
+						// Prepare the marker
+					    marker = new L.circleMarker([LocationOfPreservation.lat, LocationOfPreservation.lng], {
+					        color: colors(LocationOfPreservation.MSCount),
+					        fillColor: colors(LocationOfPreservation.MSCount),
+					        fillOpacity: 0.5,
+					        radius: 5
+					    }).bindPopup("<strong>" + LocationOfPreservation.Location + " " + LocationOfPreservation.Institution + "</strong><br>" + LocationOfPreservation.MSCount + " computistical manuscripts<br><br>");
+					    // Add the marker to the map layer
+						marker.addTo(LocationsOfPreservation);
+					}
+				});
+
+				// Add the map layer to the map
+				LocationsOfPreservation.addTo(map);
+			
+			// PLACES OF ORIGIN
+				// Place a marker on the map layer for each place of origin
+				$.each(data.PlacesOfOrigin, function(index, PlaceOfOrigin) {
+					// Check the data for validity: lat and lng cannot be null
+					if (PlaceOfOrigin.lat !== null && PlaceOfOrigin.lng !== null) {
+						// Prepare the marker
+					    marker = new L.circleMarker([PlaceOfOrigin.lat, PlaceOfOrigin.lng], {
+					        color: colors(PlaceOfOrigin.MSCount),
+					        fillColor: colors(PlaceOfOrigin.MSCount),
+					        fillOpacity: 0.5,
+					        radius: 5
+					    }).bindPopup("<strong>" + PlaceOfOrigin.Label + "</strong><br>" + PlaceOfOrigin.MSCount + " computistical manuscripts<br><br>" + "<a href='//computus.lat/origin/" + PlaceOfOrigin.MetaID + "' target='_blank'>Browse</a>")
+						// Add the marker to the map layer
+					    marker.addTo(PlacesOfOrigin);
+					}
+				});
+
+			// Prepare the map layers as overlays
+			var overlayMaps = {
+				"Libraries of preservation": LocationsOfPreservation,
+				"Places of origin": PlacesOfOrigin
+			};
+
+			// Add the control for switching betwee overlays
+			L.control.layers(null, overlayMaps).addTo(map);
+		});
+				
+	</script>
+
+</body>
+</html>
