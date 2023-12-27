@@ -106,6 +106,12 @@
 		
 		// Prepare a new layer for places of origin
 		var PlacesOfOrigin = L.layerGroup();
+		
+		// Prepare the map layers as overlays
+		var overlayMaps = {
+			"Libraries of preservation": LocationsOfPreservation,
+			"Places of origin": PlacesOfOrigin
+		};
 				
 		// Prepare the colors for the dots on the map
 		var color = [];
@@ -149,11 +155,10 @@
 		}
 		
 		// Retrieve the contents of places-of-preseravation.json, which should be present in the json directory
-		$.getJSON("json/places-of-preservation-and-origin.json", function( data ) {
+		$.getJSON("json/places-of-preservation.json", function( data ) {
 		
-			// PLACES OF PRESERVATION:
 				// Place a marker on the map layer for each place of preservation
-				$.each(data.LocationsOfPreservation, function(index, LocationOfPreservation) {
+				$.each(data, function(index, LocationOfPreservation) {
 					// Check the data for validity: lat and lng cannot be null
 					if (LocationOfPreservation.lat !== null && LocationOfPreservation.lng !== null) {
 						// Prepare the marker
@@ -170,33 +175,46 @@
 
 				// Add the map layer to the map
 				LocationsOfPreservation.addTo(map);
+				
+				// Prepare the map layers as overlays
+				var overlayMaps = {
+					"Libraries of preservation": LocationsOfPreservation,
+					"Places of origin": PlacesOfOrigin
+				};
+
+				map.removeControl(layers);
+				// Add the control for switching between overlays
+				L.control.layers(null, overlayMaps).addTo(map);
+		});
 			
-			// PLACES OF ORIGIN
-				// Place a marker on the map layer for each place of origin
-				$.each(data.PlacesOfOrigin, function(index, PlaceOfOrigin) {
-					// Check the data for validity: lat and lng cannot be null
-					if (PlaceOfOrigin.lat !== null && PlaceOfOrigin.lng !== null) {
-						// Prepare the marker
-					    marker = new L.circleMarker([PlaceOfOrigin.lat, PlaceOfOrigin.lng], {
-					        color: colors(PlaceOfOrigin.MSCount),
-					        fillColor: colors(PlaceOfOrigin.MSCount),
-					        fillOpacity: 0.5,
-					        radius: 5
-					    }).bindPopup("<strong>" + PlaceOfOrigin.Label + "</strong><br>" + PlaceOfOrigin.MSCount + " computistical manuscripts<br><br>" + "<a href='//computus.lat/origin/" + PlaceOfOrigin.MetaID + "' target='_blank'>Browse</a>")
-						// Add the marker to the map layer
-					    marker.addTo(PlacesOfOrigin);
-					}
-				});
-
-			// Prepare the map layers as overlays
-			var overlayMaps = {
-				"Libraries of preservation": LocationsOfPreservation,
-				"Places of origin": PlacesOfOrigin
-			};
-
-			// Add the control for switching betwee overlays
+		// Retrieve the contents of places-of-preseravation.json, which should be present in the json directory
+		$.getJSON("json/places-of-origin.json", function( data ) {
+			// Place a marker on the map layer for each place of origin
+			$.each(data, function(index, PlaceOfOrigin) {
+				// Check the data for validity: lat and lng cannot be null
+				if (PlaceOfOrigin.lat !== null && PlaceOfOrigin.lng !== null) {
+					// Prepare the marker
+					marker = new L.circleMarker([PlaceOfOrigin.lat, PlaceOfOrigin.lng], {
+						color: colors(PlaceOfOrigin.MSCount),
+						fillColor: colors(PlaceOfOrigin.MSCount),
+						fillOpacity: 0.5,
+						radius: 5
+					}).bindPopup("<strong>" + PlaceOfOrigin.Label + "</strong><br>" + PlaceOfOrigin.MSCount + " computistical manuscripts<br><br>" + "<a href='//computus.lat/origin/" + PlaceOfOrigin.MetaID + "' target='_blank'>Browse</a>")
+					// Add the marker to the map layer
+					marker.addTo(PlacesOfOrigin);
+				}
+			});
+			
+			// Add the map layer to the map
+			PlacesOfOrigin.addTo(map);
+			
+			map.removeControl(layers);
+			// Add the control for switching between overlays
 			L.control.layers(null, overlayMaps).addTo(map);
 		});
+
+			
+		
 				
 	</script>
 

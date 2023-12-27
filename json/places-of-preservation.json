@@ -1,0 +1,988 @@
+[{
+	"MetaID": "623",
+	"Location": "Albi",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "43.92686",
+	"lng": "2.146343"
+}, {
+	"MetaID": "130",
+	"Location": "Amiens",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "2",
+	"lat": "49.898005",
+	"lng": "2.303637"
+}, {
+	"MetaID": "131",
+	"Location": "Angers",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "3",
+	"lat": "47.462173",
+	"lng": "-0.547861"
+}, {
+	"MetaID": "143",
+	"Location": "Augsburg",
+	"Institution": "Staats- und Stadtbibliothek",
+	"MSCount": "1",
+	"lat": "48.369575",
+	"lng": "10.890558"
+}, {
+	"MetaID": "144",
+	"Location": "Augsburg",
+	"Institution": "Universit\u00e4tsbibliothek",
+	"MSCount": "2",
+	"lat": "48.334369",
+	"lng": "10.895214"
+}, {
+	"MetaID": "626",
+	"Location": "Autun",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "46.950914",
+	"lng": "4.301565"
+}, {
+	"MetaID": "132",
+	"Location": "Avignon",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "43.946098",
+	"lng": "4.80696"
+}, {
+	"MetaID": "133",
+	"Location": "Avranches",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "48.686825",
+	"lng": "-1.36166"
+}, {
+	"MetaID": "148",
+	"Location": "Baltimore",
+	"Institution": "Walters Art Gallery",
+	"MSCount": "3",
+	"lat": "39.296142",
+	"lng": "-76.616119"
+}, {
+	"MetaID": "149",
+	"Location": "Bamberg",
+	"Institution": "Staatsbibliothek",
+	"MSCount": "6",
+	"lat": "49.897355",
+	"lng": "10.882194"
+}, {
+	"MetaID": "1621",
+	"Location": "Barcelona",
+	"Institution": "Archivo de la Corona de Arag\u00f3n",
+	"MSCount": "1",
+	"lat": "41.38404",
+	"lng": "2.17718"
+}, {
+	"MetaID": "145",
+	"Location": "Basel",
+	"Institution": "Universit\u00e4tsbibliothek",
+	"MSCount": "8",
+	"lat": "47.55901",
+	"lng": "7.580962"
+}, {
+	"MetaID": "150",
+	"Location": "Berlin",
+	"Institution": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz",
+	"MSCount": "11",
+	"lat": "52.507538",
+	"lng": "13.370894"
+}, {
+	"MetaID": "152",
+	"Location": "Bern",
+	"Institution": "Burgerbibliothek",
+	"MSCount": "17",
+	"lat": "46.947167",
+	"lng": "7.448377"
+}, {
+	"MetaID": "134",
+	"Location": "Besan\u00e7on",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "47.238963",
+	"lng": "6.024054"
+}, {
+	"MetaID": "135",
+	"Location": "Bordeaux",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "44.873793",
+	"lng": "-0.572865"
+}, {
+	"MetaID": "656",
+	"Location": "Bremen",
+	"Institution": "Staats- und Universit\u00e4tsbibliothek",
+	"MSCount": "1",
+	"lat": "53.1081566",
+	"lng": "8.853793300000007"
+}, {
+	"MetaID": "154",
+	"Location": "Bruges",
+	"Institution": "Stadsbibliotheek",
+	"MSCount": "1",
+	"lat": "51.20969",
+	"lng": "3.223162"
+}, {
+	"MetaID": "156",
+	"Location": "Brussels",
+	"Institution": "Koninklijke Bibliotheek Albert I",
+	"MSCount": "9",
+	"lat": "50.843333",
+	"lng": "4.356389"
+}, {
+	"MetaID": "691",
+	"Location": "B\u00fcckeburg",
+	"Institution": "Nieders\u00e4chsisches Staatsarchiv",
+	"MSCount": "1",
+	"lat": "52.2587085",
+	"lng": "9.04463850000002"
+}, {
+	"MetaID": "136",
+	"Location": "Caen",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "49.182725",
+	"lng": "-0.370679"
+}, {
+	"MetaID": "160",
+	"Location": "Cambridge",
+	"Institution": "Corpus Christi College Library",
+	"MSCount": "5",
+	"lat": "52.2026952",
+	"lng": "0.1184498"
+}, {
+	"MetaID": "607",
+	"Location": "Cambridge",
+	"Institution": "Fitzwilliam Museum",
+	"MSCount": "1",
+	"lat": "52.199534",
+	"lng": "0.119944"
+}, {
+	"MetaID": "161",
+	"Location": "Cambridge",
+	"Institution": "Pembroke College Library",
+	"MSCount": "1",
+	"lat": "52.201871",
+	"lng": "0.119922"
+}, {
+	"MetaID": "608",
+	"Location": "Cambridge",
+	"Institution": "St. John's College Library",
+	"MSCount": "2",
+	"lat": "52.207738",
+	"lng": "0.117867"
+}, {
+	"MetaID": "162",
+	"Location": "Cambridge",
+	"Institution": "Trinity College Library",
+	"MSCount": "4",
+	"lat": "52.207018",
+	"lng": "0.114895"
+}, {
+	"MetaID": "609",
+	"Location": "Cambridge",
+	"Institution": "University Library",
+	"MSCount": "4",
+	"lat": "52.2050683",
+	"lng": "0.10775969999997415"
+}, {
+	"MetaID": "182",
+	"Location": "Cologne",
+	"Institution": "Erzbisch\u00f6fliche Di\u00f6zesan- und Dombibliothek",
+	"MSCount": "5",
+	"lat": "50.944368",
+	"lng": "6.95202"
+}, {
+	"MetaID": "183",
+	"Location": "Cologne",
+	"Institution": "Historisches Archiv",
+	"MSCount": "1",
+	"lat": "50.93467",
+	"lng": "6.96211"
+}, {
+	"MetaID": "1587",
+	"Location": "Cologne",
+	"Institution": "Unknown institution",
+	"MSCount": "1",
+	"lat": null,
+	"lng": null
+}, {
+	"MetaID": "163",
+	"Location": "Cologny",
+	"Institution": "Bibliothek Bodmeriana",
+	"MSCount": "2",
+	"lat": "46.215268",
+	"lng": "6.180629"
+}, {
+	"MetaID": "685",
+	"Location": "Copenhagen",
+	"Institution": "Kongelige Bibliotek",
+	"MSCount": "2",
+	"lat": "55.6733994",
+	"lng": "12.58265879999999"
+}, {
+	"MetaID": "164",
+	"Location": "Darmstadt",
+	"Institution": "Landes- und Hochschulbibliothek",
+	"MSCount": "3",
+	"lat": "49.873369",
+	"lng": "8.656489"
+}, {
+	"MetaID": "137",
+	"Location": "Dijon",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "47.319294",
+	"lng": "5.042493"
+}, {
+	"MetaID": "165",
+	"Location": "Dresden",
+	"Institution": "Landesbibliothek",
+	"MSCount": "1",
+	"lat": "51.0286216",
+	"lng": "13.737017000000037"
+}, {
+	"MetaID": "428",
+	"Location": "Durham",
+	"Institution": "Cathedral Library",
+	"MSCount": "2",
+	"lat": "54.773062",
+	"lng": "-1.577053"
+}, {
+	"MetaID": "1482",
+	"Location": "D\u00fcsseldorf",
+	"Institution": "Universit\u00e4ts- und Landesbibliothek",
+	"MSCount": "1",
+	"lat": "51.186793",
+	"lng": "6.802896"
+}, {
+	"MetaID": "167",
+	"Location": "Einsiedeln",
+	"Institution": "Stiftsbibliothek",
+	"MSCount": "11",
+	"lat": "47.128093",
+	"lng": "8.744269"
+}, {
+	"MetaID": "171",
+	"Location": "El Escorial",
+	"Institution": "Real Biblioteca del Monasterio de San Lorenzo",
+	"MSCount": "6",
+	"lat": "40.58917921949207",
+	"lng": "-4.147759004194481"
+}, {
+	"MetaID": "172",
+	"Location": "Erfurt",
+	"Institution": "Stadt- und Regionalbibliothek",
+	"MSCount": "2",
+	"lat": "50.97841020023104",
+	"lng": "11.024393298387055"
+}, {
+	"MetaID": "612",
+	"Location": "Exeter",
+	"Institution": "Cathedral Library",
+	"MSCount": "1",
+	"lat": "50.7210422",
+	"lng": "-3.530336000000034"
+}, {
+	"MetaID": "173",
+	"Location": "Florence",
+	"Institution": "Biblioteca Medicea Laurenziana",
+	"MSCount": "6",
+	"lat": "43.774181",
+	"lng": "11.254802"
+}, {
+	"MetaID": "174",
+	"Location": "Florence",
+	"Institution": "Biblioteca Nazionale Centrale",
+	"MSCount": "1",
+	"lat": "43.767081",
+	"lng": "11.262348"
+}, {
+	"MetaID": "175",
+	"Location": "Frankfurt am Main",
+	"Institution": "Stadt- und Universit\u00e4tsbibliothek",
+	"MSCount": "1",
+	"lat": "50.12052",
+	"lng": "8.653091"
+}, {
+	"MetaID": "176",
+	"Location": "Freiburg im Breisgau",
+	"Institution": "Erzbisch\u00f6fliche Archiv",
+	"MSCount": "1",
+	"lat": "47.986787",
+	"lng": "7.872744"
+}, {
+	"MetaID": "1257",
+	"Location": "Freiburg im Breisgau",
+	"Institution": "Universit\u00e4tsbibliothek",
+	"MSCount": "3",
+	"lat": "47.9942479",
+	"lng": "7.845003600000041"
+}, {
+	"MetaID": "877",
+	"Location": "Fribourg",
+	"Institution": "Biblioth\u00e8que cantonale et universitaire",
+	"MSCount": "2",
+	"lat": "46.8065509",
+	"lng": "7.155995500000017"
+}, {
+	"MetaID": "1262",
+	"Location": "Fulda",
+	"Institution": "Hochschul- und Landesbibliothek",
+	"MSCount": "4",
+	"lat": "50.554837",
+	"lng": "9.680016000000023"
+}, {
+	"MetaID": "177",
+	"Location": "Geneva",
+	"Institution": "Bibliotheque Publique et Universitaire",
+	"MSCount": "1",
+	"lat": "46.19883979999999",
+	"lng": "6.145268200000032"
+}, {
+	"MetaID": "1522",
+	"Location": "Gent",
+	"Institution": "Universiteitsbibliotheek",
+	"MSCount": "1",
+	"lat": "51.045983291526916",
+	"lng": "3.724892849504306"
+}, {
+	"MetaID": "618",
+	"Location": "Glasgow",
+	"Institution": "University Library",
+	"MSCount": "1",
+	"lat": "55.873422",
+	"lng": "-4.28907"
+}, {
+	"MetaID": "178",
+	"Location": "Gotha",
+	"Institution": "Forschungs- und Landesbibliothek",
+	"MSCount": "1",
+	"lat": "50.989321",
+	"lng": "11.008887"
+}, {
+	"MetaID": "1509",
+	"Location": "G\u00f6ttingen",
+	"Institution": "Staats- und Universit\u00e4tsbibliothek",
+	"MSCount": "1",
+	"lat": "51.539774134236225",
+	"lng": "9.936016833997359"
+}, {
+	"MetaID": "179",
+	"Location": "Hannover",
+	"Institution": "Landesbibliothek",
+	"MSCount": "1",
+	"lat": "52.3652968",
+	"lng": "9.730880699999943"
+}, {
+	"MetaID": "678",
+	"Location": "Harvard",
+	"Institution": "Houghton Library",
+	"MSCount": "1",
+	"lat": "42.373069",
+	"lng": "-71.115919"
+}, {
+	"MetaID": "146",
+	"Location": "Heidelberg",
+	"Institution": "Universit\u00e4tsbibliothek",
+	"MSCount": "1",
+	"lat": "49.408916",
+	"lng": "8.705869"
+}, {
+	"MetaID": "882",
+	"Location": "Hermetschwil",
+	"Institution": "Benediktinerinnenkloster",
+	"MSCount": "1",
+	"lat": "47.3344585",
+	"lng": "8.34640539999998"
+}, {
+	"MetaID": "181",
+	"Location": "Ivrea",
+	"Institution": "Biblioteca Capitolare",
+	"MSCount": "2",
+	"lat": "45.468623",
+	"lng": "7.875769999999989"
+}, {
+	"MetaID": "1618",
+	"Location": "Jena",
+	"Institution": "Th\u00fcringer Universit\u00e4ts- und Landesbibliothek",
+	"MSCount": "1",
+	"lat": "50.93056",
+	"lng": "11.58781"
+}, {
+	"MetaID": "180",
+	"Location": "Karlsruhe",
+	"Institution": "Landesbibliothek",
+	"MSCount": "13",
+	"lat": "49.010669",
+	"lng": "8.398898"
+}, {
+	"MetaID": "672",
+	"Location": "Kassel",
+	"Institution": "Universit\u00e4ts-, Landes- und Murhardsche Bibliothek",
+	"MSCount": "2",
+	"lat": "51.321851",
+	"lng": "9.505549"
+}, {
+	"MetaID": "1615",
+	"Location": "Lambach",
+	"Institution": "Stiftsbibliothek",
+	"MSCount": "1",
+	"lat": "48.09122",
+	"lng": "13.87569"
+}, {
+	"MetaID": "139",
+	"Location": "Laon",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "2",
+	"lat": "49.563359",
+	"lng": "3.609325"
+}, {
+	"MetaID": "185",
+	"Location": "Leiden",
+	"Institution": "Universiteitsbibliotheek",
+	"MSCount": "11",
+	"lat": "52.157513",
+	"lng": "4.481256"
+}, {
+	"MetaID": "670",
+	"Location": "Le\u00f3n",
+	"Institution": "Archivo de la Catedral",
+	"MSCount": "1",
+	"lat": "42.5997032",
+	"lng": "-5.566670599999952"
+}, {
+	"MetaID": "186",
+	"Location": "London",
+	"Institution": "British Library",
+	"MSCount": "66",
+	"lat": "51.5299717",
+	"lng": "-0.12767589999998563"
+}, {
+	"MetaID": "1612",
+	"Location": "Los Angeles",
+	"Institution": "John Paul Getty Museum",
+	"MSCount": "1",
+	"lat": "34.08270",
+	"lng": "-118.47569"
+}, {
+	"MetaID": "1533",
+	"Location": "Lucca",
+	"Institution": "Biblioteca Capitolare Feliniana",
+	"MSCount": "1",
+	"lat": "43.8409375625582",
+	"lng": "10.507097098135539"
+}, {
+	"MetaID": "675",
+	"Location": "Lucca",
+	"Institution": "Biblioteca Civica Agor\u00e0",
+	"MSCount": "1",
+	"lat": "43.8418486",
+	"lng": "10.506086699999969"
+}, {
+	"MetaID": "666",
+	"Location": "Lyon",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "45.737075",
+	"lng": "4.867983"
+}, {
+	"MetaID": "187",
+	"Location": "Madrid",
+	"Institution": "Biblioteca Nacional de Espa\u00f1a",
+	"MSCount": "4",
+	"lat": "40.423761",
+	"lng": "-3.690232"
+}, {
+	"MetaID": "1554",
+	"Location": "Madrid",
+	"Institution": "Real Academia de la Historia",
+	"MSCount": "2",
+	"lat": "40.413475",
+	"lng": "-3.698988"
+}, {
+	"MetaID": "1609",
+	"Location": "Mainz",
+	"Institution": "Domschatz",
+	"MSCount": "1",
+	"lat": "49.99860",
+	"lng": "8.27466"
+}, {
+	"MetaID": "1478",
+	"Location": "Manchester",
+	"Institution": "John Rylands University Library",
+	"MSCount": "1",
+	"lat": "53.480274",
+	"lng": "-2.24876"
+}, {
+	"MetaID": "168",
+	"Location": "Melk",
+	"Institution": "Stiftsbibliothek",
+	"MSCount": "1",
+	"lat": "48.229458",
+	"lng": "15.333505"
+}, {
+	"MetaID": "1606",
+	"Location": "Merseburg",
+	"Institution": "Domstifsbibliothek",
+	"MSCount": "1",
+	"lat": "51.35815",
+	"lng": "12.00105"
+}, {
+	"MetaID": "648",
+	"Location": "Metz",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "2",
+	"lat": "49.119643",
+	"lng": "6.176905"
+}, {
+	"MetaID": "188",
+	"Location": "Milan",
+	"Institution": "Archivio di St. Ambrogio",
+	"MSCount": "2",
+	"lat": "45.46232920000001",
+	"lng": "9.175612000000001"
+}, {
+	"MetaID": "189",
+	"Location": "Milan",
+	"Institution": "Biblioteca Ambrosiana",
+	"MSCount": "12",
+	"lat": "45.4634791",
+	"lng": "9.185788099999968"
+}, {
+	"MetaID": "1531",
+	"Location": "Modena",
+	"Institution": "Biblioteca et Archivio Capitolare",
+	"MSCount": "1",
+	"lat": "44.64649754119121",
+	"lng": "10.925677998162437"
+}, {
+	"MetaID": "190",
+	"Location": "Montecassino",
+	"Institution": "Archivio della Badia",
+	"MSCount": "3",
+	"lat": "41.4903315",
+	"lng": "13.813386499999979"
+}, {
+	"MetaID": "191",
+	"Location": "Montpellier",
+	"Institution": "Biblioth\u00e8que Interuniversitaire",
+	"MSCount": "6",
+	"lat": "43.604722",
+	"lng": "3.898679"
+}, {
+	"MetaID": "192",
+	"Location": "Monza",
+	"Institution": "Biblioteca Capitolare",
+	"MSCount": "3",
+	"lat": "45.5836007",
+	"lng": "9.275748000000021"
+}, {
+	"MetaID": "151",
+	"Location": "Munich",
+	"Institution": "Bayerische Staatsbibliothek",
+	"MSCount": "34",
+	"lat": "48.135125",
+	"lng": "11.581981"
+}, {
+	"MetaID": "632",
+	"Location": "Munich",
+	"Institution": "Hauptstaatsarchiv",
+	"MSCount": "1",
+	"lat": "48.14613420000001",
+	"lng": "11.580845199999999"
+}, {
+	"MetaID": "605",
+	"Location": "M\u00fcnster",
+	"Institution": "Staatsarchiv",
+	"MSCount": "1",
+	"lat": "51.96558",
+	"lng": "7.635189999999966"
+}, {
+	"MetaID": "1518",
+	"Location": "M\u00fcnster",
+	"Institution": "Universit\u00e4tsbibliothek",
+	"MSCount": "1",
+	"lat": "51.96324922538599",
+	"lng": "7.620774060554829"
+}, {
+	"MetaID": "645",
+	"Location": "Nancy",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "48.69185599999999",
+	"lng": "6.178905999999984"
+}, {
+	"MetaID": "193",
+	"Location": "New York",
+	"Institution": "Pierpont Morgan Library",
+	"MSCount": "1",
+	"lat": "40.7492258",
+	"lng": "-73.98139709999998"
+}, {
+	"MetaID": "804",
+	"Location": "Orl\u00e9ans",
+	"Institution": "M\u00e9diath\u00e8que",
+	"MSCount": "2",
+	"lat": "47.902967",
+	"lng": "1.909251"
+}, {
+	"MetaID": "194",
+	"Location": "Oxford",
+	"Institution": "Bodleian Library",
+	"MSCount": "47",
+	"lat": "51.754061",
+	"lng": "-1.254051"
+}, {
+	"MetaID": "1579",
+	"Location": "Oxford",
+	"Institution": "Corpus Christi College",
+	"MSCount": "1",
+	"lat": "51.75129918784402",
+	"lng": "-1.2538902153464646"
+}, {
+	"MetaID": "195",
+	"Location": "Oxford",
+	"Institution": "New College Library",
+	"MSCount": "2",
+	"lat": "51.7541514",
+	"lng": "-1.2525278000000526"
+}, {
+	"MetaID": "1266",
+	"Location": "Oxford",
+	"Institution": "St. John's College",
+	"MSCount": "1",
+	"lat": "51.7560842",
+	"lng": "-1.2590403000000379"
+}, {
+	"MetaID": "196",
+	"Location": "Padua",
+	"Institution": "Biblioteca Antoniana",
+	"MSCount": "1",
+	"lat": "45.4005296",
+	"lng": "11.881174800000053"
+}, {
+	"MetaID": "197",
+	"Location": "Paris",
+	"Institution": "Biblioth\u00e8que Nationale de France",
+	"MSCount": "91",
+	"lat": "48.835852",
+	"lng": "2.372197"
+}, {
+	"MetaID": "198",
+	"Location": "Prague",
+	"Institution": "Knihovna Metropolitni Kapitoli",
+	"MSCount": "1",
+	"lat": "50.089929",
+	"lng": "14.395740599999954"
+}, {
+	"MetaID": "199",
+	"Location": "Prague",
+	"Institution": "N\u00e1rodni Knihovna",
+	"MSCount": "1",
+	"lat": "50.06116",
+	"lng": "14.530722"
+}, {
+	"MetaID": "481",
+	"Location": "Regensburg",
+	"Institution": "Unknown institution",
+	"MSCount": "1",
+	"lat": "49.0134297",
+	"lng": "12.101623600000039"
+}, {
+	"MetaID": "1564",
+	"Location": "Rochester N.Y.",
+	"Institution": "Sibley Music Library",
+	"MSCount": "1",
+	"lat": "43.157702301741594",
+	"lng": "-77.60174065399136"
+}, {
+	"MetaID": "200",
+	"Location": "Rome",
+	"Institution": "Biblioteca Casanatense",
+	"MSCount": "1",
+	"lat": "41.898825",
+	"lng": "12.47933999999998"
+}, {
+	"MetaID": "201",
+	"Location": "Rome",
+	"Institution": "Biblioteca Nazionale Centrale",
+	"MSCount": "1",
+	"lat": "41.906205",
+	"lng": "12.50751600000001"
+}, {
+	"MetaID": "202",
+	"Location": "Rome",
+	"Institution": "Biblioteca Vallicelliana",
+	"MSCount": "1",
+	"lat": "41.89830500000001",
+	"lng": "12.468659000000002"
+}, {
+	"MetaID": "398",
+	"Location": "Rome",
+	"Institution": "Bibliotheca Albani",
+	"MSCount": "1",
+	"lat": "41.9159737",
+	"lng": "12.500183800000059"
+}, {
+	"MetaID": "1472",
+	"Location": "Rome",
+	"Institution": "Bibliotheca Angelica",
+	"MSCount": "1",
+	"lat": "41.901023772726305",
+	"lng": " 12.474495784582103"
+}, {
+	"MetaID": "147",
+	"Location": "Rouen",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "5",
+	"lat": "49.443844",
+	"lng": "1.106998"
+}, {
+	"MetaID": "203",
+	"Location": "Salamanca",
+	"Institution": "Bibliotecas Universidad",
+	"MSCount": "1",
+	"lat": "40.961338",
+	"lng": "-5.666925"
+}, {
+	"MetaID": "184",
+	"Location": "Salerno",
+	"Institution": "Archivio della Badia",
+	"MSCount": "1",
+	"lat": "40.68236950565269",
+	"lng": "14.691148098033699"
+}, {
+	"MetaID": "1549",
+	"Location": "Salisbury",
+	"Institution": "Cathedral Library",
+	"MSCount": "1",
+	"lat": "51.06508147326042",
+	"lng": "-1.7972605862632514"
+}, {
+	"MetaID": "1557",
+	"Location": "Santiago de Compostela",
+	"Institution": "Biblioteca Universitaria",
+	"MSCount": "1",
+	"lat": "42.879272956842755",
+	"lng": "-8.545158386549726"
+}, {
+	"MetaID": "155",
+	"Location": "Schaffhausen",
+	"Institution": "Stadtbibliothek",
+	"MSCount": "1",
+	"lat": "47.695395",
+	"lng": "8.63706"
+}, {
+	"MetaID": "1552",
+	"Location": "Silos",
+	"Institution": "Archivio del monsterio de Santo Domingo",
+	"MSCount": "2",
+	"lat": "41.96235213527667",
+	"lng": "-3.4191679827972243"
+}, {
+	"MetaID": "1506",
+	"Location": "Solothurn",
+	"Institution": "St. Ursenkathedrale",
+	"MSCount": "1",
+	"lat": "47.208273783420466",
+	"lng": "7.539011955923817"
+}, {
+	"MetaID": "885",
+	"Location": "Solothurn",
+	"Institution": "Zentralbiliothek",
+	"MSCount": "1",
+	"lat": "47.2098309",
+	"lng": "7.529631800000061"
+}, {
+	"MetaID": "169",
+	"Location": "St. Gall",
+	"Institution": "Stiftsbibliothek",
+	"MSCount": "32",
+	"lat": "47.423439",
+	"lng": "9.3777"
+}, {
+	"MetaID": "140",
+	"Location": "St. Omer",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "1",
+	"lat": "50.74757",
+	"lng": "2.257262"
+}, {
+	"MetaID": "204",
+	"Location": "St. Petersburg",
+	"Institution": "Natsionalnaja biblioteka",
+	"MSCount": "6",
+	"lat": "59.93299",
+	"lng": "30.33518300000003"
+}, {
+	"MetaID": "1545",
+	"Location": "Stockholm",
+	"Institution": "Kungliga biblioteket",
+	"MSCount": "3",
+	"lat": "59.33827593750488",
+	"lng": "18.07201432569577"
+}, {
+	"MetaID": "205",
+	"Location": "Strasbourg",
+	"Institution": "Biblioth\u00e8que Nationale et Universitaire",
+	"MSCount": "1",
+	"lat": "48.592349",
+	"lng": "7.69754"
+}, {
+	"MetaID": "1486",
+	"Location": "Stuttgart",
+	"Institution": "W\u00fcrttembergische Landesbibliothek",
+	"MSCount": "4",
+	"lat": "48.776926",
+	"lng": "\t9.18504"
+}, {
+	"MetaID": "208",
+	"Location": "Toledo",
+	"Institution": "Biblioteca del Cabildo",
+	"MSCount": "1",
+	"lat": "39.857747460987646",
+	"lng": "-4.020732873155214"
+}, {
+	"MetaID": "141",
+	"Location": "Tournai",
+	"Institution": "Biblioth\u00e8que de la ville",
+	"MSCount": "1",
+	"lat": "50.62654205646583",
+	"lng": "3.40873926211824"
+}, {
+	"MetaID": "142",
+	"Location": "Tours",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "2",
+	"lat": "47.394144",
+	"lng": "0.68484"
+}, {
+	"MetaID": "1582",
+	"Location": "Trient",
+	"Institution": "Museo provinciale del Castello del Buonconsiglio",
+	"MSCount": "1",
+	"lat": "46.071616218260665",
+	"lng": "11.126600241640825"
+}, {
+	"MetaID": "170",
+	"Location": "Trier",
+	"Institution": "Stadtbibliothek",
+	"MSCount": "3",
+	"lat": "49.7569",
+	"lng": "6.64248"
+}, {
+	"MetaID": "1504",
+	"Location": "Trier",
+	"Institution": "Unknown institution",
+	"MSCount": "1",
+	"lat": null,
+	"lng": null
+}, {
+	"MetaID": "630",
+	"Location": "Turino",
+	"Institution": "Biblioteca Nazionale Universitaria",
+	"MSCount": "1",
+	"lat": "45.0683671",
+	"lng": "7.687101999999982"
+}, {
+	"MetaID": "1590",
+	"Location": "Unknown location",
+	"Institution": "Unknown institution",
+	"MSCount": "2",
+	"lat": null,
+	"lng": null
+}, {
+	"MetaID": "1461",
+	"Location": "Utrecht",
+	"Institution": "Universiteitsbibliotheek",
+	"MSCount": "2",
+	"lat": "52.08428",
+	"lng": "5.17274"
+}, {
+	"MetaID": "138",
+	"Location": "Valenciennes",
+	"Institution": "Biblioth\u00e8que Municipale",
+	"MSCount": "3",
+	"lat": "50.359679",
+	"lng": "3.519563"
+}, {
+	"MetaID": "209",
+	"Location": "Vatican",
+	"Institution": "Biblioteca Apostolica Vaticana",
+	"MSCount": "65",
+	"lat": "41.903038",
+	"lng": "12.454465"
+}, {
+	"MetaID": "1585",
+	"Location": "Venice",
+	"Institution": "Biblioteca Nazionale Marciana",
+	"MSCount": "1",
+	"lat": "45.4332",
+	"lng": "12.3393"
+}, {
+	"MetaID": "1536",
+	"Location": "Vercelli",
+	"Institution": "Biblioteca Capitolare",
+	"MSCount": "2",
+	"lat": "45.329866917202644",
+	"lng": "8.423095455858787"
+}, {
+	"MetaID": "1594",
+	"Location": "Verdun",
+	"Institution": "Library Study Du Grand Verdun - Fonds Patrimoniaux",
+	"MSCount": "2",
+	"lat": "49.15930477918566",
+	"lng": "5.381041323267679"
+}, {
+	"MetaID": "1540",
+	"Location": "Verona",
+	"Institution": "Biblioteca Capitolare",
+	"MSCount": "3",
+	"lat": "45.481459251923376",
+	"lng": "10.98950802472483"
+}, {
+	"MetaID": "210",
+	"Location": "Vienna",
+	"Institution": "\u00d6sterreichische Nationalbibliothek",
+	"MSCount": "13",
+	"lat": "48.206111",
+	"lng": "16.366389"
+}, {
+	"MetaID": "659",
+	"Location": "Weimar",
+	"Institution": "Landesbibliothek",
+	"MSCount": "1",
+	"lat": "50.9785158",
+	"lng": "11.33222109999997"
+}, {
+	"MetaID": "211",
+	"Location": "Wolfenb\u00fcttel",
+	"Institution": "Herzog August Bibliothek",
+	"MSCount": "8",
+	"lat": "52.164047",
+	"lng": "10.530299"
+}, {
+	"MetaID": "153",
+	"Location": "Wroclaw",
+	"Institution": "Biblioteka Uniwersyteka",
+	"MSCount": "1",
+	"lat": "51.108761",
+	"lng": "17.028079"
+}, {
+	"MetaID": "602",
+	"Location": "W\u00fcrzburg",
+	"Institution": "Universit\u00e4tsbibliothek",
+	"MSCount": "6",
+	"lat": "49.782455",
+	"lng": "9.968649"
+}, {
+	"MetaID": "212",
+	"Location": "Z\u00fcrich",
+	"Institution": "Zentralbibliothek",
+	"MSCount": "13",
+	"lat": "47.374074",
+	"lng": "8.545021"
+}]

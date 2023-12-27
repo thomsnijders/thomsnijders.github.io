@@ -1,0 +1,1501 @@
+[{
+	"MetaID": "693",
+	"Label": "Lorsch, Hessen",
+	"MSCount": "3",
+	"lat": "49.65392550000001",
+	"lng": "8.5675071"
+}, {
+	"MetaID": "694",
+	"Label": "Cologne, North Rhine-Westphalia",
+	"MSCount": "3",
+	"lat": "50.937531",
+	"lng": "6.9602786"
+}, {
+	"MetaID": "695",
+	"Label": "Auxerre, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "47.798202",
+	"lng": "3.573781"
+}, {
+	"MetaID": "696",
+	"Label": "St. Beno\u00eet-sur-Loire, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "47.81033100000001",
+	"lng": "2.319231"
+}, {
+	"MetaID": "697",
+	"Label": "Laon, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.564133",
+	"lng": "3.61989"
+}, {
+	"MetaID": "699",
+	"Label": "Verona, Veneto",
+	"MSCount": "0",
+	"lat": "45.43838419999999",
+	"lng": "10.9916215"
+}, {
+	"MetaID": "700",
+	"Label": "Massay, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "47.152232",
+	"lng": "1.991003"
+}, {
+	"MetaID": "702",
+	"Label": "Soissons, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.376636",
+	"lng": "3.32342"
+}, {
+	"MetaID": "703",
+	"Label": "Reichenau, Baden-W\u00fcrttemberg",
+	"MSCount": "0",
+	"lat": "47.6980283",
+	"lng": "9.060883499999999"
+}, {
+	"MetaID": "705",
+	"Label": "Lyon, Auvergne-Rh\u00f4ne-Alpes",
+	"MSCount": "0",
+	"lat": "45.764043",
+	"lng": "4.835659"
+}, {
+	"MetaID": "706",
+	"Label": "Trier, Rhineland-Palatinate",
+	"MSCount": "1",
+	"lat": "49.749992",
+	"lng": "6.6371433"
+}, {
+	"MetaID": "707",
+	"Label": "Salzburg, Salzburg",
+	"MSCount": "0",
+	"lat": "47.80949",
+	"lng": "13.05501"
+}, {
+	"MetaID": "708",
+	"Label": "Bobbio, Emilia-Romagna",
+	"MSCount": "0",
+	"lat": "44.7700875",
+	"lng": "9.3859502"
+}, {
+	"MetaID": "709",
+	"Label": "Flavigny-sur-Ozerain, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "47.5108589",
+	"lng": "4.5289426"
+}, {
+	"MetaID": "710",
+	"Label": "Fulda, Hessen",
+	"MSCount": "0",
+	"lat": "50.5558095",
+	"lng": "9.6808449"
+}, {
+	"MetaID": "712",
+	"Label": "Wei\u00dfenburg, Bayern",
+	"MSCount": "0",
+	"lat": "49.0272089",
+	"lng": "10.9710237"
+}, {
+	"MetaID": "713",
+	"Label": "Mainz, Rhineland-Palatinate",
+	"MSCount": "1",
+	"lat": "49.9928617",
+	"lng": "8.247252599999999"
+}, {
+	"MetaID": "714",
+	"Label": "Regensburg, Bavaria",
+	"MSCount": "0",
+	"lat": "49.0134297",
+	"lng": "12.1016236"
+}, {
+	"MetaID": "715",
+	"Label": "Melk, Lower Austria",
+	"MSCount": "0",
+	"lat": "48.22647",
+	"lng": "15.34996"
+}, {
+	"MetaID": "716",
+	"Label": "St. Gall, St. Gallen",
+	"MSCount": "0",
+	"lat": "47.4244818",
+	"lng": "9.376717299999999"
+}, {
+	"MetaID": "722",
+	"Label": "Reims, Grand-Est",
+	"MSCount": "0",
+	"lat": "49.258329",
+	"lng": "4.031696"
+}, {
+	"MetaID": "723",
+	"Label": "Pr\u00fcm, Rhineland-Palatinate",
+	"MSCount": "1",
+	"lat": "50.208237",
+	"lng": "6.419700499999999"
+}, {
+	"MetaID": "751",
+	"Label": "Cambrai, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "50.173538",
+	"lng": "3.236633"
+}, {
+	"MetaID": "752",
+	"Label": "Le\u00f3n, Bretagne",
+	"MSCount": "0",
+	"lat": "48.567999",
+	"lng": "-3.525221"
+}, {
+	"MetaID": "753",
+	"Label": "Redon, Bretagne",
+	"MSCount": "0",
+	"lat": "47.650742",
+	"lng": "-2.083938"
+}, {
+	"MetaID": "757",
+	"Label": "Verdun, Grand-Est",
+	"MSCount": "0",
+	"lat": "49.15987639999999",
+	"lng": "5.3844231"
+}, {
+	"MetaID": "760",
+	"Label": "Murbach, Grand-Est",
+	"MSCount": "0",
+	"lat": "47.923656",
+	"lng": "7.157327"
+}, {
+	"MetaID": "762",
+	"Label": "Ivrea, Piedmont",
+	"MSCount": "0",
+	"lat": "45.4672764",
+	"lng": "7.8800589"
+}, {
+	"MetaID": "765",
+	"Label": "Amiens, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.894067",
+	"lng": "2.295753"
+}, {
+	"MetaID": "766",
+	"Label": "Nevers, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "46.99089600000001",
+	"lng": "3.162845"
+}, {
+	"MetaID": "767",
+	"Label": "Cassino, Lazio",
+	"MSCount": "0",
+	"lat": "41.4866953",
+	"lng": "13.8332193"
+}, {
+	"MetaID": "775",
+	"Label": "Freising, Bavaria",
+	"MSCount": "0",
+	"lat": "48.4028796",
+	"lng": "11.7411846"
+}, {
+	"MetaID": "776",
+	"Label": "Orl\u00e9ans, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "47.902964",
+	"lng": "1.909251"
+}, {
+	"MetaID": "778",
+	"Label": "Corbie, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.907676",
+	"lng": "2.511947"
+}, {
+	"MetaID": "780",
+	"Label": "Paris, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.856614",
+	"lng": "2.3522219"
+}, {
+	"MetaID": "782",
+	"Label": "Tours, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "47.394144",
+	"lng": "0.68484"
+}, {
+	"MetaID": "785",
+	"Label": "St. Denis, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.936181",
+	"lng": "2.357443"
+}, {
+	"MetaID": "868",
+	"Label": "Aachen, North Rhine-Westphalia",
+	"MSCount": "1",
+	"lat": "50.7753455",
+	"lng": "6.083886800000001"
+}, {
+	"MetaID": "919",
+	"Label": "Limoges, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "45.83361900000001",
+	"lng": "1.261105"
+}, {
+	"MetaID": "935",
+	"Label": "Lobbes, Walloon Region",
+	"MSCount": "0",
+	"lat": "50.3520052",
+	"lng": "4.2665184"
+}, {
+	"MetaID": "936",
+	"Label": "St. Omer, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "50.750115",
+	"lng": "2.252208"
+}, {
+	"MetaID": "937",
+	"Label": "St. Amand-les-Eaux, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "50.44897899999999",
+	"lng": "3.428713"
+}, {
+	"MetaID": "938",
+	"Label": "Echternach, Luxemburg",
+	"MSCount": "0",
+	"lat": "49.8114133",
+	"lng": "6.4175635"
+}, {
+	"MetaID": "939",
+	"Label": "St. Riquier, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "50.134581",
+	"lng": "1.945999"
+}, {
+	"MetaID": "940",
+	"Label": "Arras, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "50.291002",
+	"lng": "2.777535"
+}, {
+	"MetaID": "941",
+	"Label": "Altom\u00fcnster, Bavaria",
+	"MSCount": "0",
+	"lat": "48.3874681",
+	"lng": "11.256582"
+}, {
+	"MetaID": "942",
+	"Label": "Weilheim, Bavaria",
+	"MSCount": "0",
+	"lat": "47.8406859",
+	"lng": "11.1421379"
+}, {
+	"MetaID": "943",
+	"Label": "Tegernsee, Bavaria",
+	"MSCount": "0",
+	"lat": "47.71315240000001",
+	"lng": "11.758016"
+}, {
+	"MetaID": "944",
+	"Label": "Werden, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "51.38843019999999",
+	"lng": "7.0029999"
+}, {
+	"MetaID": "947",
+	"Label": "Kaiserswerth, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "51.2977265",
+	"lng": "6.7380299"
+}, {
+	"MetaID": "950",
+	"Label": "Metz, Grand-Est",
+	"MSCount": "0",
+	"lat": "49.1193089",
+	"lng": "6.175715599999999"
+}, {
+	"MetaID": "952",
+	"Label": "Corvey, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "51.77721289999999",
+	"lng": "9.4081802"
+}, {
+	"MetaID": "954",
+	"Label": "Hamburg, Corvey",
+	"MSCount": "0",
+	"lat": "53.5510846",
+	"lng": "9.993681799999999"
+}, {
+	"MetaID": "955",
+	"Label": "Bremen, Bremen",
+	"MSCount": "0",
+	"lat": "53.07929619999999",
+	"lng": "8.8016937"
+}, {
+	"MetaID": "958",
+	"Label": "Hildesheim, Lower Saxony",
+	"MSCount": "0",
+	"lat": "52.154778",
+	"lng": "9.9579652"
+}, {
+	"MetaID": "960",
+	"Label": "Magdeburg, Saxony-Anhalt",
+	"MSCount": "0",
+	"lat": "52.1205333",
+	"lng": "11.6276237"
+}, {
+	"MetaID": "961",
+	"Label": "Halberstadt, Saxony-Anhalt",
+	"MSCount": "0",
+	"lat": "51.89487090000001",
+	"lng": "11.0496159"
+}, {
+	"MetaID": "963",
+	"Label": "Erfurt, Thuringia",
+	"MSCount": "0",
+	"lat": "50.98476789999999",
+	"lng": "11.0298799"
+}, {
+	"MetaID": "964",
+	"Label": "Fritzlar, Hessen",
+	"MSCount": "0",
+	"lat": "51.1330809",
+	"lng": "9.2742641"
+}, {
+	"MetaID": "966",
+	"Label": "B\u00fcraburg, Hessen",
+	"MSCount": "0",
+	"lat": "51.120537",
+	"lng": "9.236395"
+}, {
+	"MetaID": "967",
+	"Label": "Am\u00f6neburg, Hessen",
+	"MSCount": "0",
+	"lat": "50.797725",
+	"lng": "8.9219942"
+}, {
+	"MetaID": "968",
+	"Label": "Frankfurt am Main, Hessen",
+	"MSCount": "0",
+	"lat": "50.1109221",
+	"lng": "8.6821267"
+}, {
+	"MetaID": "974",
+	"Label": "Luxembourg City, Luxemburg",
+	"MSCount": "0",
+	"lat": "49.61162100000001",
+	"lng": "6.1319346"
+}, {
+	"MetaID": "987",
+	"Label": "Mondsee, Am\u00f6neburg",
+	"MSCount": "0",
+	"lat": "47.855591",
+	"lng": "13.3434218"
+}, {
+	"MetaID": "988",
+	"Label": "Altm\u00fcnster, Am\u00f6neburg",
+	"MSCount": "0",
+	"lat": "47.9011744",
+	"lng": "13.7678146"
+}, {
+	"MetaID": "1002",
+	"Label": "Einsiedeln, Schwyz",
+	"MSCount": "0",
+	"lat": "47.127353",
+	"lng": "8.745153699999999"
+}, {
+	"MetaID": "1006",
+	"Label": "M\u00fcstair, Grisons",
+	"MSCount": "0",
+	"lat": "46.6261772",
+	"lng": "10.445857"
+}, {
+	"MetaID": "1007",
+	"Label": "Chur, Grisons",
+	"MSCount": "0",
+	"lat": "46.8507835",
+	"lng": "9.5319859"
+}, {
+	"MetaID": "1008",
+	"Label": "Disentis, Grisons",
+	"MSCount": "0",
+	"lat": "46.7051127",
+	"lng": "8.8523754"
+}, {
+	"MetaID": "1009",
+	"Label": "Basel, Basel Stadt",
+	"MSCount": "0",
+	"lat": "47.5595986",
+	"lng": "7.5885761"
+}, {
+	"MetaID": "1013",
+	"Label": "Z\u00fcrich, Z\u00fcrich",
+	"MSCount": "0",
+	"lat": "47.3768866",
+	"lng": "8.541694"
+}, {
+	"MetaID": "1015",
+	"Label": "Pf\u00e4fers, St. Gallen",
+	"MSCount": "0",
+	"lat": "46.990488",
+	"lng": "9.503193900000001"
+}, {
+	"MetaID": "1020",
+	"Label": "St. Maurice, Valais",
+	"MSCount": "0",
+	"lat": "46.214941",
+	"lng": "7.0047948"
+}, {
+	"MetaID": "1023",
+	"Label": "Tournai, Walloon Region",
+	"MSCount": "0",
+	"lat": "50.6056475",
+	"lng": "3.3879338"
+}, {
+	"MetaID": "1025",
+	"Label": "Ghent, Flanders",
+	"MSCount": "0",
+	"lat": "51.0543422",
+	"lng": "3.7174243"
+}, {
+	"MetaID": "1026",
+	"Label": "Li\u00e8ge, Walloon Region",
+	"MSCount": "0",
+	"lat": "50.6325574",
+	"lng": "5.5796662"
+}, {
+	"MetaID": "1028",
+	"Label": "Stavelot, Walloon Region",
+	"MSCount": "0",
+	"lat": "50.3940981",
+	"lng": "5.9304413"
+}, {
+	"MetaID": "1029",
+	"Label": "Malmedy, Walloon Region",
+	"MSCount": "0",
+	"lat": "50.4246396",
+	"lng": "6.0283276"
+}, {
+	"MetaID": "1032",
+	"Label": "St. Truiden, Flanders",
+	"MSCount": "0",
+	"lat": "50.8157248",
+	"lng": "5.1862508"
+}, {
+	"MetaID": "1034",
+	"Label": "Nivelles, Walloon Region",
+	"MSCount": "0",
+	"lat": "50.59787",
+	"lng": "4.32851"
+}, {
+	"MetaID": "1036",
+	"Label": "Tauberbischofsheim, Baden-W\u00fcrttemberg",
+	"MSCount": "0",
+	"lat": "49.6263199",
+	"lng": "9.6559606"
+}, {
+	"MetaID": "1037",
+	"Label": "Heidenheim, Baden-W\u00fcrttemberg",
+	"MSCount": "0",
+	"lat": "48.6893963",
+	"lng": "10.1610948"
+}, {
+	"MetaID": "1038",
+	"Label": "Honau, Baden-W\u00fcrttemberg",
+	"MSCount": "0",
+	"lat": "47.1306454",
+	"lng": "8.406330799999999"
+}, {
+	"MetaID": "1039",
+	"Label": "Konstanz, Baden-W\u00fcrttemberg",
+	"MSCount": "0",
+	"lat": "47.6779496",
+	"lng": "9.173238399999999"
+}, {
+	"MetaID": "1040",
+	"Label": "Karlburg, Bavaria",
+	"MSCount": "0",
+	"lat": "49.9801115",
+	"lng": "9.7579557"
+}, {
+	"MetaID": "1041",
+	"Label": "Holzkirchen, Bavaria",
+	"MSCount": "0",
+	"lat": "47.8810573",
+	"lng": "11.6997577"
+}, {
+	"MetaID": "1042",
+	"Label": "Benediktbeuern, Bavaria",
+	"MSCount": "0",
+	"lat": "47.70617439999999",
+	"lng": "11.4112816"
+}, {
+	"MetaID": "1043",
+	"Label": "Kitzingen, Bavaria",
+	"MSCount": "0",
+	"lat": "49.7340805",
+	"lng": "10.1473777"
+}, {
+	"MetaID": "1044",
+	"Label": "Eichst\u00e4tt, Bavaria",
+	"MSCount": "0",
+	"lat": "48.89125079999999",
+	"lng": "11.189986"
+}, {
+	"MetaID": "1045",
+	"Label": "W\u00fcrzburg, Bavaria",
+	"MSCount": "0",
+	"lat": "49.79130439999999",
+	"lng": "9.9533548"
+}, {
+	"MetaID": "1046",
+	"Label": "Kochel am See, Bavaria",
+	"MSCount": "0",
+	"lat": "47.6594128",
+	"lng": "11.368141"
+}, {
+	"MetaID": "1047",
+	"Label": "Staffelsee, Bavaria",
+	"MSCount": "0",
+	"lat": "47.6883488",
+	"lng": "11.1555315"
+}, {
+	"MetaID": "1048",
+	"Label": "Augsburg, Bavaria",
+	"MSCount": "0",
+	"lat": "48.3705449",
+	"lng": "10.89779"
+}, {
+	"MetaID": "1049",
+	"Label": "Niederalteich, Bavaria",
+	"MSCount": "0",
+	"lat": "48.7664877",
+	"lng": "13.0263663"
+}, {
+	"MetaID": "1050",
+	"Label": "Passau, Bavaria",
+	"MSCount": "0",
+	"lat": "48.5667364",
+	"lng": "13.4319466"
+}, {
+	"MetaID": "1051",
+	"Label": "Solnhofen, Bavaria",
+	"MSCount": "0",
+	"lat": "48.8971905",
+	"lng": "10.9969653"
+}, {
+	"MetaID": "1052",
+	"Label": "Schwarzach, Bavaria",
+	"MSCount": "0",
+	"lat": "48.9183503",
+	"lng": "12.8112918"
+}, {
+	"MetaID": "1053",
+	"Label": "Amorbach, Bavaria",
+	"MSCount": "0",
+	"lat": "49.6442913",
+	"lng": "9.2191083"
+}, {
+	"MetaID": "1054",
+	"Label": "Neustadt am Main, Bavaria",
+	"MSCount": "0",
+	"lat": "49.930843",
+	"lng": "9.570680899999999"
+}, {
+	"MetaID": "1055",
+	"Label": "Ottobeuren, Bavaria",
+	"MSCount": "0",
+	"lat": "47.941043",
+	"lng": "10.3006937"
+}, {
+	"MetaID": "1056",
+	"Label": "Sch\u00e4ftlarn, Bavaria",
+	"MSCount": "0",
+	"lat": "47.990305",
+	"lng": "11.4573424"
+}, {
+	"MetaID": "1057",
+	"Label": "Chiemsee, Bayern",
+	"MSCount": "0",
+	"lat": "47.8593673",
+	"lng": "12.39881"
+}, {
+	"MetaID": "1058",
+	"Label": "Kempten, Bayern",
+	"MSCount": "0",
+	"lat": "47.7285699",
+	"lng": "10.3157835"
+}, {
+	"MetaID": "1059",
+	"Label": "Bad Hersfeld, Hessen",
+	"MSCount": "0",
+	"lat": "50.8701345",
+	"lng": "9.7019675"
+}, {
+	"MetaID": "1060",
+	"Label": "Osnabr\u00fcch, Lower Saxony",
+	"MSCount": "0",
+	"lat": "52.2799112",
+	"lng": "8.047178799999999"
+}, {
+	"MetaID": "1061",
+	"Label": "Verden, Lower Saxony",
+	"MSCount": "0",
+	"lat": "52.9347982",
+	"lng": "9.2329647"
+}, {
+	"MetaID": "1062",
+	"Label": "Gandersheim, Lower Saxony",
+	"MSCount": "0",
+	"lat": "51.87179769999999",
+	"lng": "10.023903"
+}, {
+	"MetaID": "1065",
+	"Label": "Ochsenfort, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "49.6640025",
+	"lng": "10.0709014"
+}, {
+	"MetaID": "1066",
+	"Label": "Essen, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "51.4556432",
+	"lng": "7.0115552"
+}, {
+	"MetaID": "1067",
+	"Label": "M\u00fcnster, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "51.9606649",
+	"lng": "7.6261347"
+}, {
+	"MetaID": "1068",
+	"Label": "Minden, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "52.2964919",
+	"lng": "8.894920599999999"
+}, {
+	"MetaID": "1069",
+	"Label": "Andernach, Rhineland-Palatinate",
+	"MSCount": "0",
+	"lat": "50.426057",
+	"lng": "7.4086636"
+}, {
+	"MetaID": "1070",
+	"Label": "Pf\u00e4lzer, North Rhine-Westphalia",
+	"MSCount": "0",
+	"lat": "49.48221160000001",
+	"lng": "7.860948100000001"
+}, {
+	"MetaID": "1071",
+	"Label": "Worms, Rhineland-Palatinate",
+	"MSCount": "1",
+	"lat": "49.6341372",
+	"lng": "8.350718199999999"
+}, {
+	"MetaID": "1075",
+	"Label": "London, England",
+	"MSCount": "0",
+	"lat": "51.5073509",
+	"lng": "-0.1277583"
+}, {
+	"MetaID": "1076",
+	"Label": "Winchester, England",
+	"MSCount": "0",
+	"lat": "51.059771",
+	"lng": "-1.310142"
+}, {
+	"MetaID": "1077",
+	"Label": "Exeter, England",
+	"MSCount": "0",
+	"lat": "50.718412",
+	"lng": "-3.533899"
+}, {
+	"MetaID": "1078",
+	"Label": "York, England",
+	"MSCount": "0",
+	"lat": "53.95996510000001",
+	"lng": "-1.0872979"
+}, {
+	"MetaID": "1079",
+	"Label": "Canterbury, England",
+	"MSCount": "0",
+	"lat": "51.280233",
+	"lng": "1.0789089"
+}, {
+	"MetaID": "1080",
+	"Label": "Sunderland, England",
+	"MSCount": "0",
+	"lat": "54.8861515",
+	"lng": "-1.4785737"
+}, {
+	"MetaID": "1081",
+	"Label": "Malmesbury, England",
+	"MSCount": "0",
+	"lat": "51.586357",
+	"lng": "-2.102834"
+}, {
+	"MetaID": "1082",
+	"Label": "Lindisfarne, England",
+	"MSCount": "0",
+	"lat": "55.6807718",
+	"lng": "-1.800859"
+}, {
+	"MetaID": "1083",
+	"Label": "Iona, Scotland",
+	"MSCount": "0",
+	"lat": "56.3347303",
+	"lng": "-6.4041001"
+}, {
+	"MetaID": "1106",
+	"Label": "Chieti, Abruzzo",
+	"MSCount": "0",
+	"lat": "42.347886",
+	"lng": "14.1635845"
+}, {
+	"MetaID": "1107",
+	"Label": "Benevento, Campania",
+	"MSCount": "0",
+	"lat": "41.1297613",
+	"lng": "14.7826208"
+}, {
+	"MetaID": "1108",
+	"Label": "Capua, Campania",
+	"MSCount": "0",
+	"lat": "41.1061258",
+	"lng": "14.2130486"
+}, {
+	"MetaID": "1109",
+	"Label": "Naples, Campania",
+	"MSCount": "0",
+	"lat": "40.8517746",
+	"lng": "14.2681244"
+}, {
+	"MetaID": "1110",
+	"Label": "Salerno, Campania",
+	"MSCount": "0",
+	"lat": "40.68244079999999",
+	"lng": "14.7680961"
+}, {
+	"MetaID": "1111",
+	"Label": "Teano, Campania",
+	"MSCount": "0",
+	"lat": "41.2492784",
+	"lng": "14.0682377"
+}, {
+	"MetaID": "1112",
+	"Label": "Cividale del Friuli, Emilia-Romagna",
+	"MSCount": "0",
+	"lat": "46.0801447",
+	"lng": "13.433127"
+}, {
+	"MetaID": "1113",
+	"Label": "Nonantola, Emilia-Romagna",
+	"MSCount": "0",
+	"lat": "44.67887470000001",
+	"lng": "11.0411597"
+}, {
+	"MetaID": "1114",
+	"Label": "Ravenna, Emilia-Romagna",
+	"MSCount": "0",
+	"lat": "44.4183598",
+	"lng": "12.2035294"
+}, {
+	"MetaID": "1115",
+	"Label": "Aquileia, Friuli-Venezia Giulia",
+	"MSCount": "0",
+	"lat": "45.76816909999999",
+	"lng": "13.3687199"
+}, {
+	"MetaID": "1116",
+	"Label": "Farfa, Lazio",
+	"MSCount": "0",
+	"lat": "42.2213595",
+	"lng": "12.7181804"
+}, {
+	"MetaID": "1117",
+	"Label": "Rome, Lazio",
+	"MSCount": "0",
+	"lat": "41.9027835",
+	"lng": "12.4963655"
+}, {
+	"MetaID": "1118",
+	"Label": "Genoa, Liguria",
+	"MSCount": "0",
+	"lat": "44.4056499",
+	"lng": "8.946256"
+}, {
+	"MetaID": "1119",
+	"Label": "Cremona, Lombardy",
+	"MSCount": "0",
+	"lat": "45.133249",
+	"lng": "10.0226511"
+}, {
+	"MetaID": "1120",
+	"Label": "Milan, Lombardy",
+	"MSCount": "0",
+	"lat": "45.4654219",
+	"lng": "9.1859243"
+}, {
+	"MetaID": "1121",
+	"Label": "Monza, Lombardy",
+	"MSCount": "0",
+	"lat": "45.5845001",
+	"lng": "9.2744485"
+}, {
+	"MetaID": "1122",
+	"Label": "Pavia, Lombardy",
+	"MSCount": "0",
+	"lat": "45.1847248",
+	"lng": "9.1582069"
+}, {
+	"MetaID": "1123",
+	"Label": "Ancona, Marche",
+	"MSCount": "0",
+	"lat": "43.6158299",
+	"lng": "13.518915"
+}, {
+	"MetaID": "1124",
+	"Label": "Novalesa, Piedmont",
+	"MSCount": "0",
+	"lat": "45.18911809999999",
+	"lng": "7.015282399999999"
+}, {
+	"MetaID": "1125",
+	"Label": "Novara, Piedmont",
+	"MSCount": "0",
+	"lat": "45.44692999999999",
+	"lng": "8.622161199999999"
+}, {
+	"MetaID": "1126",
+	"Label": "Tortona, Piedmont",
+	"MSCount": "0",
+	"lat": "44.8952122",
+	"lng": "8.8633326"
+}, {
+	"MetaID": "1127",
+	"Label": "Vercelli, Piedmont",
+	"MSCount": "0",
+	"lat": "45.32022720000001",
+	"lng": "8.418573499999999"
+}, {
+	"MetaID": "1128",
+	"Label": "Florence, Tuscany",
+	"MSCount": "0",
+	"lat": "43.7695604",
+	"lng": "11.2558136"
+}, {
+	"MetaID": "1129",
+	"Label": "Lucca, Tuscany",
+	"MSCount": "0",
+	"lat": "43.8376211",
+	"lng": "10.4950609"
+}, {
+	"MetaID": "1130",
+	"Label": "Monte Amiata, Tuscany",
+	"MSCount": "0",
+	"lat": "42.88769",
+	"lng": "11.6239051"
+}, {
+	"MetaID": "1131",
+	"Label": "San Vincenzo, Tuscany",
+	"MSCount": "0",
+	"lat": "43.0772066",
+	"lng": "10.5577407"
+}, {
+	"MetaID": "1132",
+	"Label": "Perugia, Umbria",
+	"MSCount": "0",
+	"lat": "43.1107168",
+	"lng": "12.3908279"
+}, {
+	"MetaID": "1133",
+	"Label": "Spoleto, Umbria",
+	"MSCount": "0",
+	"lat": "42.7404881",
+	"lng": "12.7378003"
+}, {
+	"MetaID": "1134",
+	"Label": "Aosta, Aosta Valley",
+	"MSCount": "0",
+	"lat": "45.7349551",
+	"lng": "7.313076199999999"
+}, {
+	"MetaID": "1135",
+	"Label": "Venice, Veneto",
+	"MSCount": "0",
+	"lat": "45.4408474",
+	"lng": "12.3155151"
+}, {
+	"MetaID": "1146",
+	"Label": "Saragossa, Aragon",
+	"MSCount": "0",
+	"lat": "41.6488226",
+	"lng": "-0.8890853"
+}, {
+	"MetaID": "1147",
+	"Label": "Burgos, Castile and Le\u00f3n",
+	"MSCount": "0",
+	"lat": "42.3380758",
+	"lng": "-3.5812692"
+}, {
+	"MetaID": "1148",
+	"Label": "Li\u00e9bana, Castile and Le\u00f3n",
+	"MSCount": "0",
+	"lat": "43.1177101",
+	"lng": "-4.6863782"
+}, {
+	"MetaID": "1149",
+	"Label": "Barcelona, Catalonia",
+	"MSCount": "0",
+	"lat": "41.3850639",
+	"lng": "2.1734035"
+}, {
+	"MetaID": "1150",
+	"Label": "Gerona, Catalonia",
+	"MSCount": "0",
+	"lat": "41.9794005",
+	"lng": "2.8214264"
+}, {
+	"MetaID": "1151",
+	"Label": "Tarragona, Catalonia",
+	"MSCount": "0",
+	"lat": "41.1188827",
+	"lng": "1.2444909"
+}, {
+	"MetaID": "1152",
+	"Label": "Tortosa, Catalonia",
+	"MSCount": "0",
+	"lat": "40.8125777",
+	"lng": "0.5214423"
+}, {
+	"MetaID": "1153",
+	"Label": "Urgel, Catalonia",
+	"MSCount": "0",
+	"lat": "42.3600077",
+	"lng": "1.4579696"
+}, {
+	"MetaID": "1154",
+	"Label": "Pamplona, Navarre",
+	"MSCount": "0",
+	"lat": "42.812526",
+	"lng": "-1.6457745"
+}, {
+	"MetaID": "1159",
+	"Label": "Utrecht, Utrecht",
+	"MSCount": "0",
+	"lat": "52.09073739999999",
+	"lng": "5.1214201"
+}, {
+	"MetaID": "1160",
+	"Label": "Wijk bij Duurstede\/Dorostad, Utrecht",
+	"MSCount": "0",
+	"lat": "51.9756003",
+	"lng": "5.338449499999999"
+}, {
+	"MetaID": "1161",
+	"Label": "Maastricht, Limburg",
+	"MSCount": "0",
+	"lat": "50.8513682",
+	"lng": "5.6909725"
+}, {
+	"MetaID": "1162",
+	"Label": "Ch\u00e2lons, Auvergne-Rh\u00f4ne-Alpes",
+	"MSCount": "0",
+	"lat": "45.4452637",
+	"lng": "4.9304273"
+}, {
+	"MetaID": "1163",
+	"Label": "Le Puy-en-Velay, Auvergne-Rh\u00f4ne-Alpes",
+	"MSCount": "0",
+	"lat": "45.042768",
+	"lng": "3.882936"
+}, {
+	"MetaID": "1164",
+	"Label": "Menat, Auvergne-Rh\u00f4ne-Alpes",
+	"MSCount": "0",
+	"lat": "46.1041839",
+	"lng": "2.904436"
+}, {
+	"MetaID": "1165",
+	"Label": "St. Honorat, Auvergne-Rh\u00f4ne-Alpes",
+	"MSCount": "0",
+	"lat": "43.5074821",
+	"lng": "7.0464835"
+}, {
+	"MetaID": "1166",
+	"Label": "Tarentaise, Auvergne-Rh\u00f4ne-Alpes",
+	"MSCount": "0",
+	"lat": "45.37336",
+	"lng": "4.488949"
+}, {
+	"MetaID": "1167",
+	"Label": "Annegray, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "47.823199",
+	"lng": "6.537268"
+}, {
+	"MetaID": "1168",
+	"Label": "Autun, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "46.950914",
+	"lng": "4.301565"
+}, {
+	"MetaID": "1169",
+	"Label": "Besan\u00e7on, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "47.237829",
+	"lng": "6.024053899999999"
+}, {
+	"MetaID": "1170",
+	"Label": "Dijon, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "47.322047",
+	"lng": "5.04148"
+}, {
+	"MetaID": "1171",
+	"Label": "Luxeuil-les-Bains, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "47.8168409",
+	"lng": "6.381111"
+}, {
+	"MetaID": "1172",
+	"Label": "M\u00e2con, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "46.3068839",
+	"lng": "4.828730999999999"
+}, {
+	"MetaID": "1173",
+	"Label": "Sens, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "48.20065",
+	"lng": "3.28268"
+}, {
+	"MetaID": "1174",
+	"Label": "Dol, Bretagne",
+	"MSCount": "0",
+	"lat": "48.54969",
+	"lng": "-1.753965"
+}, {
+	"MetaID": "1175",
+	"Label": "Land\u00e9vennec, Bretagne",
+	"MSCount": "0",
+	"lat": "48.291616",
+	"lng": "-4.267393"
+}, {
+	"MetaID": "1176",
+	"Label": "Lehon, Bretagne",
+	"MSCount": "0",
+	"lat": "48.4422939",
+	"lng": "-2.03902"
+}, {
+	"MetaID": "1177",
+	"Label": "Rennes, Bretagne",
+	"MSCount": "0",
+	"lat": "48.117266",
+	"lng": "-1.6777926"
+}, {
+	"MetaID": "1178",
+	"Label": "Bourges, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "47.081012",
+	"lng": "2.398782"
+}, {
+	"MetaID": "1179",
+	"Label": "Chartres, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "48.44385399999999",
+	"lng": "1.489012"
+}, {
+	"MetaID": "1180",
+	"Label": "Ferri\u00e8res-en-G\u00e2tinais, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "48.090359",
+	"lng": "2.789813"
+}, {
+	"MetaID": "1181",
+	"Label": "Saint-Pryv\u00e9-Saint-Mesmin, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "47.88092",
+	"lng": "1.867408"
+}, {
+	"MetaID": "1182",
+	"Label": "Ch\u00e2lons sur Marne, Grand-Est",
+	"MSCount": "0",
+	"lat": "48.956682",
+	"lng": "4.363073"
+}, {
+	"MetaID": "1183",
+	"Label": "St. Germigny-des-Pr\u00e9s, Centre-Val de Loire",
+	"MSCount": "0",
+	"lat": "47.845624",
+	"lng": "2.266394"
+}, {
+	"MetaID": "1184",
+	"Label": "Gorze, Grand-Est",
+	"MSCount": "0",
+	"lat": "49.053754",
+	"lng": "5.998717999999999"
+}, {
+	"MetaID": "1185",
+	"Label": "Hautvillers, Grand-Est",
+	"MSCount": "0",
+	"lat": "49.083488",
+	"lng": "3.945541"
+}, {
+	"MetaID": "1186",
+	"Label": "Langres, Grand-Est",
+	"MSCount": "0",
+	"lat": "47.86683",
+	"lng": "5.334297"
+}, {
+	"MetaID": "1187",
+	"Label": "P\u00e9rigeux, Grand-Est",
+	"MSCount": "0",
+	"lat": "45.184029",
+	"lng": "0.7211149"
+}, {
+	"MetaID": "1188",
+	"Label": "Montier-en-Der, Grand-Est",
+	"MSCount": "0",
+	"lat": "48.476683",
+	"lng": "4.770828"
+}, {
+	"MetaID": "1189",
+	"Label": "Remiremont, Grand-Est",
+	"MSCount": "0",
+	"lat": "48.015589",
+	"lng": "6.591716"
+}, {
+	"MetaID": "1190",
+	"Label": "St. Mihiel, Grand-Est",
+	"MSCount": "0",
+	"lat": "48.88855",
+	"lng": "5.541657"
+}, {
+	"MetaID": "1191",
+	"Label": "St. Mesmin, Grand-Est",
+	"MSCount": "0",
+	"lat": "45.352666",
+	"lng": "1.205815"
+}, {
+	"MetaID": "1192",
+	"Label": "Strasbourg, Grand-Est",
+	"MSCount": "0",
+	"lat": "48.5734053",
+	"lng": "7.752111299999999"
+}, {
+	"MetaID": "1193",
+	"Label": "Toul, Grand-Est",
+	"MSCount": "0",
+	"lat": "48.678296",
+	"lng": "5.890159"
+}, {
+	"MetaID": "1194",
+	"Label": "Troyes, Grand-Est",
+	"MSCount": "0",
+	"lat": "48.2973451",
+	"lng": "4.0744009"
+}, {
+	"MetaID": "1195",
+	"Label": "Beauvais, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.42953869999999",
+	"lng": "2.0807123"
+}, {
+	"MetaID": "1196",
+	"Label": "Boulogne-sur-Mer, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "50.725231",
+	"lng": "1.613334"
+}, {
+	"MetaID": "1197",
+	"Label": "Compi\u00e8gne, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.41781599999999",
+	"lng": "2.826145"
+}, {
+	"MetaID": "1198",
+	"Label": "Fontenoy, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.407637",
+	"lng": "3.196901"
+}, {
+	"MetaID": "1199",
+	"Label": "P\u00e9ronne, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.933071",
+	"lng": "2.933353"
+}, {
+	"MetaID": "1200",
+	"Label": "Noyon, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.58016600000001",
+	"lng": "3.0007229"
+}, {
+	"MetaID": "1201",
+	"Label": "Argenteuil, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.9472096",
+	"lng": "2.2466847"
+}, {
+	"MetaID": "1202",
+	"Label": "St. Quentin, Hauts-de-France",
+	"MSCount": "0",
+	"lat": "49.847066",
+	"lng": "3.2874"
+}, {
+	"MetaID": "1203",
+	"Label": "Chelles, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.87753499999999",
+	"lng": "2.59016"
+}, {
+	"MetaID": "1204",
+	"Label": "Faremoutiers, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.799399",
+	"lng": "2.997246"
+}, {
+	"MetaID": "1205",
+	"Label": "Jouarre, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.92697",
+	"lng": "3.130026"
+}, {
+	"MetaID": "1206",
+	"Label": "Meaux, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.9562018",
+	"lng": "2.8884657"
+}, {
+	"MetaID": "1207",
+	"Label": "Rebais, \u00cele-de-France",
+	"MSCount": "0",
+	"lat": "48.8466",
+	"lng": "3.23182"
+}, {
+	"MetaID": "1212",
+	"Label": "Evreux, Normandy",
+	"MSCount": "0",
+	"lat": "49.0270129",
+	"lng": "1.151361"
+}, {
+	"MetaID": "1213",
+	"Label": "F\u00e9camp, Normandy",
+	"MSCount": "0",
+	"lat": "49.755601",
+	"lng": "0.380774"
+}, {
+	"MetaID": "1214",
+	"Label": "Jumi\u00e8ges, Normandy",
+	"MSCount": "0",
+	"lat": "49.433214",
+	"lng": "0.8194589999999999"
+}, {
+	"MetaID": "1215",
+	"Label": "Les Andelys, Normandy",
+	"MSCount": "0",
+	"lat": "49.246568",
+	"lng": "1.4192"
+}, {
+	"MetaID": "1216",
+	"Label": "Mont-St.-Michel, Normandy",
+	"MSCount": "0",
+	"lat": "48.636063",
+	"lng": "-1.511457"
+}, {
+	"MetaID": "1217",
+	"Label": "Noirmoutier, Pays de la Loire",
+	"MSCount": "0",
+	"lat": "46.9872475",
+	"lng": "-2.2692823"
+}, {
+	"MetaID": "1218",
+	"Label": "Rouen, Normandy",
+	"MSCount": "0",
+	"lat": "49.44323199999999",
+	"lng": "1.099971"
+}, {
+	"MetaID": "1219",
+	"Label": "St- Wandrille-Ran\u00e7on, Normandy",
+	"MSCount": "0",
+	"lat": "49.52128",
+	"lng": "0.777029"
+}, {
+	"MetaID": "1220",
+	"Label": "Angoul\u00eame, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "45.648377",
+	"lng": "0.1562369"
+}, {
+	"MetaID": "1221",
+	"Label": "Bordeaux, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "44.837789",
+	"lng": "-0.57918"
+}, {
+	"MetaID": "1222",
+	"Label": "Nouaill\u00e9, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "46.5024643",
+	"lng": "0.4127503"
+}, {
+	"MetaID": "1223",
+	"Label": "Poitiers, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "46.58022400000001",
+	"lng": "0.340375"
+}, {
+	"MetaID": "1224",
+	"Label": "Vienne, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "45.525587",
+	"lng": "4.874339"
+}, {
+	"MetaID": "1225",
+	"Label": "Albi, Occitanie",
+	"MSCount": "0",
+	"lat": "43.9250853",
+	"lng": "2.1486413"
+}, {
+	"MetaID": "1226",
+	"Label": "Aniane, Occitanie",
+	"MSCount": "0",
+	"lat": "43.684373",
+	"lng": "3.586748"
+}, {
+	"MetaID": "1227",
+	"Label": "Eauze, Occitanie",
+	"MSCount": "0",
+	"lat": "43.862587",
+	"lng": "0.10053"
+}, {
+	"MetaID": "1228",
+	"Label": "Gellone, Occitanie",
+	"MSCount": "0",
+	"lat": "43.7339966",
+	"lng": "3.5494447"
+}, {
+	"MetaID": "1229",
+	"Label": "Maguelone, Occitanie",
+	"MSCount": "0",
+	"lat": "43.5332397",
+	"lng": "3.861616499999999"
+}, {
+	"MetaID": "1230",
+	"Label": "Narbonne, Occitanie",
+	"MSCount": "0",
+	"lat": "43.184277",
+	"lng": "3.003078"
+}, {
+	"MetaID": "1231",
+	"Label": "Saint-G\u00e9nis-des-Fontaines, Occitanie",
+	"MSCount": "0",
+	"lat": "42.54344800000001",
+	"lng": "2.920462"
+}, {
+	"MetaID": "1232",
+	"Label": "Toulouse, Occitanie",
+	"MSCount": "0",
+	"lat": "43.604652",
+	"lng": "1.444209"
+}, {
+	"MetaID": "1233",
+	"Label": "Angers, Pays de la Loire",
+	"MSCount": "0",
+	"lat": "47.478419",
+	"lng": "-0.5631659999999999"
+}, {
+	"MetaID": "1234",
+	"Label": "Le Mans, Pays de la Loire",
+	"MSCount": "0",
+	"lat": "48.00611000000001",
+	"lng": "0.199556"
+}, {
+	"MetaID": "1235",
+	"Label": "Nantes, Pays de la Loire",
+	"MSCount": "0",
+	"lat": "47.218371",
+	"lng": "-1.553621"
+}, {
+	"MetaID": "1236",
+	"Label": "St. Maixent, Pays de la Loire",
+	"MSCount": "0",
+	"lat": "46.41316500000001",
+	"lng": "-0.20341"
+}, {
+	"MetaID": "1237",
+	"Label": "St. Philbert-de-Grandlieu, Pays de la Loire",
+	"MSCount": "0",
+	"lat": "47.03687799999999",
+	"lng": "-1.642905"
+}, {
+	"MetaID": "1238",
+	"Label": "Aix-en-Provence, Provence-Alpes-C\u00f4te d'Azur",
+	"MSCount": "0",
+	"lat": "43.529742",
+	"lng": "5.447426999999999"
+}, {
+	"MetaID": "1239",
+	"Label": "Arles, Provence-Alpes-C\u00f4te d'Azur",
+	"MSCount": "0",
+	"lat": "43.676647",
+	"lng": "4.6277769"
+}, {
+	"MetaID": "1240",
+	"Label": "Embrun, Provence-Alpes-C\u00f4te d'Azur",
+	"MSCount": "0",
+	"lat": "44.564164",
+	"lng": "6.495864999999999"
+}, {
+	"MetaID": "1241",
+	"Label": "Marseille, Provence-Alpes-C\u00f4te d'Azur",
+	"MSCount": "0",
+	"lat": "43.296482",
+	"lng": "5.36978"
+}, {
+	"MetaID": "1242",
+	"Label": "Clermont, Auvergne-Rh\u00f4ne-Alpes",
+	"MSCount": "0",
+	"lat": "45.77722199999999",
+	"lng": "3.087025"
+}, {
+	"MetaID": "1243",
+	"Label": "Fontaines, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "46.849474",
+	"lng": "4.771204"
+}, {
+	"MetaID": "1244",
+	"Label": "Saintes, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "45.744175",
+	"lng": "-0.633389"
+}, {
+	"MetaID": "1259",
+	"Label": "M\u00fcnstertal, Baden-W\u00fcrttemberg",
+	"MSCount": "0",
+	"lat": "47.854722",
+	"lng": "7.784167"
+}, {
+	"MetaID": "1290",
+	"Label": "St. Domingo de Silos, Castile and Le\u00f3n",
+	"MSCount": "0",
+	"lat": "41.966667",
+	"lng": "-3.416667"
+}, {
+	"MetaID": "1296",
+	"Label": "St. Hubert, Walloon Region",
+	"MSCount": "0",
+	"lat": "50.026111",
+	"lng": "5.374169"
+}, {
+	"MetaID": "1299",
+	"Label": "Charroux, Nouvelle-Aquitaine",
+	"MSCount": "0",
+	"lat": "46.0751",
+	"lng": "3.6008"
+}, {
+	"MetaID": "1300",
+	"Label": "St. Claude, Bourgogne-Franche-Comt\u00e9",
+	"MSCount": "0",
+	"lat": "46.2786",
+	"lng": "6.3034"
+}, {
+	"MetaID": "1315",
+	"Label": "Wettenhausen, Bavaria",
+	"MSCount": "0",
+	"lat": "48.39543",
+	"lng": "10.35746"
+}]
