@@ -32,21 +32,26 @@
 				// Add a row for each entry
 				$.each(data, function(index, row) {
 					// Prepare Digitalizations
-					let aDigitalizations = row.Digitalizations.split(', ');
-					let tdDigitalizations = $("<td>");
-					$.each(aDigitalizations, function(index, url) {
-						if(url !== "") {
-							tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
-						}
-					});
 					
-					let aIIIF = row.IIIF.split(', ');
+					let tdDigitalizations = $("<td>");
+					if(typeof row.IIIF !== "undefined") {
+						let aDigitalizations = row.Digitalizations.split(', ');
+						$.each(aDigitalizations, function(index, url) {
+							if(url !== "") {
+								tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
+							}
+						});
+					}
+					
 					let tdIIIF = $("<td>");
-					$.each(aIIIF, function(index, url) {
-						if(url !== "") {
-							tdIIIF.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
+					if(typeof row.IIIF !== "undefined") {
+						let aIIIF = row.IIIF.split(', ');
+						$.each(aIIIF, function(index, url) {
+							if(url !== "") {
+								tdIIIF.append("<a href=\"" + url + "\" target=\"_blank\">IIIF</a>");
+							}
+						});
 						}
-					});
 				
 					// Prepare a new row
 					let tr = $("<tr>");
