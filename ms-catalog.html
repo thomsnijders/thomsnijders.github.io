@@ -27,9 +27,11 @@
 		</table>
 			
 		<script type="text/javascript">
-			// Retrieve the contents of places-of-preseravation.json, which should be present in the json directory
+			// Retrieve the contents of ms-catalog.json, which should be present in the json directory
 			$.getJSON("json/ms-catalog.json", function( data ) {
+				// Add a row for each entry
 				$.each(data, function(index, row) {
+					// Prepare a new row
 					let tr = $("<tr>");
 					tr.append("<td>" + row.MSID + "</td>");
 					tr.append("<td>" + row.Shelfmark + "</td>");
@@ -37,34 +39,37 @@
 					tr.append("<td>" + (typeof row.IIIF != null ? row.IIIF + "</td>");
 					tr.append("<td>" + (typeof row.Schriften != null ? row.Schriften + "</td>");
 					tr.append("<td>" + (typeof row.Reichskalender != null ? row.Reichskalender + "</td>");
+					// Add the row to the table
 					$("#msCatalog tbody").append(tr);
+				});
+				
+				let table = new DataTable('#msCatalog', {
+					// options
+					pagingType: false,
+					initComplete: function () {
+					this.api()
+						.columns()
+						.every(function () {
+							let column = this;
+							let title = column.header().textContent;
+			 
+							// Create input element
+							let input = document.createElement('input');
+							input.placeholder = title;
+							column.header().replaceChildren(input);
+			 
+							// Event listener for user input
+							input.addEventListener('keyup', () => {
+								if (column.search() !== this.value) {
+									column.search(input.value).draw();
+								}
+							});
+						});
+					}
 				});
 			});
 		
-			let table = new DataTable('#msCatalog', {
-				// options
-				pagingType: false,
-				initComplete: function () {
-				this.api()
-					.columns()
-					.every(function () {
-						let column = this;
-						let title = column.header().textContent;
-		 
-						// Create input element
-						let input = document.createElement('input');
-						input.placeholder = title;
-						column.header().replaceChildren(input);
-		 
-						// Event listener for user input
-						input.addEventListener('keyup', () => {
-							if (column.search() !== this.value) {
-								column.search(input.value).draw();
-							}
-						});
-					});
-				}
-			});
+			
 		</script>
 					
 	</body>
