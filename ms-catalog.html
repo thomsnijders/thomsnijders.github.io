@@ -39,13 +39,21 @@
 							tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
 						}
 					});
+					
+					let aIIIF = row.IIIF.split(', ');
+					let tdIIIF = $("<td>");
+					$.each(aIIIF, function(index, url) {
+						if(url !== "") {
+							tdIIIF.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
+						}
+					});
 				
 					// Prepare a new row
 					let tr = $("<tr>");
 					$($("<td>").text(row.MSID)).appendTo(tr);
 					$($("<td>").text(row.Shelfmark)).appendTo(tr);
 					tdDigitalizations.appendTo(tr);
-					$($("<td>").text(row.IIIF)).appendTo(tr);
+					tdIIIF.appendTo(tr);
 					$($("<td>").text(row.Schriften)).appendTo(tr);
 					$($("<td>").text(row.Reichskalender)).appendTo(tr);
 					
