@@ -41,6 +41,9 @@
 								tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
 							}
 						});
+						if (index != data.length -1) {
+							tdDigitalizations.append("<br");
+						}
 					}
 										
 					let tdIIIF = $("<td>");
@@ -51,6 +54,9 @@
 								tdIIIF.append("<a href=\"" + url + "\" target=\"_blank\">IIIF</a>");
 							}
 						});
+						if (index != data.length -1) {
+							tdDigitalizations.append("<br");
+						}
 					}
 				
 					// Prepare a new row
