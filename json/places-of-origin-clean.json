@@ -1,0 +1,1502 @@
+[
+	{
+		"Place": "Aachen",
+		"Region": "North Rhine-Westphalia",
+		"lat": "50.7753455",
+		"lng": "6.083886800000001"
+	},
+	{
+		"Place": "Aix-en-Provence",
+		"Region": "Provence-Alpes-Côte d'Azur",
+		"lat": "43.529742",
+		"lng": "5.447426999999999"
+	},
+	{
+		"Place": "Albi",
+		"Region": "Occitanie",
+		"lat": "43.9250853",
+		"lng": "2.1486413"
+	},
+	{
+		"Place": "Altmünster",
+		"Region": "Amöneburg",
+		"lat": "47.9011744",
+		"lng": "13.7678146"
+	},
+	{
+		"Place": "Altomünster",
+		"Region": "Bavaria",
+		"lat": "48.3874681",
+		"lng": "11.256582"
+	},
+	{
+		"Place": "Amiens",
+		"Region": "Hauts-de-France",
+		"lat": "49.894067",
+		"lng": "2.295753"
+	},
+	{
+		"Place": "Amöneburg",
+		"Region": "Hessen",
+		"lat": "50.797725",
+		"lng": "8.9219942"
+	},
+	{
+		"Place": "Amorbach",
+		"Region": "Bavaria",
+		"lat": "49.6442913",
+		"lng": "9.2191083"
+	},
+	{
+		"Place": "Ancona",
+		"Region": "Marche",
+		"lat": "43.6158299",
+		"lng": "13.518915"
+	},
+	{
+		"Place": "Andernach",
+		"Region": "Rhineland-Palatinate",
+		"lat": "50.426057",
+		"lng": "7.4086636"
+	},
+	{
+		"Place": "Angers",
+		"Region": "Pays de la Loire",
+		"lat": "47.478419",
+		"lng": "-0.5631659999999999"
+	},
+	{
+		"Place": "Angoulême",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "45.648377",
+		"lng": "0.1562369"
+	},
+	{
+		"Place": "Aniane",
+		"Region": "Occitanie",
+		"lat": "43.684373",
+		"lng": "3.586748"
+	},
+	{
+		"Place": "Annegray",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "47.823199",
+		"lng": "6.537268"
+	},
+	{
+		"Place": "Aosta",
+		"Region": "Aosta Valley",
+		"lat": "45.7349551",
+		"lng": "7.313076199999999"
+	},
+	{
+		"Place": "Aquileia",
+		"Region": "Friuli-Venezia Giulia",
+		"lat": "45.76816909999999",
+		"lng": "13.3687199"
+	},
+	{
+		"Place": "Argenteuil",
+		"Region": "Île-de-France",
+		"lat": "48.9472096",
+		"lng": "2.2466847"
+	},
+	{
+		"Place": "Arles",
+		"Region": "Provence-Alpes-Côte d'Azur",
+		"lat": "43.676647",
+		"lng": "4.6277769"
+	},
+	{
+		"Place": "Arras",
+		"Region": "Hauts-de-France",
+		"lat": "50.291002",
+		"lng": "2.777535"
+	},
+	{
+		"Place": "Augsburg",
+		"Region": "Bavaria",
+		"lat": "48.3705449",
+		"lng": "10.89779"
+	},
+	{
+		"Place": "Autun",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "46.950914",
+		"lng": "4.301565"
+	},
+	{
+		"Place": "Auxerre",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "47.798202",
+		"lng": "3.573781"
+	},
+	{
+		"Place": "Bad Hersfeld",
+		"Region": "Hessen",
+		"lat": "50.8701345",
+		"lng": "9.7019675"
+	},
+	{
+		"Place": "Barcelona",
+		"Region": "Catalonia",
+		"lat": "41.3850639",
+		"lng": "2.1734035"
+	},
+	{
+		"Place": "Basel",
+		"Region": "Basel Stadt",
+		"lat": "47.5595986",
+		"lng": "7.5885761"
+	},
+	{
+		"Place": "Beauvais",
+		"Region": "Hauts-de-France",
+		"lat": "49.42953869999999",
+		"lng": "2.0807123"
+	},
+	{
+		"Place": "Benediktbeuern",
+		"Region": "Bavaria",
+		"lat": "47.70617439999999",
+		"lng": "11.4112816"
+	},
+	{
+		"Place": "Benevento",
+		"Region": "Campania",
+		"lat": "41.1297613",
+		"lng": "14.7826208"
+	},
+	{
+		"Place": "Besançon",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "47.237829",
+		"lng": "6.024053899999999"
+	},
+	{
+		"Place": "Bobbio",
+		"Region": "Emilia-Romagna",
+		"lat": "44.7700875",
+		"lng": "9.3859502"
+	},
+	{
+		"Place": "Bordeaux",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "44.837789",
+		"lng": "-0.57918"
+	},
+	{
+		"Place": "Boulogne-sur-Mer",
+		"Region": "Hauts-de-France",
+		"lat": "50.725231",
+		"lng": "1.613334"
+	},
+	{
+		"Place": "Bourges",
+		"Region": "Centre-Val de Loire",
+		"lat": "47.081012",
+		"lng": "2.398782"
+	},
+	{
+		"Place": "Bremen",
+		"Region": "Bremen",
+		"lat": "53.07929619999999",
+		"lng": "8.8016937"
+	},
+	{
+		"Place": "Büraburg",
+		"Region": "Hessen",
+		"lat": "51.120537",
+		"lng": "9.236395"
+	},
+	{
+		"Place": "Burgos",
+		"Region": "Castile and León",
+		"lat": "42.3380758",
+		"lng": "-3.5812692"
+	},
+	{
+		"Place": "Cambrai",
+		"Region": "Hauts-de-France",
+		"lat": "50.173538",
+		"lng": "3.236633"
+	},
+	{
+		"Place": "Canterbury",
+		"Region": "England",
+		"lat": "51.280233",
+		"lng": "1.0789089"
+	},
+	{
+		"Place": "Capua",
+		"Region": "Campania",
+		"lat": "41.1061258",
+		"lng": "14.2130486"
+	},
+	{
+		"Place": "Cassino",
+		"Region": "Lazio",
+		"lat": "41.4866953",
+		"lng": "13.8332193"
+	},
+	{
+		"Place": "Châlons",
+		"Region": "Auvergne-Rhône-Alpes",
+		"lat": "45.4452637",
+		"lng": "4.9304273"
+	},
+	{
+		"Place": "Châlons sur Marne",
+		"Region": "Grand-Est",
+		"lat": "48.956682",
+		"lng": "4.363073"
+	},
+	{
+		"Place": "Charroux",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "46.0751",
+		"lng": "3.6008"
+	},
+	{
+		"Place": "Chartres",
+		"Region": "Centre-Val de Loire",
+		"lat": "48.44385399999999",
+		"lng": "1.489012"
+	},
+	{
+		"Place": "Chelles",
+		"Region": "Île-de-France",
+		"lat": "48.87753499999999",
+		"lng": "2.59016"
+	},
+	{
+		"Place": "Chiemsee",
+		"Region": "Bayern",
+		"lat": "47.8593673",
+		"lng": "12.39881"
+	},
+	{
+		"Place": "Chieti",
+		"Region": "Abruzzo",
+		"lat": "42.347886",
+		"lng": "14.1635845"
+	},
+	{
+		"Place": "Chur",
+		"Region": "Grisons",
+		"lat": "46.8507835",
+		"lng": "9.5319859"
+	},
+	{
+		"Place": "Cividale del Friuli",
+		"Region": "Emilia-Romagna",
+		"lat": "46.0801447",
+		"lng": "13.433127"
+	},
+	{
+		"Place": "Clermont",
+		"Region": "Auvergne-Rhône-Alpes",
+		"lat": "45.77722199999999",
+		"lng": "3.087025"
+	},
+	{
+		"Place": "Cologne",
+		"Region": "North Rhine-Westphalia",
+		"lat": "50.937531",
+		"lng": "6.9602786"
+	},
+	{
+		"Place": "Compiègne",
+		"Region": "Hauts-de-France",
+		"lat": "49.41781599999999",
+		"lng": "2.826145"
+	},
+	{
+		"Place": "Corbie",
+		"Region": "Hauts-de-France",
+		"lat": "49.907676",
+		"lng": "2.511947"
+	},
+	{
+		"Place": "Corvey",
+		"Region": "North Rhine-Westphalia",
+		"lat": "51.77721289999999",
+		"lng": "9.4081802"
+	},
+	{
+		"Place": "Cremona",
+		"Region": "Lombardy",
+		"lat": "45.133249",
+		"lng": "10.0226511"
+	},
+	{
+		"Place": "Dijon",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "47.322047",
+		"lng": "5.04148"
+	},
+	{
+		"Place": "Disentis",
+		"Region": "Grisons",
+		"lat": "46.7051127",
+		"lng": "8.8523754"
+	},
+	{
+		"Place": "Dol",
+		"Region": "Bretagne",
+		"lat": "48.54969",
+		"lng": "-1.753965"
+	},
+	{
+		"Place": "Eauze",
+		"Region": "Occitanie",
+		"lat": "43.862587",
+		"lng": "0.10053"
+	},
+	{
+		"Place": "Echternach",
+		"Region": "Luxemburg",
+		"lat": "49.8114133",
+		"lng": "6.4175635"
+	},
+	{
+		"Place": "Eichstätt",
+		"Region": "Bavaria",
+		"lat": "48.89125079999999",
+		"lng": "11.189986"
+	},
+	{
+		"Place": "Einsiedeln",
+		"Region": "Schwyz",
+		"lat": "47.127353",
+		"lng": "8.745153699999999"
+	},
+	{
+		"Place": "Embrun",
+		"Region": "Provence-Alpes-Côte d'Azur",
+		"lat": "44.564164",
+		"lng": "6.495864999999999"
+	},
+	{
+		"Place": "Erfurt",
+		"Region": "Thuringia",
+		"lat": "50.98476789999999",
+		"lng": "11.0298799"
+	},
+	{
+		"Place": "Essen",
+		"Region": "North Rhine-Westphalia",
+		"lat": "51.4556432",
+		"lng": "7.0115552"
+	},
+	{
+		"Place": "Evreux",
+		"Region": "Normandy",
+		"lat": "49.0270129",
+		"lng": "1.151361"
+	},
+	{
+		"Place": "Exeter",
+		"Region": "England",
+		"lat": "50.718412",
+		"lng": "-3.533899"
+	},
+	{
+		"Place": "Faremoutiers",
+		"Region": "Île-de-France",
+		"lat": "48.799399",
+		"lng": "2.997246"
+	},
+	{
+		"Place": "Farfa",
+		"Region": "Lazio",
+		"lat": "42.2213595",
+		"lng": "12.7181804"
+	},
+	{
+		"Place": "Fécamp",
+		"Region": "Normandy",
+		"lat": "49.755601",
+		"lng": "0.380774"
+	},
+	{
+		"Place": "Ferrières-en-Gâtinais",
+		"Region": "Centre-Val de Loire",
+		"lat": "48.090359",
+		"lng": "2.789813"
+	},
+	{
+		"Place": "Flavigny-sur-Ozerain",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "47.5108589",
+		"lng": "4.5289426"
+	},
+	{
+		"Place": "Florence",
+		"Region": "Tuscany",
+		"lat": "43.7695604",
+		"lng": "11.2558136"
+	},
+	{
+		"Place": "Fontaines",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "46.849474",
+		"lng": "4.771204"
+	},
+	{
+		"Place": "Fontenoy",
+		"Region": "Hauts-de-France",
+		"lat": "49.407637",
+		"lng": "3.196901"
+	},
+	{
+		"Place": "Frankfurt am Main",
+		"Region": "Hessen",
+		"lat": "50.1109221",
+		"lng": "8.6821267"
+	},
+	{
+		"Place": "Freising",
+		"Region": "Bavaria",
+		"lat": "48.4028796",
+		"lng": "11.7411846"
+	},
+	{
+		"Place": "Fritzlar",
+		"Region": "Hessen",
+		"lat": "51.1330809",
+		"lng": "9.2742641"
+	},
+	{
+		"Place": "Fulda",
+		"Region": "Hessen",
+		"lat": "50.5558095",
+		"lng": "9.6808449"
+	},
+	{
+		"Place": "Gandersheim",
+		"Region": "Lower Saxony",
+		"lat": "51.87179769999999",
+		"lng": "10.023903"
+	},
+	{
+		"Place": "Gellone",
+		"Region": "Occitanie",
+		"lat": "43.7339966",
+		"lng": "3.5494447"
+	},
+	{
+		"Place": "Genoa",
+		"Region": "Liguria",
+		"lat": "44.4056499",
+		"lng": "8.946256"
+	},
+	{
+		"Place": "Gerona",
+		"Region": "Catalonia",
+		"lat": "41.9794005",
+		"lng": "2.8214264"
+	},
+	{
+		"Place": "Ghent",
+		"Region": "Flanders",
+		"lat": "51.0543422",
+		"lng": "3.7174243"
+	},
+	{
+		"Place": "Gorze",
+		"Region": "Grand-Est",
+		"lat": "49.053754",
+		"lng": "5.998717999999999"
+	},
+	{
+		"Place": "Halberstadt",
+		"Region": "Saxony-Anhalt",
+		"lat": "51.89487090000001",
+		"lng": "11.0496159"
+	},
+	{
+		"Place": "Hamburg",
+		"Region": "Corvey",
+		"lat": "53.5510846",
+		"lng": "9.993681799999999"
+	},
+	{
+		"Place": "Hautvillers",
+		"Region": "Grand-Est",
+		"lat": "49.083488",
+		"lng": "3.945541"
+	},
+	{
+		"Place": "Heidenheim",
+		"Region": "Baden-Württemberg",
+		"lat": "48.6893963",
+		"lng": "10.1610948"
+	},
+	{
+		"Place": "Hildesheim",
+		"Region": "Lower Saxony",
+		"lat": "52.154778",
+		"lng": "9.9579652"
+	},
+	{
+		"Place": "Holzkirchen",
+		"Region": "Bavaria",
+		"lat": "47.8810573",
+		"lng": "11.6997577"
+	},
+	{
+		"Place": "Honau",
+		"Region": "Baden-Württemberg",
+		"lat": "47.1306454",
+		"lng": "8.406330799999999"
+	},
+	{
+		"Place": "Iona",
+		"Region": "Scotland",
+		"lat": "56.3347303",
+		"lng": "-6.4041001"
+	},
+	{
+		"Place": "Ivrea",
+		"Region": "Piedmont",
+		"lat": "45.4672764",
+		"lng": "7.8800589"
+	},
+	{
+		"Place": "Jouarre",
+		"Region": "Île-de-France",
+		"lat": "48.92697",
+		"lng": "3.130026"
+	},
+	{
+		"Place": "Jumièges",
+		"Region": "Normandy",
+		"lat": "49.433214",
+		"lng": "0.8194589999999999"
+	},
+	{
+		"Place": "Kaiserswerth",
+		"Region": "North Rhine-Westphalia",
+		"lat": "51.2977265",
+		"lng": "6.7380299"
+	},
+	{
+		"Place": "Karlburg",
+		"Region": "Bavaria",
+		"lat": "49.9801115",
+		"lng": "9.7579557"
+	},
+	{
+		"Place": "Kempten",
+		"Region": "Bayern",
+		"lat": "47.7285699",
+		"lng": "10.3157835"
+	},
+	{
+		"Place": "Kitzingen",
+		"Region": "Bavaria",
+		"lat": "49.7340805",
+		"lng": "10.1473777"
+	},
+	{
+		"Place": "Kochel am See",
+		"Region": "Bavaria",
+		"lat": "47.6594128",
+		"lng": "11.368141"
+	},
+	{
+		"Place": "Konstanz",
+		"Region": "Baden-Württemberg",
+		"lat": "47.6779496",
+		"lng": "9.173238399999999"
+	},
+	{
+		"Place": "Landévennec",
+		"Region": "Bretagne",
+		"lat": "48.291616",
+		"lng": "-4.267393"
+	},
+	{
+		"Place": "Langres",
+		"Region": "Grand-Est",
+		"lat": "47.86683",
+		"lng": "5.334297"
+	},
+	{
+		"Place": "Laon",
+		"Region": "Hauts-de-France",
+		"lat": "49.564133",
+		"lng": "3.61989"
+	},
+	{
+		"Place": "Le Mans",
+		"Region": "Pays de la Loire",
+		"lat": "48.00611000000001",
+		"lng": "0.199556"
+	},
+	{
+		"Place": "Le Puy-en-Velay",
+		"Region": "Auvergne-Rhône-Alpes",
+		"lat": "45.042768",
+		"lng": "3.882936"
+	},
+	{
+		"Place": "Lehon",
+		"Region": "Bretagne",
+		"lat": "48.4422939",
+		"lng": "-2.03902"
+	},
+	{
+		"Place": "León",
+		"Region": "Bretagne",
+		"lat": "48.567999",
+		"lng": "-3.525221"
+	},
+	{
+		"Place": "Les Andelys",
+		"Region": "Normandy",
+		"lat": "49.246568",
+		"lng": "1.4192"
+	},
+	{
+		"Place": "Liébana",
+		"Region": "Castile and León",
+		"lat": "43.1177101",
+		"lng": "-4.6863782"
+	},
+	{
+		"Place": "Liège",
+		"Region": "Walloon Region",
+		"lat": "50.6325574",
+		"lng": "5.5796662"
+	},
+	{
+		"Place": "Limoges",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "45.83361900000001",
+		"lng": "1.261105"
+	},
+	{
+		"Place": "Lindisfarne",
+		"Region": "England",
+		"lat": "55.6807718",
+		"lng": "-1.800859"
+	},
+	{
+		"Place": "Lobbes",
+		"Region": "Walloon Region",
+		"lat": "50.3520052",
+		"lng": "4.2665184"
+	},
+	{
+		"Place": "London",
+		"Region": "England",
+		"lat": "51.5073509",
+		"lng": "-0.1277583"
+	},
+	{
+		"Place": "Lorsch",
+		"Region": "Hessen",
+		"lat": "49.65392550000001",
+		"lng": "8.5675071"
+	},
+	{
+		"Place": "Lucca",
+		"Region": "Tuscany",
+		"lat": "43.8376211",
+		"lng": "10.4950609"
+	},
+	{
+		"Place": "Luxembourg City",
+		"Region": "Luxemburg",
+		"lat": "49.61162100000001",
+		"lng": "6.1319346"
+	},
+	{
+		"Place": "Luxeuil-les-Bains",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "47.8168409",
+		"lng": "6.381111"
+	},
+	{
+		"Place": "Lyon",
+		"Region": "Auvergne-Rhône-Alpes",
+		"lat": "45.764043",
+		"lng": "4.835659"
+	},
+	{
+		"Place": "Maastricht",
+		"Region": "Limburg",
+		"lat": "50.8513682",
+		"lng": "5.6909725"
+	},
+	{
+		"Place": "Mâcon",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "46.3068839",
+		"lng": "4.828730999999999"
+	},
+	{
+		"Place": "Magdeburg",
+		"Region": "Saxony-Anhalt",
+		"lat": "52.1205333",
+		"lng": "11.6276237"
+	},
+	{
+		"Place": "Maguelone",
+		"Region": "Occitanie",
+		"lat": "43.5332397",
+		"lng": "3.861616499999999"
+	},
+	{
+		"Place": "Mainz",
+		"Region": "Rhineland-Palatinate",
+		"lat": "49.9928617",
+		"lng": "8.247252599999999"
+	},
+	{
+		"Place": "Malmedy",
+		"Region": "Walloon Region",
+		"lat": "50.4246396",
+		"lng": "6.0283276"
+	},
+	{
+		"Place": "Malmesbury",
+		"Region": "England",
+		"lat": "51.586357",
+		"lng": "-2.102834"
+	},
+	{
+		"Place": "Marseille",
+		"Region": "Provence-Alpes-Côte d'Azur",
+		"lat": "43.296482",
+		"lng": "5.36978"
+	},
+	{
+		"Place": "Massay",
+		"Region": "Centre-Val de Loire",
+		"lat": "47.152232",
+		"lng": "1.991003"
+	},
+	{
+		"Place": "Meaux",
+		"Region": "Île-de-France",
+		"lat": "48.9562018",
+		"lng": "2.8884657"
+	},
+	{
+		"Place": "Melk",
+		"Region": "Lower Austria",
+		"lat": "48.22647",
+		"lng": "15.34996"
+	},
+	{
+		"Place": "Menat",
+		"Region": "Auvergne-Rhône-Alpes",
+		"lat": "46.1041839",
+		"lng": "2.904436"
+	},
+	{
+		"Place": "Metz",
+		"Region": "Grand-Est",
+		"lat": "49.1193089",
+		"lng": "6.175715599999999"
+	},
+	{
+		"Place": "Milan",
+		"Region": "Lombardy",
+		"lat": "45.4654219",
+		"lng": "9.1859243"
+	},
+	{
+		"Place": "Minden",
+		"Region": "North Rhine-Westphalia",
+		"lat": "52.2964919",
+		"lng": "8.894920599999999"
+	},
+	{
+		"Place": "Mondsee",
+		"Region": "Amöneburg",
+		"lat": "47.855591",
+		"lng": "13.3434218"
+	},
+	{
+		"Place": "Mont-St.-Michel",
+		"Region": "Normandy",
+		"lat": "48.636063",
+		"lng": "-1.511457"
+	},
+	{
+		"Place": "Monte Amiata",
+		"Region": "Tuscany",
+		"lat": "42.88769",
+		"lng": "11.6239051"
+	},
+	{
+		"Place": "Montier-en-Der",
+		"Region": "Grand-Est",
+		"lat": "48.476683",
+		"lng": "4.770828"
+	},
+	{
+		"Place": "Monza",
+		"Region": "Lombardy",
+		"lat": "45.5845001",
+		"lng": "9.2744485"
+	},
+	{
+		"Place": "Münster",
+		"Region": "North Rhine-Westphalia",
+		"lat": "51.9606649",
+		"lng": "7.6261347"
+	},
+	{
+		"Place": "Münstertal",
+		"Region": "Baden-Württemberg",
+		"lat": "47.854722",
+		"lng": "7.784167"
+	},
+	{
+		"Place": "Murbach",
+		"Region": "Grand-Est",
+		"lat": "47.923656",
+		"lng": "7.157327"
+	},
+	{
+		"Place": "Müstair",
+		"Region": "Grisons",
+		"lat": "46.6261772",
+		"lng": "10.445857"
+	},
+	{
+		"Place": "Nantes",
+		"Region": "Pays de la Loire",
+		"lat": "47.218371",
+		"lng": "-1.553621"
+	},
+	{
+		"Place": "Naples",
+		"Region": "Campania",
+		"lat": "40.8517746",
+		"lng": "14.2681244"
+	},
+	{
+		"Place": "Narbonne",
+		"Region": "Occitanie",
+		"lat": "43.184277",
+		"lng": "3.003078"
+	},
+	{
+		"Place": "Neustadt am Main",
+		"Region": "Bavaria",
+		"lat": "49.930843",
+		"lng": "9.570680899999999"
+	},
+	{
+		"Place": "Nevers",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "46.99089600000001",
+		"lng": "3.162845"
+	},
+	{
+		"Place": "Niederalteich",
+		"Region": "Bavaria",
+		"lat": "48.7664877",
+		"lng": "13.0263663"
+	},
+	{
+		"Place": "Nivelles",
+		"Region": "Walloon Region",
+		"lat": "50.59787",
+		"lng": "4.32851"
+	},
+	{
+		"Place": "Noirmoutier",
+		"Region": "Pays de la Loire",
+		"lat": "46.9872475",
+		"lng": "-2.2692823"
+	},
+	{
+		"Place": "Nonantola",
+		"Region": "Emilia-Romagna",
+		"lat": "44.67887470000001",
+		"lng": "11.0411597"
+	},
+	{
+		"Place": "Nouaillé",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "46.5024643",
+		"lng": "0.4127503"
+	},
+	{
+		"Place": "Novalesa",
+		"Region": "Piedmont",
+		"lat": "45.18911809999999",
+		"lng": "7.015282399999999"
+	},
+	{
+		"Place": "Novara",
+		"Region": "Piedmont",
+		"lat": "45.44692999999999",
+		"lng": "8.622161199999999"
+	},
+	{
+		"Place": "Noyon",
+		"Region": "Hauts-de-France",
+		"lat": "49.58016600000001",
+		"lng": "3.0007229"
+	},
+	{
+		"Place": "Ochsenfort",
+		"Region": "North Rhine-Westphalia",
+		"lat": "49.6640025",
+		"lng": "10.0709014"
+	},
+	{
+		"Place": "Orléans",
+		"Region": "Centre-Val de Loire",
+		"lat": "47.902964",
+		"lng": "1.909251"
+	},
+	{
+		"Place": "Osnabrüch",
+		"Region": "Lower Saxony",
+		"lat": "52.2799112",
+		"lng": "8.047178799999999"
+	},
+	{
+		"Place": "Ottobeuren",
+		"Region": "Bavaria",
+		"lat": "47.941043",
+		"lng": "10.3006937"
+	},
+	{
+		"Place": "Pamplona",
+		"Region": "Navarre",
+		"lat": "42.812526",
+		"lng": "-1.6457745"
+	},
+	{
+		"Place": "Paris",
+		"Region": "Île-de-France",
+		"lat": "48.856614",
+		"lng": "2.3522219"
+	},
+	{
+		"Place": "Passau",
+		"Region": "Bavaria",
+		"lat": "48.5667364",
+		"lng": "13.4319466"
+	},
+	{
+		"Place": "Pavia",
+		"Region": "Lombardy",
+		"lat": "45.1847248",
+		"lng": "9.1582069"
+	},
+	{
+		"Place": "Périgeux",
+		"Region": "Grand-Est",
+		"lat": "45.184029",
+		"lng": "0.7211149"
+	},
+	{
+		"Place": "Péronne",
+		"Region": "Hauts-de-France",
+		"lat": "49.933071",
+		"lng": "2.933353"
+	},
+	{
+		"Place": "Perugia",
+		"Region": "Umbria",
+		"lat": "43.1107168",
+		"lng": "12.3908279"
+	},
+	{
+		"Place": "Pfäfers",
+		"Region": "St. Gallen",
+		"lat": "46.990488",
+		"lng": "9.503193900000001"
+	},
+	{
+		"Place": "Pfälzer",
+		"Region": "North Rhine-Westphalia",
+		"lat": "49.48221160000001",
+		"lng": "7.860948100000001"
+	},
+	{
+		"Place": "Poitiers",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "46.58022400000001",
+		"lng": "0.340375"
+	},
+	{
+		"Place": "Prüm",
+		"Region": "Rhineland-Palatinate",
+		"lat": "50.208237",
+		"lng": "6.419700499999999"
+	},
+	{
+		"Place": "Ravenna",
+		"Region": "Emilia-Romagna",
+		"lat": "44.4183598",
+		"lng": "12.2035294"
+	},
+	{
+		"Place": "Rebais",
+		"Region": "Île-de-France",
+		"lat": "48.8466",
+		"lng": "3.23182"
+	},
+	{
+		"Place": "Redon",
+		"Region": "Bretagne",
+		"lat": "47.650742",
+		"lng": "-2.083938"
+	},
+	{
+		"Place": "Regensburg",
+		"Region": "Bavaria",
+		"lat": "49.0134297",
+		"lng": "12.1016236"
+	},
+	{
+		"Place": "Reichenau",
+		"Region": "Baden-Württemberg",
+		"lat": "47.6980283",
+		"lng": "9.060883499999999"
+	},
+	{
+		"Place": "Reims",
+		"Region": "Grand-Est",
+		"lat": "49.258329",
+		"lng": "4.031696"
+	},
+	{
+		"Place": "Remiremont",
+		"Region": "Grand-Est",
+		"lat": "48.015589",
+		"lng": "6.591716"
+	},
+	{
+		"Place": "Rennes",
+		"Region": "Bretagne",
+		"lat": "48.117266",
+		"lng": "-1.6777926"
+	},
+	{
+		"Place": "Rome",
+		"Region": "Lazio",
+		"lat": "41.9027835",
+		"lng": "12.4963655"
+	},
+	{
+		"Place": "Rouen",
+		"Region": "Normandy",
+		"lat": "49.44323199999999",
+		"lng": "1.099971"
+	},
+	{
+		"Place": "Saint-Génis-des-Fontaines",
+		"Region": "Occitanie",
+		"lat": "42.54344800000001",
+		"lng": "2.920462"
+	},
+	{
+		"Place": "Saint-Pryvé-Saint-Mesmin",
+		"Region": "Centre-Val de Loire",
+		"lat": "47.88092",
+		"lng": "1.867408"
+	},
+	{
+		"Place": "Saintes",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "45.744175",
+		"lng": "-0.633389"
+	},
+	{
+		"Place": "Salerno",
+		"Region": "Campania",
+		"lat": "40.68244079999999",
+		"lng": "14.7680961"
+	},
+	{
+		"Place": "Salzburg",
+		"Region": "Salzburg",
+		"lat": "47.80949",
+		"lng": "13.05501"
+	},
+	{
+		"Place": "San Vincenzo",
+		"Region": "Tuscany",
+		"lat": "43.0772066",
+		"lng": "10.5577407"
+	},
+	{
+		"Place": "Saragossa",
+		"Region": "Aragon",
+		"lat": "41.6488226",
+		"lng": "-0.8890853"
+	},
+	{
+		"Place": "Schäftlarn",
+		"Region": "Bavaria",
+		"lat": "47.990305",
+		"lng": "11.4573424"
+	},
+	{
+		"Place": "Schwarzach",
+		"Region": "Bavaria",
+		"lat": "48.9183503",
+		"lng": "12.8112918"
+	},
+	{
+		"Place": "Sens",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "48.20065",
+		"lng": "3.28268"
+	},
+	{
+		"Place": "Soissons",
+		"Region": "Hauts-de-France",
+		"lat": "49.376636",
+		"lng": "3.32342"
+	},
+	{
+		"Place": "Solnhofen",
+		"Region": "Bavaria",
+		"lat": "48.8971905",
+		"lng": "10.9969653"
+	},
+	{
+		"Place": "Spoleto",
+		"Region": "Umbria",
+		"lat": "42.7404881",
+		"lng": "12.7378003"
+	},
+	{
+		"Place": "St- Wandrille-Rançon",
+		"Region": "Normandy",
+		"lat": "49.52128",
+		"lng": "0.777029"
+	},
+	{
+		"Place": "St. Amand-les-Eaux",
+		"Region": "Hauts-de-France",
+		"lat": "50.44897899999999",
+		"lng": "3.428713"
+	},
+	{
+		"Place": "St. Benoît-sur-Loire",
+		"Region": "Centre-Val de Loire",
+		"lat": "47.81033100000001",
+		"lng": "2.319231"
+	},
+	{
+		"Place": "St. Claude",
+		"Region": "Bourgogne-Franche-Comté",
+		"lat": "46.2786",
+		"lng": "6.3034"
+	},
+	{
+		"Place": "St. Denis",
+		"Region": "Île-de-France",
+		"lat": "48.936181",
+		"lng": "2.357443"
+	},
+	{
+		"Place": "St. Domingo de Silos",
+		"Region": "Castile and León",
+		"lat": "41.966667",
+		"lng": "-3.416667"
+	},
+	{
+		"Place": "St. Gall",
+		"Region": "St. Gallen",
+		"lat": "47.4244818",
+		"lng": "9.376717299999999"
+	},
+	{
+		"Place": "St. Germigny-des-Prés",
+		"Region": "Centre-Val de Loire",
+		"lat": "47.845624",
+		"lng": "2.266394"
+	},
+	{
+		"Place": "St. Honorat",
+		"Region": "Auvergne-Rhône-Alpes",
+		"lat": "43.5074821",
+		"lng": "7.0464835"
+	},
+	{
+		"Place": "St. Hubert",
+		"Region": "Walloon Region",
+		"lat": "50.026111",
+		"lng": "5.374169"
+	},
+	{
+		"Place": "St. Maixent",
+		"Region": "Pays de la Loire",
+		"lat": "46.41316500000001",
+		"lng": "-0.20341"
+	},
+	{
+		"Place": "St. Maurice",
+		"Region": "Valais",
+		"lat": "46.214941",
+		"lng": "7.0047948"
+	},
+	{
+		"Place": "St. Mesmin",
+		"Region": "Grand-Est",
+		"lat": "45.352666",
+		"lng": "1.205815"
+	},
+	{
+		"Place": "St. Mihiel",
+		"Region": "Grand-Est",
+		"lat": "48.88855",
+		"lng": "5.541657"
+	},
+	{
+		"Place": "St. Omer",
+		"Region": "Hauts-de-France",
+		"lat": "50.750115",
+		"lng": "2.252208"
+	},
+	{
+		"Place": "St. Philbert-de-Grandlieu",
+		"Region": "Pays de la Loire",
+		"lat": "47.03687799999999",
+		"lng": "-1.642905"
+	},
+	{
+		"Place": "St. Quentin",
+		"Region": "Hauts-de-France",
+		"lat": "49.847066",
+		"lng": "3.2874"
+	},
+	{
+		"Place": "St. Riquier",
+		"Region": "Hauts-de-France",
+		"lat": "50.134581",
+		"lng": "1.945999"
+	},
+	{
+		"Place": "St. Truiden",
+		"Region": "Flanders",
+		"lat": "50.8157248",
+		"lng": "5.1862508"
+	},
+	{
+		"Place": "Staffelsee",
+		"Region": "Bavaria",
+		"lat": "47.6883488",
+		"lng": "11.1555315"
+	},
+	{
+		"Place": "Stavelot",
+		"Region": "Walloon Region",
+		"lat": "50.3940981",
+		"lng": "5.9304413"
+	},
+	{
+		"Place": "Strasbourg",
+		"Region": "Grand-Est",
+		"lat": "48.5734053",
+		"lng": "7.752111299999999"
+	},
+	{
+		"Place": "Sunderland",
+		"Region": "England",
+		"lat": "54.8861515",
+		"lng": "-1.4785737"
+	},
+	{
+		"Place": "Tarentaise",
+		"Region": "Auvergne-Rhône-Alpes",
+		"lat": "45.37336",
+		"lng": "4.488949"
+	},
+	{
+		"Place": "Tarragona",
+		"Region": "Catalonia",
+		"lat": "41.1188827",
+		"lng": "1.2444909"
+	},
+	{
+		"Place": "Tauberbischofsheim",
+		"Region": "Baden-Württemberg",
+		"lat": "49.6263199",
+		"lng": "9.6559606"
+	},
+	{
+		"Place": "Teano",
+		"Region": "Campania",
+		"lat": "41.2492784",
+		"lng": "14.0682377"
+	},
+	{
+		"Place": "Tegernsee",
+		"Region": "Bavaria",
+		"lat": "47.71315240000001",
+		"lng": "11.758016"
+	},
+	{
+		"Place": "Tortona",
+		"Region": "Piedmont",
+		"lat": "44.8952122",
+		"lng": "8.8633326"
+	},
+	{
+		"Place": "Tortosa",
+		"Region": "Catalonia",
+		"lat": "40.8125777",
+		"lng": "0.5214423"
+	},
+	{
+		"Place": "Toul",
+		"Region": "Grand-Est",
+		"lat": "48.678296",
+		"lng": "5.890159"
+	},
+	{
+		"Place": "Toulouse",
+		"Region": "Occitanie",
+		"lat": "43.604652",
+		"lng": "1.444209"
+	},
+	{
+		"Place": "Tournai",
+		"Region": "Walloon Region",
+		"lat": "50.6056475",
+		"lng": "3.3879338"
+	},
+	{
+		"Place": "Tours",
+		"Region": "Centre-Val de Loire",
+		"lat": "47.394144",
+		"lng": "0.68484"
+	},
+	{
+		"Place": "Trier",
+		"Region": "Rhineland-Palatinate",
+		"lat": "49.749992",
+		"lng": "6.6371433"
+	},
+	{
+		"Place": "Troyes",
+		"Region": "Grand-Est",
+		"lat": "48.2973451",
+		"lng": "4.0744009"
+	},
+	{
+		"Place": "Urgel",
+		"Region": "Catalonia",
+		"lat": "42.3600077",
+		"lng": "1.4579696"
+	},
+	{
+		"Place": "Utrecht",
+		"Region": "Utrecht",
+		"lat": "52.09073739999999",
+		"lng": "5.1214201"
+	},
+	{
+		"Place": "Venice",
+		"Region": "Veneto",
+		"lat": "45.4408474",
+		"lng": "12.3155151"
+	},
+	{
+		"Place": "Vercelli",
+		"Region": "Piedmont",
+		"lat": "45.32022720000001",
+		"lng": "8.418573499999999"
+	},
+	{
+		"Place": "Verden",
+		"Region": "Lower Saxony",
+		"lat": "52.9347982",
+		"lng": "9.2329647"
+	},
+	{
+		"Place": "Verdun",
+		"Region": "Grand-Est",
+		"lat": "49.15987639999999",
+		"lng": "5.3844231"
+	},
+	{
+		"Place": "Verona",
+		"Region": "Veneto",
+		"lat": "45.43838419999999",
+		"lng": "10.9916215"
+	},
+	{
+		"Place": "Vienne",
+		"Region": "Nouvelle-Aquitaine",
+		"lat": "45.525587",
+		"lng": "4.874339"
+	},
+	{
+		"Place": "Weilheim",
+		"Region": "Bavaria",
+		"lat": "47.8406859",
+		"lng": "11.1421379"
+	},
+	{
+		"Place": "Weißenburg",
+		"Region": "Bayern",
+		"lat": "49.0272089",
+		"lng": "10.9710237"
+	},
+	{
+		"Place": "Werden",
+		"Region": "North Rhine-Westphalia",
+		"lat": "51.38843019999999",
+		"lng": "7.0029999"
+	},
+	{
+		"Place": "Wettenhausen",
+		"Region": "Bavaria",
+		"lat": "48.39543",
+		"lng": "10.35746"
+	},
+	{
+		"Place": "Wijk bij Duurstede/Dorostad",
+		"Region": "Utrecht",
+		"lat": "51.9756003",
+		"lng": "5.338449499999999"
+	},
+	{
+		"Place": "Winchester",
+		"Region": "England",
+		"lat": "51.059771",
+		"lng": "-1.310142"
+	},
+	{
+		"Place": "Worms",
+		"Region": "Rhineland-Palatinate",
+		"lat": "49.6341372",
+		"lng": "8.350718199999999"
+	},
+	{
+		"Place": "Würzburg",
+		"Region": "Bavaria",
+		"lat": "49.79130439999999",
+		"lng": "9.9533548"
+	},
+	{
+		"Place": "York",
+		"Region": "England",
+		"lat": "53.95996510000001",
+		"lng": "-1.0872979"
+	},
+	{
+		"Place": "Zürich",
+		"Region": "Zürich",
+		"lat": "47.3768866",
+		"lng": "8.541694"
+	}
+]
