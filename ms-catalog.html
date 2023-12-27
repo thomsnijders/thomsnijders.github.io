@@ -31,11 +31,20 @@
 			$.getJSON("json/ms-catalog.json", function( data ) {
 				// Add a row for each entry
 				$.each(data, function(index, row) {
+					// Prepare Digitalizations
+					let aDigitalizations = row.Digitalizations.split(', ');
+					let tdDigitalizations = $("<td>");
+					$.each(aDigitalizations, function(index, url) {
+						if(url !== "") {
+							tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
+						}
+					});
+				
 					// Prepare a new row
 					let tr = $("<tr>");
 					$($("<td>").text(row.MSID)).appendTo(tr);
 					$($("<td>").text(row.Shelfmark)).appendTo(tr);
-					$($("<td>").text(row.Digitalizations)).appendTo(tr);
+					tdDigitalizations.appendTo(tr);
 					$($("<td>").text(row.IIIF)).appendTo(tr);
 					$($("<td>").text(row.Schriften)).appendTo(tr);
 					$($("<td>").text(row.Reichskalender)).appendTo(tr);
