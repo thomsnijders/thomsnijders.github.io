@@ -117,12 +117,6 @@
 		let color = [];
 		color.push("9D9D9D", "00E18B", "00DD47", "00D904", "3BD500", "79D200", "B5CE00", "CAA600", "C66700", "C22B00", "BF000E");
 		
-		// Prepare the map layers as overlays
-		let overlayMaps = {
-			"Libraries of preservation": LocationsOfPreservation,
-			"Places of origin": PlacesOfOrigin
-		};
-
 		// Add the control for switching between overlays
 		L.control.layers(null, overlayMaps).addTo(map);
 
