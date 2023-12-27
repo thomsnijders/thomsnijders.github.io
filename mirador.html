@@ -3,29 +3,28 @@
 		<title>Mirador Viewer: Browse 253 computistical and calendrical manuscripts</title>
 		<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 		<script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
 	</head>
 	<body>
 		<div id="my-mirador"/></div>
-
 		<script type="text/javascript">
+		// Retrieve the contents of iiif-catalog.json, which should be present in the json directory
 		$.getJSON( "json/iiif-catalog.json", function( data ) {
+			// Once the content of iiif-catalog.json are loaded, the Mirador Viewer can me initiated
 			var mirador = Mirador.viewer({
 			  "id": "my-mirador",
 				themes: {
-			 light: {
-			   palette: {
-				 type: 'dark',
-				 primary: {
-				   main: '#0088ce',
-				 },
-			   },
-			 },
-		   },
-		   catalog: data
+					light: {
+						palette: {
+							type: 'dark',
+							primary: {
+								main: '#0088ce',
+							},
+						},
+					},
+				},
+				catalog: data
 		   });
 		});
-		
 		</script>
 	</body>
 </html>
