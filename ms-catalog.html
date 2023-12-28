@@ -262,7 +262,7 @@
 
 								console.log(startingPage);
 								console.log(pageRange);
-								let partWithHyperlink = part.replace("<a href=\"" + URL_Reichskalender_start + startingPage + "\" target=\"_blank\">pp. " + pageRange + "</a>");
+								let partWithHyperlink = part.replace("pp. " + pageRange, "<a href=\"" + URL_Reichskalender_start + startingPage + "\" target=\"_blank\">pp. " + pageRange + "</a>");
 								tdReichskalender.append(partWithHyperlink);
 								if (index != aReichskalender.length -1) {
 									tdReichskalender.append("<br>");
