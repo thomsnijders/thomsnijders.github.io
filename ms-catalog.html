@@ -31,6 +31,30 @@
 				vertical-align: top;
 			}
 			
+			a.button { 
+				background: #009688;
+				color: white;
+			}
+			
+			a.button:link {
+				color: white;
+				text-decoration: none;
+			}
+			
+			a.button:visited {
+				color: white;
+				text-decoration: none;
+			}
+			
+			a.button:hover {
+				color: white;
+				text-decoration: underline;
+			}
+			
+			a.button:active {
+				color: white;
+			}
+			
 			a:link {
 				color: #009688;
 			}
@@ -260,16 +284,16 @@
 								
 								if(typeof part0 === "undefined") {
 									console.log(part);
-								}else(
-								
-								let startingPage = part0.split("-")[0];
-								let pageRange = part0.split(")")[0];
+								}else{
+				
+									let startingPage = part0.split("-")[0];
+									let pageRange = part0.split(")")[0];
 
-								let partWithHyperlink = part.replace("pp. " + pageRange, "<a href=\"" + URL_Reichskalender_start + startingPage + "\" target=\"_blank\">pp. " + pageRange + "</a>");
-								tdReichskalender.append(partWithHyperlink);
-								if (index != aReichskalender.length -1) {
-									tdReichskalender.append("<br>");
-								}
+									let partWithHyperlink = part.replace("pp. " + pageRange, "<a href=\"" + URL_Reichskalender_start + startingPage + "\" target=\"_blank\">pp. " + pageRange + "</a>");
+									tdReichskalender.append(partWithHyperlink);
+									if (index != aReichskalender.length -1) {
+										tdReichskalender.append("<br>");
+									}
 								}
 							}
 						});
