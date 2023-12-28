@@ -67,8 +67,8 @@
 	<h1>Computus.lat: Bibliography (formatted) v2.0</h1>
 		<a href="https://thomsnijders.nl/computus-lat/" target="_blank" class="button">More information about Computus.lat</a>
 		<a href="https://thomsnijders.nl/computus-lat/catalogue/report-broken-link/" target="_blank" class="button">Report a broken link</a>
-		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/julian-solar-calendar.html" target="_blank" class="button">Source code</a>		
-		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/json/julian-solar-calendar.json" target="_blank" class="button">Dataset</a><br>
+		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/bibliography-formatted.html" target="_blank" class="button">Source code</a>		
+		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/json/bibliography-formatted.json" target="_blank" class="button">Dataset</a><br>
 	
 		<table id="bibliographyFormatted" class="cell-border compact stripe">
 			<thead>
@@ -97,8 +97,8 @@
 					$($("<td>").text(row.ReferenceType)).appendTo(tr);
 					$($("<td>").text(row.Reference)).appendTo(tr);
 					$($("<td>").text(row.Language)).appendTo(tr);
-					$("<td>").append($("<a href=\"" + row.URL + "\" target=\"_blank\">").text(row.URL).appendTo(tr);
-					$("<td>").append($("<a href=\"" + row.DOI + "\" target=\"_blank\">").text(row.DOI).appendTo(tr);
+					$("<td>").append($("<a href=\"" + row.URL + "\" target=\"_blank\">").text(row.URL)).appendTo(tr);
+					$("<td>").append($("<a href=\"" + row.DOI + "\" target=\"_blank\">").text(row.DOI)).appendTo(tr);
 					
 					// Add new row to table
 					$("#julianSolarCalendar tbody").append(tr);
