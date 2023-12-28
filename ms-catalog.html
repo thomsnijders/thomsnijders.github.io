@@ -257,6 +257,11 @@
 							
 							if(part !== "") {
 								let part0 = part.split("(pp. ")[1];
+								
+								if(typeof part0 === "undefined") {
+									console.log(part);
+								}else(
+								
 								let startingPage = part0.split("-")[0];
 								let pageRange = part0.split(")")[0];
 
@@ -266,6 +271,7 @@
 								tdReichskalender.append(partWithHyperlink);
 								if (index != aReichskalender.length -1) {
 									tdReichskalender.append("<br>");
+								}
 								}
 							}
 						});
