@@ -70,6 +70,8 @@
 			
 		<script type="text/javascript">
 			// Prepare jsonSchriften for references to www.thomsnijders.nl and DMGH
+			let URL_TS_start = "https://thomsnijders.nl/computus-lat/schriften/";
+			let URL_Schriften_start = "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,";
 			let jsonSchriften = [
 							{
 								"Title": "Prol. Aquit.",
@@ -227,9 +229,6 @@
 						});
 						
 					}
-					
-					let URL_TS_start = "https://thomsnijders.nl/computus-lat/schriften/";
-					let URL_Schriften_start = "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,";
 					
 					let tdSchriften = $("<td>");
 					if(row.Schriften !== null) {
