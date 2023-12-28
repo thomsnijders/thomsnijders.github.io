@@ -103,7 +103,7 @@
 					
 					// Add columns to row					
 					$($("<td>").text(row.ReferenceType)).appendTo(tr);
-					$($("<td>").text(row.Reference)).appendTo(tr);
+					$($("<td>").append(row.Reference)).appendTo(tr);
 					$($("<td>").text(row.Language)).appendTo(tr);
 					$("<td>").append($("<a href=\"" + row.URL + "\" target=\"_blank\">").text(row.URL)).appendTo(tr);
 					$("<td>").append($("<a href=\"" + row.DOI + "\" target=\"_blank\">").text(row.DOI)).appendTo(tr);
