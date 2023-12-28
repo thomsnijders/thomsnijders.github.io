@@ -24,7 +24,11 @@
 			}
 			
 			input[placeholder=Shelfmark] {
-				width: 500px;
+				width: 400px;
+			}
+			
+			input[placeholder=Reichskalender] {
+				width: 480px;
 			}
 			
 			td {
@@ -286,7 +290,6 @@
 								let part0 = part.split("(pp. ")[1];
 								
 								if(typeof part0 === "undefined") {
-									console.log(part);
 									tdReichskalender.append(part);
 									if (index != aReichskalender.length -1) {
 										tdReichskalender.append("<br>");
