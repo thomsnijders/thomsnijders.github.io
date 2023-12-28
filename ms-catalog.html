@@ -69,47 +69,8 @@
 		</table>
 			
 		<script type="text/javascript">
-			// Retrieve the contents of ms-catalog.json, which should be present in the json directory
-			$.getJSON("json/ms-catalog.json", function( data ) {
-				// Add a row for each entry
-				$.each(data, function(index, row) {
-					// Prepare Digitalizations
-					
-					let tdDigitalizations = $("<td>");
-					if(row.Digitalizations !== null) {
-						let aDigitalizations = row.Digitalizations.split(', ');
-						$.each(aDigitalizations, function(index, url) {
-						
-							if(url !== "") {							
-								tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
-								if (index != aDigitalizations.length -1) {
-									tdDigitalizations.append("<br>");
-								}
-							}
-						});
-						
-					}
-										
-					let tdIIIF = $("<td>");
-					if(row.IIIF !== null) {
-						let aIIIF = row.IIIF.split(', ');
-						$.each(aIIIF, function(index, url) {
-							if(url !== "") {
-								tdIIIF.append("<a href=\"" + url + "\" target=\"_blank\">IIIF</a>");
-								if (index != aIIIF.length -1) {
-									tdIIIF.append("<br>");
-								}
-							}
-						});
-						
-					}
-					
-					let URL_TS_start = URL_TS_start + "";
-					let URL_Schriften_start = "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,";
-					
-					let tdSchriften = $("<td>");
-					if(row.Schriften !== null) {
-						let jsonSchriften = [
+			// Prepare jsonSchriften for references to www.thomsnijders.nl and DMGH
+			let jsonSchriften = [
 							{
 								"Title": "Prol. Aquit.",
 								"Pages": "pp. 329-347",
@@ -231,6 +192,48 @@
 								"URL_Schriften": URL_Schriften_start + "3_S._1367"
 							}
 						];
+		
+			// Retrieve the contents of ms-catalog.json, which should be present in the json directory
+			$.getJSON("json/ms-catalog.json", function( data ) {
+				// Add a row for each entry
+				$.each(data, function(index, row) {
+					// Prepare Digitalizations
+					
+					let tdDigitalizations = $("<td>");
+					if(row.Digitalizations !== null) {
+						let aDigitalizations = row.Digitalizations.split(', ');
+						$.each(aDigitalizations, function(index, url) {
+						
+							if(url !== "") {							
+								tdDigitalizations.append("<a href=\"" + url + "\" target=\"_blank\">Digitalization</a>");
+								if (index != aDigitalizations.length -1) {
+									tdDigitalizations.append("<br>");
+								}
+							}
+						});
+						
+					}
+										
+					let tdIIIF = $("<td>");
+					if(row.IIIF !== null) {
+						let aIIIF = row.IIIF.split(', ');
+						$.each(aIIIF, function(index, url) {
+							if(url !== "") {
+								tdIIIF.append("<a href=\"" + url + "\" target=\"_blank\">IIIF</a>");
+								if (index != aIIIF.length -1) {
+									tdIIIF.append("<br>");
+								}
+							}
+						});
+						
+					}
+					
+					let URL_TS_start = "https://thomsnijders.nl/computus-lat/schriften/";
+					let URL_Schriften_start = "http://www.mgh.de/dmgh/resolving/MGH_QQ_zur_Geistesgesch._21,";
+					
+					let tdSchriften = $("<td>");
+					if(row.Schriften !== null) {
+						
 					
 						$.each(jsonSchriften, function(index, entry) {
 							row.Schriften = row.Schriften.replace(entry.Title, "<a href=\"" + entry.URL_TS + "\" target=\"_blank\">" + entry.Title + "</a>");
