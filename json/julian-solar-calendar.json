@@ -1,5 +1,6 @@
 [
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Januarii",
@@ -9,6 +10,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._429"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -18,6 +20,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._435"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -27,6 +30,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._438"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -36,6 +40,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._442"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Januarii",
@@ -45,6 +50,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._445"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -54,6 +60,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._449"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -63,6 +70,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._452"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -72,6 +80,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._455"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -81,6 +90,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._458"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -90,6 +100,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._461"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -99,6 +110,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._463"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -108,6 +120,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._466"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Januarii",
@@ -117,6 +130,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._468"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xviiii Kalendas",
@@ -126,6 +140,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._472"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -135,6 +150,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._475"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -144,6 +160,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._477"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -153,6 +170,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._480"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -162,6 +180,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._484"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -171,6 +190,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._488"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -180,6 +200,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._491"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -189,6 +210,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._494"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -198,6 +220,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._497"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -207,6 +230,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._500"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -216,6 +240,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._503"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -225,6 +250,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._506"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -234,6 +260,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._509"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -243,6 +270,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._512"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -252,6 +280,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._515"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -261,6 +290,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._518"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -270,6 +300,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._520"
 	},
 	{
+		"MONTH": 1,
 		"Month": "January",
 		"DayOfMonth_Modern": 31,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -279,6 +310,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._522"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Februarii",
@@ -288,6 +320,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._539"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -297,6 +330,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._543"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -306,6 +340,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._547"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -315,6 +350,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._550"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Februarii",
@@ -324,6 +360,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._552"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -333,6 +370,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._555"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -342,6 +380,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._558"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -351,6 +390,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._562"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -360,6 +400,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._565"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -369,6 +410,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._568"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -378,6 +420,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._572"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -387,6 +430,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._574"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Februarii",
@@ -396,6 +440,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._577"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -405,6 +450,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._580"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -414,6 +460,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._583"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -423,6 +470,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._587"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -432,6 +480,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._590"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -441,6 +490,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._593"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -450,6 +500,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._595"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -459,6 +510,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._597"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -468,6 +520,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._599"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -477,6 +530,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._602"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -486,6 +540,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._606"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -495,6 +550,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._609"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -504,6 +560,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._613"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -513,6 +570,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._616"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -522,6 +580,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._619"
 	},
 	{
+		"MONTH": 2,
 		"Month": "February",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -531,6 +590,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._621"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Martii",
@@ -540,6 +600,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._639"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "vi Nonas",
@@ -549,6 +610,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._643"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "v Nonas",
@@ -558,6 +620,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._646"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -567,6 +630,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._648"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -576,6 +640,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._651"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -585,6 +650,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._654"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "Nonas Martii",
@@ -594,6 +660,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._657"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "viii Idus",
@@ -603,6 +670,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._660"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "vii Idus",
@@ -612,6 +680,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._663"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "vi Idus",
@@ -621,6 +690,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._666"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "v Idus",
@@ -630,6 +700,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._668"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -639,6 +710,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._671"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "iii Idus",
@@ -648,6 +720,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._674"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "ii Idus",
@@ -657,6 +730,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._676"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "Idus Martii",
@@ -666,6 +740,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._679"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -675,6 +750,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._681"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -684,6 +760,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._684"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -693,6 +770,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._687"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -702,6 +780,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._691"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -711,6 +790,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._694"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -720,6 +800,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._697"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -729,6 +810,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._702"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -738,6 +820,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._707"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -747,6 +830,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._710"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -756,6 +840,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._713"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -765,6 +850,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._719"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -774,6 +860,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._722"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -783,6 +870,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._725"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -792,6 +880,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._727"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -801,6 +890,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._729"
 	},
 	{
+		"MONTH": 3,
 		"Month": "March",
 		"DayOfMonth_Modern": 31,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -810,6 +900,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._731"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Aprilis",
@@ -819,6 +910,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._748"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -828,6 +920,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._751"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -837,6 +930,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._754"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -846,6 +940,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._757"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Aprilis",
@@ -855,6 +950,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._761"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -864,6 +960,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._764"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -873,6 +970,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._766"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -882,6 +980,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._768"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -891,6 +990,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._770"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -900,6 +1000,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._772"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -909,6 +1010,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._774"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -918,6 +1020,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._776"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Aprilis",
@@ -927,6 +1030,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._779"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -936,6 +1040,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._781"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -945,6 +1050,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._783"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -954,6 +1060,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._786"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -963,6 +1070,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._788"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -972,6 +1080,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._791"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -981,6 +1090,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._794"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -990,6 +1100,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._797"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -999,6 +1110,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._800"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -1008,6 +1120,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._803"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -1017,6 +1130,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._806"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -1026,6 +1140,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._809"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -1035,6 +1150,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._813"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -1044,6 +1160,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._817"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -1053,6 +1170,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._820"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -1062,6 +1180,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._823"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -1071,6 +1190,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._826"
 	},
 	{
+		"MONTH": 4,
 		"Month": "April",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -1080,6 +1200,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._829"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Maii",
@@ -1089,6 +1210,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._845"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "vi Nonas",
@@ -1098,6 +1220,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._850"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "v Nonas",
@@ -1107,6 +1230,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._852"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -1116,6 +1240,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._856"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -1125,6 +1250,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._859"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -1134,6 +1260,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._862"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "Nonas Maii",
@@ -1143,6 +1270,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._865"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "viii Idus",
@@ -1152,6 +1280,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._868"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "vii Idus",
@@ -1161,6 +1290,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._871"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "vi Idus",
@@ -1170,6 +1300,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._875"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "v Idus",
@@ -1179,6 +1310,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._879"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -1188,6 +1320,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._882"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "iii Idus",
@@ -1197,6 +1330,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._885"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "ii Idus",
@@ -1206,6 +1340,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._888"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "Idus Maii",
@@ -1215,6 +1350,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._891"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -1224,6 +1360,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._894"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -1233,6 +1370,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._896"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -1242,6 +1380,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._898"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -1251,6 +1390,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._901"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -1260,6 +1400,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._903"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -1269,6 +1410,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._906"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -1278,6 +1420,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._909"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -1287,6 +1430,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._912"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -1296,6 +1440,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._914"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -1305,6 +1450,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._917"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -1314,6 +1460,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._920"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -1323,6 +1470,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._923"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -1332,6 +1480,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._926"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -1341,6 +1490,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._929"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -1350,6 +1500,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._931"
 	},
 	{
+		"MONTH": 5,
 		"Month": "May",
 		"DayOfMonth_Modern": 31,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -1359,6 +1510,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._933"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Junii",
@@ -1368,6 +1520,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._948"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -1377,6 +1530,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._952"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -1386,6 +1540,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._955"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -1395,6 +1550,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._958"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Junii",
@@ -1404,6 +1560,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._961"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -1413,6 +1570,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._965"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -1422,6 +1580,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._967"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -1431,6 +1590,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._969"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -1440,6 +1600,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._972"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -1449,6 +1610,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._974"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -1458,6 +1620,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._977"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -1467,6 +1630,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._980"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Junii",
@@ -1476,6 +1640,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._983"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -1485,6 +1650,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._985"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -1494,6 +1660,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._987"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -1503,6 +1670,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._990"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -1512,6 +1680,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._993"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -1521,6 +1690,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._996"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -1530,6 +1700,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._998"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -1539,6 +1710,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1001"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -1548,6 +1720,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1004"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -1557,6 +1730,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1007"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -1566,6 +1740,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1011"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -1575,6 +1750,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1013"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -1584,6 +1760,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1017"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -1593,6 +1770,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1020"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -1602,6 +1780,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1023"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -1611,6 +1790,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1026"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -1620,6 +1800,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1029"
 	},
 	{
+		"MONTH": 6,
 		"Month": "June",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -1629,6 +1810,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1032"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Julii",
@@ -1638,6 +1820,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1047"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "vi Nonas",
@@ -1647,6 +1830,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1051"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "v Nonas",
@@ -1656,6 +1840,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1053"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -1665,6 +1850,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1056"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -1674,6 +1860,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1060"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -1683,6 +1870,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1063"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "Nonas Julii",
@@ -1692,6 +1880,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1066"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "viii Idus",
@@ -1701,6 +1890,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1069"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "vii Idus",
@@ -1710,6 +1900,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1072"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "vi Idus",
@@ -1719,6 +1910,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1075"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "v Idus",
@@ -1728,6 +1920,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1078"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -1737,6 +1930,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1081"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "iii Idus",
@@ -1746,6 +1940,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1084"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "ii Idus",
@@ -1755,6 +1950,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1087"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "Idus Julii",
@@ -1764,6 +1960,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1090"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -1773,6 +1970,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1093"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -1782,6 +1980,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1096"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -1791,6 +1990,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1099"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -1800,6 +2000,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1103"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -1809,6 +2010,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1106"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -1818,6 +2020,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1109"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -1827,6 +2030,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1112"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -1836,6 +2040,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1115"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -1845,6 +2050,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1118"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -1854,6 +2060,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1121"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -1863,6 +2070,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1125"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -1872,6 +2080,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1128"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -1881,6 +2090,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1131"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -1890,6 +2100,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1134"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -1899,6 +2110,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1137"
 	},
 	{
+		"MONTH": 7,
 		"Month": "July",
 		"DayOfMonth_Modern": 31,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -1908,6 +2120,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1141"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Augusti",
@@ -1917,6 +2130,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1155"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -1926,6 +2140,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1159"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -1935,6 +2150,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1162"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -1944,6 +2160,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1164"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Augusti",
@@ -1953,6 +2170,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1166"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -1962,6 +2180,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1169"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -1971,6 +2190,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1173"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -1980,6 +2200,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1177"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -1989,6 +2210,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1180"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -1998,6 +2220,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1183"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -2007,6 +2230,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1186"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -2016,6 +2240,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1189"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Augusti",
@@ -2025,6 +2250,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1191"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xviiii Kalendas",
@@ -2034,6 +2260,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1194"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -2043,6 +2270,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1196"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -2052,6 +2280,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1999"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -2061,6 +2290,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1202"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -2070,6 +2300,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1204"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -2079,6 +2310,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1207"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -2088,6 +2320,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1209"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -2097,6 +2330,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1212"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -2106,6 +2340,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1214"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -2115,6 +2350,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1217"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -2124,6 +2360,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1221"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -2133,6 +2370,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1224"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -2142,6 +2380,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1227"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -2151,6 +2390,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1229"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -2160,6 +2400,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1232"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -2169,6 +2410,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1236"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -2178,6 +2420,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1240"
 	},
 	{
+		"MONTH": 8,
 		"Month": "August",
 		"DayOfMonth_Modern": 31,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -2187,6 +2430,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1242"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Septembris",
@@ -2196,6 +2440,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1256"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -2205,6 +2450,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1261"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -2214,6 +2460,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1264"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -2223,6 +2470,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1267"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Septembris",
@@ -2232,6 +2480,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1269"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -2241,6 +2490,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1272"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -2250,6 +2500,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1274"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -2259,6 +2510,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1277"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -2268,6 +2520,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1280"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -2277,6 +2530,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1283"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -2286,6 +2540,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1285"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -2295,6 +2550,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1287"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Septembris",
@@ -2304,6 +2560,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1289"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -2313,6 +2570,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1292"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -2322,6 +2580,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1295"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvi Et sanctorum Lucii et Geminiani",
@@ -2331,6 +2590,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1298"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -2340,6 +2600,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1301"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -2349,6 +2610,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1304"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -2358,6 +2620,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1306"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -2367,6 +2630,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1309"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -2376,6 +2640,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1312"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -2385,6 +2650,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1314"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -2394,6 +2660,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1317"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -2403,6 +2670,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1320"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -2412,6 +2680,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1324"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -2421,6 +2690,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1327"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -2430,6 +2700,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1330"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -2439,6 +2710,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1332"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -2448,6 +2720,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1335"
 	},
 	{
+		"MONTH": 9,
 		"Month": "September",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -2457,6 +2730,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:2_S._1338"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Octobris",
@@ -2466,6 +2740,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1355"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "vi Nonas",
@@ -2475,6 +2750,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1359"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "v Nonas",
@@ -2484,6 +2760,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1361"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -2493,6 +2770,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1364"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -2502,6 +2780,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1367"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -2511,6 +2790,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1370"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "Nonas Octobris",
@@ -2520,6 +2800,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1373"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "viii Idus",
@@ -2529,6 +2810,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1377"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "vii Idus",
@@ -2538,6 +2820,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1381"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "vi Idus",
@@ -2547,6 +2830,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1384"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "v Idus",
@@ -2556,6 +2840,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1388"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -2565,6 +2850,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1391"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "iii Idus",
@@ -2574,6 +2860,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1393"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "ii Idus",
@@ -2583,6 +2870,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1397"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "Idus Octobris",
@@ -2592,6 +2880,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1400"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -2601,6 +2890,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1403"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -2610,6 +2900,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1406"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -2619,6 +2910,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1409"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -2628,6 +2920,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1412"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -2637,6 +2930,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1415"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -2646,6 +2940,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1417"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -2655,6 +2950,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1420"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -2664,6 +2960,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1422"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -2673,6 +2970,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1424"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -2682,6 +2980,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1426"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -2691,6 +2990,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1430"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -2700,6 +3000,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1433"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -2709,6 +3010,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1435"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -2718,6 +3020,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1438"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -2727,6 +3030,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1440"
 	},
 	{
+		"MONTH": 10,
 		"Month": "October",
 		"DayOfMonth_Modern": 31,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -2736,6 +3040,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1442"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Novembris",
@@ -2745,6 +3050,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1455"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -2754,6 +3060,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1460"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -2763,6 +3070,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1463"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -2772,6 +3080,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1466"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Novembris",
@@ -2781,6 +3090,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1469"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -2790,6 +3100,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1471"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -2799,6 +3110,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1474"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -2808,6 +3120,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1477"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -2817,6 +3130,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1480"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -2826,6 +3140,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1482"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -2835,6 +3150,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1485"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -2844,6 +3160,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1488"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Novembris",
@@ -2853,6 +3170,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1491"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -2862,6 +3180,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1494"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -2871,6 +3190,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1496"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -2880,6 +3200,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1498"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -2889,6 +3210,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1500"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -2898,6 +3220,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1504"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -2907,6 +3230,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1507"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -2916,6 +3240,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1509"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -2925,6 +3250,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1512"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -2934,6 +3260,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1514"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -2943,6 +3270,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1517"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -2952,6 +3280,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1521"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -2961,6 +3290,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1524"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -2970,6 +3300,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1527"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -2979,6 +3310,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1529"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -2988,6 +3320,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1531"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -2997,6 +3330,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1533"
 	},
 	{
+		"MONTH": 11,
 		"Month": "November",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "ii Kalendas",
@@ -3006,6 +3340,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1536"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 1,
 		"DayOfMonth_Roman": "Kalendas Decembris",
@@ -3015,6 +3350,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1551"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 2,
 		"DayOfMonth_Roman": "iiii Nonas",
@@ -3024,6 +3360,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1555"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 3,
 		"DayOfMonth_Roman": "iii Nonas",
@@ -3033,6 +3370,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1557"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 4,
 		"DayOfMonth_Roman": "ii Nonas",
@@ -3042,6 +3380,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1560"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 5,
 		"DayOfMonth_Roman": "Nonas Decembris",
@@ -3051,6 +3390,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1563"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 6,
 		"DayOfMonth_Roman": "viii Idus",
@@ -3060,6 +3400,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1565"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 7,
 		"DayOfMonth_Roman": "vii Idus",
@@ -3069,6 +3410,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1567"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 8,
 		"DayOfMonth_Roman": "vi Idus",
@@ -3078,6 +3420,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1570"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 9,
 		"DayOfMonth_Roman": "v Idus",
@@ -3087,6 +3430,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1573"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 10,
 		"DayOfMonth_Roman": "iiii Idus",
@@ -3096,6 +3440,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1576"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 11,
 		"DayOfMonth_Roman": "iii Idus",
@@ -3105,6 +3450,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1579"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 12,
 		"DayOfMonth_Roman": "ii Idus",
@@ -3114,6 +3460,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1581"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 13,
 		"DayOfMonth_Roman": "Idus Decembris",
@@ -3123,6 +3470,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1583"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 14,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -3132,6 +3480,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1586"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 15,
 		"DayOfMonth_Roman": "xviii Kalendas",
@@ -3141,6 +3490,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1589"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 16,
 		"DayOfMonth_Roman": "xvii Kalendas",
@@ -3150,6 +3500,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1591"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 17,
 		"DayOfMonth_Roman": "xvi Kalendas",
@@ -3159,6 +3510,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1593"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 18,
 		"DayOfMonth_Roman": "xv Kalendas",
@@ -3168,6 +3520,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1596"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 19,
 		"DayOfMonth_Roman": "xiiii Kalendas",
@@ -3177,6 +3530,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1599"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 20,
 		"DayOfMonth_Roman": "xiii Kalendas",
@@ -3186,6 +3540,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1601"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 21,
 		"DayOfMonth_Roman": "xii Kalendas",
@@ -3195,6 +3550,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1604"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 22,
 		"DayOfMonth_Roman": "xi Kalendas",
@@ -3204,6 +3560,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1607"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 23,
 		"DayOfMonth_Roman": "x Kalendas",
@@ -3213,6 +3570,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1610"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 24,
 		"DayOfMonth_Roman": "viiii Kalendas",
@@ -3222,6 +3580,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1613"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 25,
 		"DayOfMonth_Roman": "viii Kalendas",
@@ -3231,6 +3590,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1615"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 26,
 		"DayOfMonth_Roman": "vii Kalendas",
@@ -3240,6 +3600,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1619"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 27,
 		"DayOfMonth_Roman": "vi Kalendas",
@@ -3249,6 +3610,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1622"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 28,
 		"DayOfMonth_Roman": "v Kalendas",
@@ -3258,6 +3620,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1624"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 29,
 		"DayOfMonth_Roman": "iiii Kalendas",
@@ -3267,6 +3630,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1626"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 30,
 		"DayOfMonth_Roman": "iii Kalendas",
@@ -3276,6 +3640,7 @@
 		"URL": "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:3_S._1628"
 	},
 	{
+		"MONTH": 12,
 		"Month": "December",
 		"DayOfMonth_Modern": 31,
 		"DayOfMonth_Roman": "ii Kalendas",
