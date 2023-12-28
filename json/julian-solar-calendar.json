@@ -1,0 +1,2922 @@
+[
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Januarii",
+		"PageStart": 429,
+		"PageEnd": 434,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 435,
+		"PageEnd": 437,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 438,
+		"PageEnd": 441,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 442,
+		"PageEnd": 444,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Januarii",
+		"PageStart": 445,
+		"PageEnd": 448,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 449,
+		"PageEnd": 451,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 452,
+		"PageEnd": 454,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 455,
+		"PageEnd": 457,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 458,
+		"PageEnd": 460,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 461,
+		"PageEnd": 462,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 463,
+		"PageEnd": 465,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 466,
+		"PageEnd": 467,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Januarii",
+		"PageStart": 468,
+		"PageEnd": 471,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xviiii Kalendas",
+		"PageStart": 472,
+		"PageEnd": 474,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 475,
+		"PageEnd": 476,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 477,
+		"PageEnd": 479,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 480,
+		"PageEnd": 483,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 484,
+		"PageEnd": 487,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 488,
+		"PageEnd": 490,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 491,
+		"PageEnd": 493,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 494,
+		"PageEnd": 496,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 497,
+		"PageEnd": 499,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 500,
+		"PageEnd": 502,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 503,
+		"PageEnd": 505,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 506,
+		"PageEnd": 508,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 509,
+		"PageEnd": 511,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 512,
+		"PageEnd": 514,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 515,
+		"PageEnd": 517,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 518,
+		"PageEnd": 519,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 520,
+		"PageEnd": 521,
+		"BookPart": 1
+	},
+	{
+		"Month": "January",
+		"DayOfMonth_Modern": 31,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 522,
+		"PageEnd": 524,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Februarii",
+		"PageStart": 539,
+		"PageEnd": 542,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 543,
+		"PageEnd": 546,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 547,
+		"PageEnd": 549,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 550,
+		"PageEnd": 551,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Februarii",
+		"PageStart": 552,
+		"PageEnd": 554,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 555,
+		"PageEnd": 557,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 558,
+		"PageEnd": 561,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 562,
+		"PageEnd": 564,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 565,
+		"PageEnd": 567,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 568,
+		"PageEnd": 571,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 572,
+		"PageEnd": 573,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 574,
+		"PageEnd": 576,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Februarii",
+		"PageStart": 577,
+		"PageEnd": 579,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 580,
+		"PageEnd": 582,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 583,
+		"PageEnd": 586,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 587,
+		"PageEnd": 589,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 590,
+		"PageEnd": 592,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 593,
+		"PageEnd": 594,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 595,
+		"PageEnd": 596,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 597,
+		"PageEnd": 598,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 599,
+		"PageEnd": 601,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 602,
+		"PageEnd": 605,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 606,
+		"PageEnd": 608,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 609,
+		"PageEnd": 612,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 613,
+		"PageEnd": 615,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 616,
+		"PageEnd": 618,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 619,
+		"PageEnd": 620,
+		"BookPart": 1
+	},
+	{
+		"Month": "February",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 621,
+		"PageEnd": 622,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Martii",
+		"PageStart": 639,
+		"PageEnd": 642,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "vi Nonas",
+		"PageStart": 643,
+		"PageEnd": 645,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "v Nonas",
+		"PageStart": 646,
+		"PageEnd": 647,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 648,
+		"PageEnd": 650,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 651,
+		"PageEnd": 653,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 654,
+		"PageEnd": 656,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "Nonas Martii",
+		"PageStart": 657,
+		"PageEnd": 659,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 660,
+		"PageEnd": 662,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 663,
+		"PageEnd": 665,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 666,
+		"PageEnd": 667,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 668,
+		"PageEnd": 670,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 671,
+		"PageEnd": 673,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 674,
+		"PageEnd": 675,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 676,
+		"PageEnd": 678,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "Idus Martii",
+		"PageStart": 679,
+		"PageEnd": 680,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 681,
+		"PageEnd": 683,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 684,
+		"PageEnd": 686,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 687,
+		"PageEnd": 690,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 691,
+		"PageEnd": 693,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 694,
+		"PageEnd": 696,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 697,
+		"PageEnd": 701,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 702,
+		"PageEnd": 706,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 707,
+		"PageEnd": 709,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 710,
+		"PageEnd": 712,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 713,
+		"PageEnd": 718,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 719,
+		"PageEnd": 721,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 722,
+		"PageEnd": 724,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 725,
+		"PageEnd": 726,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 727,
+		"PageEnd": 728,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 729,
+		"PageEnd": 730,
+		"BookPart": 1
+	},
+	{
+		"Month": "March",
+		"DayOfMonth_Modern": 31,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 731,
+		"PageEnd": 733,
+		"BookPart": 1
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Aprilis",
+		"PageStart": 748,
+		"PageEnd": 750,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 751,
+		"PageEnd": 753,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 754,
+		"PageEnd": 756,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 757,
+		"PageEnd": 760,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Aprilis",
+		"PageStart": 761,
+		"PageEnd": 763,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 764,
+		"PageEnd": 765,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 766,
+		"PageEnd": 767,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 768,
+		"PageEnd": 769,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 770,
+		"PageEnd": 771,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 772,
+		"PageEnd": 773,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 774,
+		"PageEnd": 775,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 776,
+		"PageEnd": 778,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Aprilis",
+		"PageStart": 779,
+		"PageEnd": 780,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 781,
+		"PageEnd": 782,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 783,
+		"PageEnd": 785,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 786,
+		"PageEnd": 787,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 788,
+		"PageEnd": 790,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 791,
+		"PageEnd": 793,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 794,
+		"PageEnd": 796,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 797,
+		"PageEnd": 799,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 800,
+		"PageEnd": 802,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 803,
+		"PageEnd": 805,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 806,
+		"PageEnd": 808,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 809,
+		"PageEnd": 812,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 813,
+		"PageEnd": 816,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 817,
+		"PageEnd": 819,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 820,
+		"PageEnd": 822,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 823,
+		"PageEnd": 825,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 826,
+		"PageEnd": 828,
+		"BookPart": 2
+	},
+	{
+		"Month": "April",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 829,
+		"PageEnd": 831,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Maii",
+		"PageStart": 845,
+		"PageEnd": 849,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "vi Nonas",
+		"PageStart": 850,
+		"PageEnd": 851,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "v Nonas",
+		"PageStart": 852,
+		"PageEnd": 855,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 856,
+		"PageEnd": 858,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 859,
+		"PageEnd": 861,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 862,
+		"PageEnd": 864,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "Nonas Maii",
+		"PageStart": 865,
+		"PageEnd": 867,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 868,
+		"PageEnd": 870,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 871,
+		"PageEnd": 874,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 875,
+		"PageEnd": 878,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 879,
+		"PageEnd": 881,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 882,
+		"PageEnd": 884,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 885,
+		"PageEnd": 887,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 888,
+		"PageEnd": 890,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "Idus Maii",
+		"PageStart": 891,
+		"PageEnd": 893,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 894,
+		"PageEnd": 895,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 896,
+		"PageEnd": 897,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 898,
+		"PageEnd": 900,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 901,
+		"PageEnd": 902,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 903,
+		"PageEnd": 95,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 906,
+		"PageEnd": 908,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 909,
+		"PageEnd": 911,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 912,
+		"PageEnd": 913,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 914,
+		"PageEnd": 916,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 917,
+		"PageEnd": 919,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 920,
+		"PageEnd": 922,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 923,
+		"PageEnd": 925,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 926,
+		"PageEnd": 928,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 929,
+		"PageEnd": 930,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 931,
+		"PageEnd": 932,
+		"BookPart": 2
+	},
+	{
+		"Month": "May",
+		"DayOfMonth_Modern": 31,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 933,
+		"PageEnd": 934,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Junii",
+		"PageStart": 948,
+		"PageEnd": 951,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 952,
+		"PageEnd": 954,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 955,
+		"PageEnd": 957,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 958,
+		"PageEnd": 960,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Junii",
+		"PageStart": 961,
+		"PageEnd": 964,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 965,
+		"PageEnd": 966,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 967,
+		"PageEnd": 968,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 969,
+		"PageEnd": 971,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 972,
+		"PageEnd": 973,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 974,
+		"PageEnd": 976,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 977,
+		"PageEnd": 979,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 980,
+		"PageEnd": 982,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Junii",
+		"PageStart": 983,
+		"PageEnd": 984,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 985,
+		"PageEnd": 986,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 987,
+		"PageEnd": 889,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 990,
+		"PageEnd": 992,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 993,
+		"PageEnd": 995,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 996,
+		"PageEnd": 997,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 998,
+		"PageEnd": 1000,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 1001,
+		"PageEnd": 1003,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 1004,
+		"PageEnd": 1006,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 1007,
+		"PageEnd": 1010,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 1011,
+		"PageEnd": 1012,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 1013,
+		"PageEnd": 1016,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 1017,
+		"PageEnd": 1019,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 1020,
+		"PageEnd": 1022,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 1023,
+		"PageEnd": 1025,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 1026,
+		"PageEnd": 1028,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 1029,
+		"PageEnd": 1031,
+		"BookPart": 2
+	},
+	{
+		"Month": "June",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 1032,
+		"PageEnd": 1034,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Julii",
+		"PageStart": 1047,
+		"PageEnd": 1050,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "vi Nonas",
+		"PageStart": 1051,
+		"PageEnd": 1052,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "v Nonas",
+		"PageStart": 1053,
+		"PageEnd": 1055,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 1056,
+		"PageEnd": 1059,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 1060,
+		"PageEnd": 1062,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 1063,
+		"PageEnd": 1065,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "Nonas Julii",
+		"PageStart": 1066,
+		"PageEnd": 1068,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 1069,
+		"PageEnd": 1071,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 1072,
+		"PageEnd": 1074,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 1075,
+		"PageEnd": 1077,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 1078,
+		"PageEnd": 1080,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 1081,
+		"PageEnd": 1083,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 1084,
+		"PageEnd": 1086,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 1087,
+		"PageEnd": 1089,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "Idus Julii",
+		"PageStart": 1090,
+		"PageEnd": 1092,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 1093,
+		"PageEnd": 1095,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 1096,
+		"PageEnd": 1098,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 1099,
+		"PageEnd": 1102,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 1103,
+		"PageEnd": 1105,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 1106,
+		"PageEnd": 1108,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 1109,
+		"PageEnd": 1111,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 1112,
+		"PageEnd": 1114,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 1115,
+		"PageEnd": 1117,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 1118,
+		"PageEnd": 1120,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 1121,
+		"PageEnd": 1124,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 1125,
+		"PageEnd": 1127,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 1128,
+		"PageEnd": 1130,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 1131,
+		"PageEnd": 1133,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 1134,
+		"PageEnd": 1136,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 1137,
+		"PageEnd": 1140,
+		"BookPart": 2
+	},
+	{
+		"Month": "July",
+		"DayOfMonth_Modern": 31,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 1141,
+		"PageEnd": 1143,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Augusti",
+		"PageStart": 1155,
+		"PageEnd": 1158,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 1159,
+		"PageEnd": 1161,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 1162,
+		"PageEnd": 1163,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 1164,
+		"PageEnd": 1165,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Augusti",
+		"PageStart": 1166,
+		"PageEnd": 1168,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 1169,
+		"PageEnd": 1172,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 1173,
+		"PageEnd": 1176,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 1177,
+		"PageEnd": 1179,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 1180,
+		"PageEnd": 1182,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 1183,
+		"PageEnd": 1185,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 1186,
+		"PageEnd": 1188,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 1189,
+		"PageEnd": 1190,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Augusti",
+		"PageStart": 1191,
+		"PageEnd": 1193,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xviiii Kalendas",
+		"PageStart": 1194,
+		"PageEnd": 1195,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 1196,
+		"PageEnd": 1998,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 1999,
+		"PageEnd": 1201,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 1202,
+		"PageEnd": 1203,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 1204,
+		"PageEnd": 1206,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 1207,
+		"PageEnd": 1208,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 1209,
+		"PageEnd": 1211,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 1212,
+		"PageEnd": 1213,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 1214,
+		"PageEnd": 1216,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 1217,
+		"PageEnd": 1220,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 1221,
+		"PageEnd": 1223,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 1224,
+		"PageEnd": 1226,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 1227,
+		"PageEnd": 1228,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 1229,
+		"PageEnd": 1231,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 1232,
+		"PageEnd": 1235,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 1236,
+		"PageEnd": 1239,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 1240,
+		"PageEnd": 1241,
+		"BookPart": 2
+	},
+	{
+		"Month": "August",
+		"DayOfMonth_Modern": 31,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 1242,
+		"PageEnd": 1244,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Septembris",
+		"PageStart": 1256,
+		"PageEnd": 1260,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 1261,
+		"PageEnd": 1263,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 1264,
+		"PageEnd": 1266,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 1267,
+		"PageEnd": 1268,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Septembris",
+		"PageStart": 1269,
+		"PageEnd": 1271,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 1272,
+		"PageEnd": 1273,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 1274,
+		"PageEnd": 1276,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 1277,
+		"PageEnd": 1279,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 1280,
+		"PageEnd": 1282,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 1283,
+		"PageEnd": 1284,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 1285,
+		"PageEnd": 1286,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 1287,
+		"PageEnd": 1288,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Septembris",
+		"PageStart": 1289,
+		"PageEnd": 1291,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 1292,
+		"PageEnd": 1294,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 1295,
+		"PageEnd": 1297,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvi Et sanctorum Lucii et Geminiani",
+		"PageStart": 1298,
+		"PageEnd": 1300,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 1301,
+		"PageEnd": 1303,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 1304,
+		"PageEnd": 1305,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 1306,
+		"PageEnd": 1308,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 1309,
+		"PageEnd": 1311,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 1312,
+		"PageEnd": 1313,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 1314,
+		"PageEnd": 1316,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 1317,
+		"PageEnd": 1319,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 1320,
+		"PageEnd": 1323,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 1324,
+		"PageEnd": 1326,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 1327,
+		"PageEnd": 1329,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 1330,
+		"PageEnd": 1331,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 1332,
+		"PageEnd": 1334,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 1335,
+		"PageEnd": 1337,
+		"BookPart": 2
+	},
+	{
+		"Month": "September",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 1338,
+		"PageEnd": 1340,
+		"BookPart": 2
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Octobris",
+		"PageStart": 1355,
+		"PageEnd": 1358,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "vi Nonas",
+		"PageStart": 1359,
+		"PageEnd": 1360,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "v Nonas",
+		"PageStart": 1361,
+		"PageEnd": 1363,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 1364,
+		"PageEnd": 1366,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 1367,
+		"PageEnd": 1369,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 1370,
+		"PageEnd": 1372,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "Nonas Octobris",
+		"PageStart": 1373,
+		"PageEnd": 1376,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 1377,
+		"PageEnd": 1380,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 1381,
+		"PageEnd": 1383,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 1384,
+		"PageEnd": 1387,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 1388,
+		"PageEnd": 1390,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 1391,
+		"PageEnd": 1392,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 1393,
+		"PageEnd": 1396,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 1397,
+		"PageEnd": 1399,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "Idus Octobris",
+		"PageStart": 1400,
+		"PageEnd": 1402,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 1403,
+		"PageEnd": 1405,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 1406,
+		"PageEnd": 1408,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 1409,
+		"PageEnd": 1411,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 1412,
+		"PageEnd": 1414,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 1415,
+		"PageEnd": 1416,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 1417,
+		"PageEnd": 1419,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 1420,
+		"PageEnd": 1421,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 1422,
+		"PageEnd": 1423,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 1424,
+		"PageEnd": 1425,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 1426,
+		"PageEnd": 1429,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 1430,
+		"PageEnd": 1432,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 1433,
+		"PageEnd": 1434,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 1435,
+		"PageEnd": 1437,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 1438,
+		"PageEnd": 1439,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 1440,
+		"PageEnd": 1441,
+		"BookPart": 3
+	},
+	{
+		"Month": "October",
+		"DayOfMonth_Modern": 31,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 1442,
+		"PageEnd": 1444,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Novembris",
+		"PageStart": 1455,
+		"PageEnd": 1459,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 1460,
+		"PageEnd": 1462,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 1463,
+		"PageEnd": 1465,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 1466,
+		"PageEnd": 1468,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Novembris",
+		"PageStart": 1469,
+		"PageEnd": 1470,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 1471,
+		"PageEnd": 1473,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 1474,
+		"PageEnd": 1476,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 1477,
+		"PageEnd": 1479,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 1480,
+		"PageEnd": 1481,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 1482,
+		"PageEnd": 1484,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 1485,
+		"PageEnd": 1487,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 1488,
+		"PageEnd": 1490,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Novembris",
+		"PageStart": 1491,
+		"PageEnd": 1493,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 1494,
+		"PageEnd": 1495,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 1496,
+		"PageEnd": 1497,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 1498,
+		"PageEnd": 1499,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 1500,
+		"PageEnd": 1503,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 1504,
+		"PageEnd": 1506,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 1507,
+		"PageEnd": 1508,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 1509,
+		"PageEnd": 1511,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 1512,
+		"PageEnd": 1513,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 1514,
+		"PageEnd": 1516,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 1517,
+		"PageEnd": 1520,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 1521,
+		"PageEnd": 1523,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 1524,
+		"PageEnd": 1526,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 1527,
+		"PageEnd": 1528,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 1529,
+		"PageEnd": 1530,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 1531,
+		"PageEnd": 1532,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 1533,
+		"PageEnd": 1535,
+		"BookPart": 3
+	},
+	{
+		"Month": "November",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 1536,
+		"PageEnd": 1537,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 1,
+		"DayOfMonth_Roman": "Kalendas Decembris",
+		"PageStart": 1551,
+		"PageEnd": 1554,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 2,
+		"DayOfMonth_Roman": "iiii Nonas",
+		"PageStart": 1555,
+		"PageEnd": 1556,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 3,
+		"DayOfMonth_Roman": "iii Nonas",
+		"PageStart": 1557,
+		"PageEnd": 1559,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 4,
+		"DayOfMonth_Roman": "ii Nonas",
+		"PageStart": 1560,
+		"PageEnd": 1562,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 5,
+		"DayOfMonth_Roman": "Nonas Decembris",
+		"PageStart": 1563,
+		"PageEnd": 1564,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 6,
+		"DayOfMonth_Roman": "viii Idus",
+		"PageStart": 1565,
+		"PageEnd": 1566,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 7,
+		"DayOfMonth_Roman": "vii Idus",
+		"PageStart": 1567,
+		"PageEnd": 1569,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 8,
+		"DayOfMonth_Roman": "vi Idus",
+		"PageStart": 1570,
+		"PageEnd": 1572,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 9,
+		"DayOfMonth_Roman": "v Idus",
+		"PageStart": 1573,
+		"PageEnd": 1575,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 10,
+		"DayOfMonth_Roman": "iiii Idus",
+		"PageStart": 1576,
+		"PageEnd": 1578,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 11,
+		"DayOfMonth_Roman": "iii Idus",
+		"PageStart": 1579,
+		"PageEnd": 1580,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 12,
+		"DayOfMonth_Roman": "ii Idus",
+		"PageStart": 1581,
+		"PageEnd": 1582,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 13,
+		"DayOfMonth_Roman": "Idus Decembris",
+		"PageStart": 1583,
+		"PageEnd": 1585,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 14,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 1586,
+		"PageEnd": 1588,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 15,
+		"DayOfMonth_Roman": "xviii Kalendas",
+		"PageStart": 1589,
+		"PageEnd": 1590,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 16,
+		"DayOfMonth_Roman": "xvii Kalendas",
+		"PageStart": 1591,
+		"PageEnd": 1592,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 17,
+		"DayOfMonth_Roman": "xvi Kalendas",
+		"PageStart": 1593,
+		"PageEnd": 1595,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 18,
+		"DayOfMonth_Roman": "xv Kalendas",
+		"PageStart": 1596,
+		"PageEnd": 1598,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 19,
+		"DayOfMonth_Roman": "xiiii Kalendas",
+		"PageStart": 1599,
+		"PageEnd": 1600,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 20,
+		"DayOfMonth_Roman": "xiii Kalendas",
+		"PageStart": 1601,
+		"PageEnd": 1603,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 21,
+		"DayOfMonth_Roman": "xii Kalendas",
+		"PageStart": 1604,
+		"PageEnd": 1606,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 22,
+		"DayOfMonth_Roman": "xi Kalendas",
+		"PageStart": 1607,
+		"PageEnd": 1609,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 23,
+		"DayOfMonth_Roman": "x Kalendas",
+		"PageStart": 1610,
+		"PageEnd": 1612,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 24,
+		"DayOfMonth_Roman": "viiii Kalendas",
+		"PageStart": 1613,
+		"PageEnd": 1614,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 25,
+		"DayOfMonth_Roman": "viii Kalendas",
+		"PageStart": 1615,
+		"PageEnd": 1618,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 26,
+		"DayOfMonth_Roman": "vii Kalendas",
+		"PageStart": 1619,
+		"PageEnd": 1621,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 27,
+		"DayOfMonth_Roman": "vi Kalendas",
+		"PageStart": 1622,
+		"PageEnd": 1623,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 28,
+		"DayOfMonth_Roman": "v Kalendas",
+		"PageStart": 1624,
+		"PageEnd": 1625,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 29,
+		"DayOfMonth_Roman": "iiii Kalendas",
+		"PageStart": 1626,
+		"PageEnd": 1627,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 30,
+		"DayOfMonth_Roman": "iii Kalendas",
+		"PageStart": 1628,
+		"PageEnd": 1629,
+		"BookPart": 3
+	},
+	{
+		"Month": "December",
+		"DayOfMonth_Modern": 31,
+		"DayOfMonth_Roman": "ii Kalendas",
+		"PageStart": 1630,
+		"PageEnd": 1633,
+		"BookPart": 3
+	}
+]
