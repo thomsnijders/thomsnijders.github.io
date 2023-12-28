@@ -252,7 +252,12 @@
 					if(row.Reichskalender !== null) {
 						let aReichskalender = row.Reichskalender.split(', ');
 						$.each(aReichskalender, function(index, part) {
+							on
 							if(part !== "") {
+							console.log(part);
+							console.log(part).split("(pp. ")[1].split("-")[0];
+							console.log(part).split("(pp. ")[1].split(")")[0];
+							
 								let partWithHyperlink = part.replace("<a href=\"http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._" + part.split("(pp. ")[1].split("-")[0] + "\" target=\"_blank\">pp. " + part.split("(pp. ")[1].split(")")[0] + "</a>");
 								tdReichskalender.append(partWithHyperlink);
 								if (index != aReichskalender.length -1) {
