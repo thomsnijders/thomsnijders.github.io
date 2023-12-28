@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Computus.lat: Bibliography (formatted) v2.0</title>
+		<title>Computus.lat: Bibliography v2.0</title>
 		<link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
 		<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 		<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
@@ -64,20 +64,33 @@
 		</style>
 	</head>
 	<body>
-	<h1>Computus.lat: Bibliography (formatted) v2.0</h1>
+	<h1>Computus.lat: Bibliography v2.0</h1>
 		<a href="https://thomsnijders.nl/computus-lat/" target="_blank" class="button">More information about Computus.lat</a>
 		<a href="https://thomsnijders.nl/computus-lat/catalogue/report-broken-link/" target="_blank" class="button">Report a broken link</a>
-		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/bibliography-formatted.html" target="_blank" class="button">Source code</a>		
-		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/json/bibliography-formatted.json" target="_blank" class="button">Dataset</a><br>
+		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/bibliography.html" target="_blank" class="button">Source code</a>		
+		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/json/bibliography.json" target="_blank" class="button">Dataset</a><br>
 	
-		<table id="bibliographyFormatted" class="cell-border compact stripe">
+		<table id="bibliography" class="cell-border compact stripe">
 			<thead>
 				<tr>
 					<th>Type</th>
-					<th>Reference</th>
-					<th>Language</th>
+					<th>Author</th>
+					<th>PrimaryTitle</th>
+					<th>SecundaryTitle</th>
+					<th>TranslatedTitle</th>
+					<th>Translator</th>
+					<th>Volume</th>
+					<th>Number</th>
+					<th>Journal</th>
+					<th>SeriesTitle</th>
+					<th>PlacePublished</th>
+					<th>Publisher</th>
+					<th>Editor</th>
+					<th>Year</th>
+					<th>Pages</th>
 					<th>URL</th>
 					<th>DOI</th>
+					<th>Language</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -85,8 +98,8 @@
 		</table>
 			
 		<script type="text/javascript">
-			// Retrieve the contents of bibliography-formatted.json, which should be present in the json directory
-			$.getJSON("json/biliography-formatted.json", function( data ) {
+			// Retrieve the contents of bibliography.json, which should be present in the json directory
+			$.getJSON("json/biliography.json", function( data ) {
 				// Add a row for each entry
 				$.each(data, function(index, row) {
 					
@@ -95,16 +108,28 @@
 					
 					// Add columns to row					
 					$($("<td>").text(row.ReferenceType)).appendTo(tr);
-					$($("<td>").text(row.Reference)).appendTo(tr);
-					$($("<td>").text(row.Language)).appendTo(tr);
+					$($("<td>").text(row.Author)).appendTo(tr);
+					$($("<td>").text(row.PrimaryTitle)).appendTo(tr);
+					$($("<td>").text(row.SecundaryTitle)).appendTo(tr);
+					$($("<td>").text(row.TranslatedTitle)).appendTo(tr);
+					$($("<td>").text(row.Translator)).appendTo(tr);
+					$($("<td>").text(row.Volume)).appendTo(tr);
+					$($("<td>").text(row.Number)).appendTo(tr);
+					$($("<td>").text(row.Journal)).appendTo(tr);
+					$($("<td>").text(row.SeriesTitle)).appendTo(tr);
+					$($("<td>").text(row.PlacePublished)).appendTo(tr);
+					$($("<td>").text(row.Publisher)).appendTo(tr);
+					$($("<td>").text(row.Editor)).appendTo(tr);
+					$($("<td>").text(row.Year)).appendTo(tr);
+					$($("<td>").text(row.Pages)).appendTo(tr);
 					$("<td>").append($("<a href=\"" + row.URL + "\" target=\"_blank\">").text(row.URL)).appendTo(tr);
 					$("<td>").append($("<a href=\"" + row.DOI + "\" target=\"_blank\">").text(row.DOI)).appendTo(tr);
-					
+					$($("<td>").text(row.Language)).appendTo(tr);
 					// Add new row to table
-					$("#bibliographyFormatted tbody").append(tr);
+					$("#bibliography tbody").append(tr);
 				});
 				
-				let table = new DataTable('#bibliographyFormatted', {
+				let table = new DataTable('#bibliography', {
 					// options
 					paging: false,
 					initComplete: function () {
