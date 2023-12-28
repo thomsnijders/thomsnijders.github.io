@@ -70,6 +70,7 @@
 		<table id="julianSolarCalendar" class="cell-border compact stripe">
 			<thead>
 				<tr>
+					<th>Month NR.</th>
 					<th>Month</th>
 					<th>Day of the month (modern)</th>
 					<th>Day of the month (Roman)</th>
@@ -90,6 +91,7 @@
 					// Prepare a new row
 					let tr = $("<tr>");
 					
+					$($("<td>").text(row.MonthNR)).appendTo(tr);
 					$($("<td>").text(row.Month)).appendTo(tr);
 					$($("<td>").text(row.DayOfMonth_Modern)).appendTo(tr);
 					$($("<td>").text(row.DayOfMonth_Roman)).appendTo(tr);
