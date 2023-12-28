@@ -256,15 +256,15 @@
 						$.each(aReichskalender, function(index, part) {
 							
 							if(part !== "") {
-								console.log(part);
-								console.log(part).split("(pp. ")[1].split("-")[0];
-								console.log(part).split("(pp. ")[1].split(")")[0];
-								
 								let part0 = part.split("(pp. ")[1];
-								let part1 = part0.split("-")[0];
-								let part2 = part0.split(")")[0];
-							
-								let partWithHyperlink = part.replace("<a href=\"" + URL_Reichskalender_start + part1 + "\" target=\"_blank\">pp. " + part2 + "</a>");
+								let startingPage = part0.split("-")[0];
+								let pageRange = part0.split(")")[0];
+
+								console.log(startingPage);
+								console.log(pageRange);
+
+								let URL_Reichskalender_start = "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:1_S._";
+								let partWithHyperlink = part.replace("<a href=\"" + URL_Reichskalender_start + startingPage + "\" target=\"_blank\">pp. " + pageRange + "</a>");
 								tdReichskalender.append(partWithHyperlink);
 								if (index != aReichskalender.length -1) {
 									tdReichskalender.append("<br>");
