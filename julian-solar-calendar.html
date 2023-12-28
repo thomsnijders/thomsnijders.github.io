@@ -103,9 +103,6 @@
 			
 		<script type="text/javascript">
 			// Prepare jsonReichskalender for references to www.thomsnijders.nl and DMGH
-			let URL_Reichskalender_start = "http://www.mgh.de/dmgh/resolving/MGH_Libri_mem._2:";
-			let URL_Reichskalender_mid = "_S._";
-		
 			// Retrieve the contents of julian-solar-calendar.json, which should be present in the json directory
 			$.getJSON("json/julian-solar-calendar.json", function( data ) {
 				// Add a row for each entry
@@ -117,7 +114,7 @@
 					$($("<td>").text(row.Month)).appendTo(tr);
 					$($("<td>").text(row.DayOfMonth_Modern)).appendTo(tr);
 					$($("<td>").text(row.DayOfMonth_Roman)).appendTo(tr);
-					$("<td>").append($("<a href=\"" + URL_Reichskalender_start + row.BookPart + URL_Reichskalender_mid + row.PageEnd + "\" target=\"_blank\">").text("pp." + row.PageStart + "-" + row.PageEnd).appendTo(tr);
+					$("<td>").append($("<a href=\"" + row.URL + "\" target=\"_blank\">").text("pp." + row.PageStart + "-" + row.PageEnd).appendTo(tr);
 					
 					$("#julianSolarCalendar tbody").append(tr);
 				});
