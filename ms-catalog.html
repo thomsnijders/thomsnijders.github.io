@@ -285,7 +285,10 @@
 								let part0 = part.split("(pp. ")[1];
 								
 								if(typeof part0 === "undefined") {
-									console.log(part);
+									tdReichskalender.append(part);
+									if (index != aReichskalender.length -1) {
+										tdReichskalender.append("<br>");
+									}
 								}else{
 				
 									let startingPage = part0.split("-")[0];
