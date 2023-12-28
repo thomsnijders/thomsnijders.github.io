@@ -82,7 +82,6 @@
 		</table>
 			
 		<script type="text/javascript">
-			// Prepare jsonReichskalender for references to www.thomsnijders.nl and DMGH
 			// Retrieve the contents of julian-solar-calendar.json, which should be present in the json directory
 			$.getJSON("json/julian-solar-calendar.json", function( data ) {
 				// Add a row for each entry
@@ -91,12 +90,14 @@
 					// Prepare a new row
 					let tr = $("<tr>");
 					
+					// Add columns to row					
 					$($("<td>").text(row.MonthNR)).appendTo(tr);
 					$($("<td>").text(row.Month)).appendTo(tr);
 					$($("<td>").text(row.DayOfMonth_Modern)).appendTo(tr);
 					$($("<td>").text(row.DayOfMonth_Roman)).appendTo(tr);
 					$("<td>").append($("<a href=\"" + row.URL + "\" target=\"_blank\">").text("pp." + row.PageStart + "-" + row.PageEnd)).appendTo(tr);
 					
+					// Add new row to table
 					$("#julianSolarCalendar tbody").append(tr);
 				});
 				
