@@ -114,8 +114,8 @@
 					let tr = $("<tr>");
 					
 					$($("<td>").text(row.Month)).appendTo(tr);
-					$($("<td>").text(row.DayOfMonth_Modern).appendTo(tr);
-					$($("<td>").text(row.DayOfMonth_Roman).appendTo(tr);
+					$($("<td>").text(row.DayOfMonth_Modern)).appendTo(tr);
+					$($("<td>").text(row.DayOfMonth_Roman)).appendTo(tr);
 					$($("<td>").append($("<a href=\"" + URL_Reichskalender_start + row.BookPart + URL_Reichskalender_mid + row.PageEnd "\" target=\"_blank\">").text(row.PageStart + "-" + row.PageEnd)).appendTo(tr);
 					
 					$("#julianSolarCalendar tbody").append(tr);
