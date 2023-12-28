@@ -1,0 +1,137 @@
+<html>
+	<head>
+		<title>Computus.lat: Bibliography (formatted) v2.0</title>
+		<link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.css" />
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+		<script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.js"></script>
+		<style>
+			body {
+				font-family: Calibri, Verdana;
+			}
+			
+			h1 {
+				color: #009688;
+				font-size: 1.6rem;
+			}
+					
+			td {
+				vertical-align: top;
+			}
+			
+			a.button { 
+				display: inline-block;
+				padding: 5px;
+				background: #009688;
+				color: white;
+				border-radius: 7px;
+			}
+			
+			a.button:link {
+				color: white;
+				text-decoration: none;
+			}
+			
+			a.button:visited {
+				color: white;
+				text-decoration: none;
+			}
+			
+			a.button:hover {
+				color: white;
+				text-decoration: underline;
+			}
+			
+			a.button:active {
+				color: white;
+			}
+			
+			a:link {
+				color: #009688;
+			}
+			
+			a:visited {
+				color: #009688;
+			}
+			
+			a:hover {
+				color: #009688;
+			}
+			
+			a:active {
+				color: #009688;
+			}
+			
+		</style>
+	</head>
+	<body>
+	<h1>Computus.lat: Bibliography (formatted) v2.0</h1>
+		<a href="https://thomsnijders.nl/computus-lat/" target="_blank" class="button">More information about Computus.lat</a>
+		<a href="https://thomsnijders.nl/computus-lat/catalogue/report-broken-link/" target="_blank" class="button">Report a broken link</a>
+		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/julian-solar-calendar.html" target="_blank" class="button">Source code</a>		
+		<a href="https://github.com/thomsnijders/thomsnijders.github.io/blob/main/json/julian-solar-calendar.json" target="_blank" class="button">Dataset</a><br>
+	
+		<table id="bibliographyFormatted" class="cell-border compact stripe">
+			<thead>
+				<tr>
+					<th>Type</th>
+					<th>Reference</th>
+					<th>Language</th>
+					<th>URL</th>
+					<th>DOI</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
+		</table>
+			
+		<script type="text/javascript">
+			// Retrieve the contents of bibliography-formatted.json, which should be present in the json directory
+			$.getJSON("json/ibliography-formatted.json", function( data ) {
+				// Add a row for each entry
+				$.each(data, function(index, row) {
+					
+					// Prepare a new row
+					let tr = $("<tr>");
+					
+					// Add columns to row					
+					$($("<td>").text(row.ReferenceType)).appendTo(tr);
+					$($("<td>").text(row.Reference)).appendTo(tr);
+					$($("<td>").text(row.Language)).appendTo(tr);
+					$("<td>").append($("<a href=\"" + row.URL + "\" target=\"_blank\">").text(row.URL).appendTo(tr);
+					$("<td>").append($("<a href=\"" + row.DOI + "\" target=\"_blank\">").text(row.DOI).appendTo(tr);
+					
+					// Add new row to table
+					$("#julianSolarCalendar tbody").append(tr);
+				});
+				
+				let table = new DataTable('#julianSolarCalendar', {
+					// options
+					paging: false,
+					initComplete: function () {
+					this.api()
+						.columns()
+						.every(function () {
+							let column = this;
+							let title = column.header().textContent;
+			 
+							// Create input element
+							let input = document.createElement('input');
+							input.placeholder = title;
+							column.header().replaceChildren(input);
+			 
+							// Event listener for user input
+							input.addEventListener('keyup', () => {
+								if (column.search() !== this.value) {
+									column.search(input.value).draw();
+								}
+							});
+						});
+					}
+				});
+			});
+		
+			
+		</script>
+					
+	</body>
+</html>
