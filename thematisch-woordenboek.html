@@ -109,7 +109,7 @@
 							let $tr = $("<tr>");
 							let $td = $("<td>").append("<h2>" + value.woord + "</h2")
 											   .append("<span> </span>")
-											   .append("<em>" + findWoordsoort(woordsoorten, value.woordsoort) + " (" + value.thema + ")</em>");
+											   .append("<em>" + findWoordsoort(woordsoorten, value.woordsoort) + "</em>");
 											   
 							let $ol = $("<ol>");
 								$.each(value.betekenis.split(", "), function(key, value) {
@@ -117,6 +117,7 @@
 								});
 											   
 							$td.append((value.betekenis !== "" ? $ol : "<p>Betekenis niet opgegeven.</p>"));
+							$td.append("<em>(" + value.thema + ")</em>");
 							$tr.append($td);
 							$("#result").append($tr);
 						}
