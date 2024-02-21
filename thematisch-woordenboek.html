@@ -63,10 +63,10 @@
 	<script>
 	
 	let woordsoorten = [
-		{ afkorting: "alle", voluit: "alle woordsoorten" },
-		{ afkorting: "znw", voluit: "zelfstandig naamwoord" },
-		{ afkorting: "ww", voluit: "werkwoord" },
-		{ afkorting: "bvnw", voluit: "bijvoeglijk naamwoord" },
+		{ abbreviation: "alle", full: "alle woordsoorten" },
+		{ abbreviation: "znw", full: "zelfstandig naamwoord" },
+		{ abbreviation: "ww", full: "werkwoord" },
+		{ abbreviation: "bvnw", full: "bijvoeglijk naamwoord" },
 	];
 	
 	function findWoordsoort(input, target){
@@ -74,9 +74,8 @@
 		
 		$.each(input, function(key, value) {
 			
-			if(value.afkorting == target) {
-				console.log(value.voluit);
-				found = value.voluit;
+			if(value.abbreviation == target) {
+				found = value.full;
 				return true;
 			}
 		});
@@ -96,11 +95,11 @@
 		$.getJSON( "json/thematische-woordenlijst.json", function( dictionary ) {
 			$.each(woordsoorten, function(key, value) {
 				$("#woordsoort").append($("<option>")
-									.attr("value", value.afkorting)
-									.text(value.voluit));
+									.attr("value", value.abbreviation)
+									.text(value.full));
 			});
 			
-			$("#woord").on("input", function() {
+			$("#word").on("input", function() {
 				$("#result").empty();
 				let searchterm = $(this).val();
 				let woordsoort = $("#woordsoort").val();
@@ -126,7 +125,7 @@
 			});
 			
 			$("#woordsoort").on("change", function() {
-				$("#woord").trigger("input");
+				$("#word").trigger("input");
 			});
 		});
 	});
@@ -135,7 +134,7 @@
 </head>
 <body>
 	<h1>Thematisch woordenboek</h1>
-	<input id='woord' name='woord' placeholder='Van welk woord zoek je de betekenis?'>
+	<input id='word' name='word' placeholder='Van welk woord zoek je de betekenis?'>
 	<select id='woordsoort' name='woordsoort'></select>
 	<table id='result'></table>
 </body>
