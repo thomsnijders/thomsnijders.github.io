@@ -1,2 +1,1 @@
-# computus.lat
-Computus.lat
+# thomsnijders
