@@ -69,19 +69,19 @@
 		{ afkorting: "bvnw", voluit: "bijvoeglijk naamwoord" },
 	];
 	
-	function vind(input, target){
-		let gevonden;
+	function findWoordsoort(input, target){
+		let found;
 		
 		$.each(input, function(key, value) {
 			
 			if(value.afkorting == target) {
 				console.log(value.voluit);
-				gevonden = value.voluit;
+				found = value.voluit;
 				return true;
 			}
 		});
 		
-		return gevonden;
+		return found;
 	};
 	
 	function contains(haystack, needle) {
@@ -102,15 +102,15 @@
 			
 			$("#woord").on("input", function() {
 				$("#result").empty();
-				let zoekterm = $(this).val();
+				let searchterm = $(this).val();
 				let woordsoort = $("#woordsoort").val();
-				if(zoekterm.length >= 3) {
+				if(searchterm.length >= 3) {
 					$.each(dictionary, function(key, value) {
-						if(value.woord.replace('de ', '').replace('het ', '').replace('een ', '').includes(zoekterm) && (woordsoort == "alle" || value.woordsoort == woordsoort)) {
+						if(value.woord.replace('de ', '').replace('het ', '').replace('een ', '').includes(searchterm) && (woordsoort == "alle" || value.woordsoort == woordsoort)) {
 							let $tr = $("<tr>");
 							let $td = $("<td>").append("<h2>" + value.woord + "</h2")
 											   .append("<span> </span>")
-											   .append("<em>" + vind(woordsoorten, value.woordsoort) + " (thema: " + value.thema + ")</em>");
+											   .append("<em>" + findWoordsoort(woordsoorten, value.woordsoort) + " (" + value.thema + ")</em>");
 											   
 							let $ol = $("<ol>");
 								$.each(value.betekenis.split(", "), function(key, value) {
