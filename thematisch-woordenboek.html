@@ -119,7 +119,7 @@
 											   .append("<em>" + findWoordsoort(woordsoorten, value.woordsoort) + "</em>");
 											   
 							let $ol = $("<ol>");
-								$.each(value.betekenis.split(", "), function(key, value) {
+								$.each(value.betekenis.split("; "), function(key, value) {
 									$ol.append("<li>" + value + "</li>");
 								});
 											   
