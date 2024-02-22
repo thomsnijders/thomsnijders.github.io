@@ -253,6 +253,10 @@
 				}
 				
 			});
+			
+			$("#stop").on("click", function() {
+				clearInterval(currentInterval);
+			});
 		});
 	});
 
@@ -280,6 +284,7 @@
 	</select>
 	
 	<button id="start">Start</button>
+	<button id="start">Stop</button>
 	
 	<div>
 		<h2></h2>
