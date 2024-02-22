@@ -215,6 +215,11 @@
 			}
 		}, interval);
 	}
+	
+	function stop() {
+		clearInterval(currentInterval);
+		$("h2, h3").empty();
+	}
 
 	$(document).ready(function() {
 		$.getJSON( "json/thematische-woordenlijst.json", function( dictionary ) {
@@ -229,9 +234,7 @@
 			
 			$("#start").on("click", function() {
 				
-				clearInterval(currentInterval);
-				$("h2").empty();
-				$("h3").empty();
+				stop();
 			
 				let wordlist = [];
 				
@@ -255,7 +258,7 @@
 			});
 			
 			$("#stop").on("click", function() {
-				clearInterval(currentInterval);
+				stop();
 			});
 		});
 	});
