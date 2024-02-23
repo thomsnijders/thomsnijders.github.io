@@ -173,19 +173,29 @@
 		$("h2").text("Klaar voor de start? We beginnen over " + interval / 1000 + " seconden. Veel succes!");
 		
 		currentInterval = setInterval(function() {
-			if(i < length) {
-				if(!showBetekenis) {
-					$("h2").text(wordlist[i].woord);
-					$("h3").empty();
-					showBetekenis = true;
-				}else{
-					$("h3").text(wordlist[i].betekenis);
-					showBetekenis = false;
-					i++;
-				}
-			}else{
-				clearInterval();
+		
+			if(i == length) {
+				i = 0;
 			}
+			
+			if(i == 0) {
+				wordlist = shuffle(wordlist);
+			}
+			
+			
+			if(!showBetekenis) {
+				console.log(i+1);
+				$("h2").text(wordlist[i].woord);
+				$("h3").empty();
+				showBetekenis = true;
+			}else{
+				$("h3").text(wordlist[i].betekenis);
+				showBetekenis = false;
+				i++;
+			}
+			//}else{
+			//	clearInterval();
+			//}
 		}, interval);
 	}
 				
@@ -209,6 +219,7 @@
 			}
 		
 			if(!showBetekenis) {
+				console.log(i+1);
 				$("h2").text(wordlist[i].woord);
 				showBetekenis = true;
 				i++;
@@ -241,25 +252,29 @@
 			$("#start").on("click", function() {
 				
 				stop();
+				
+				if($thema.val() !== "") {
 			
-				let wordlist = [];
-				
-				$.each(dictionary, function(key, value) {
-					if(value.thema == $thema.val()) {
-						wordlist.push(value);
+					let wordlist = [];
+					
+					$.each(dictionary, function(key, value) {
+						if(value.thema == $thema.val()) {
+							wordlist.push(value);
+						}
+					});
+					
+					switch($type.val()) {
+						case "wb": 
+							woordNaarBetekenis(wordlist);
+							break;
+						case "bw": 
+							betekenisNaarWoord(wordlist);
+							break;
 					}
-				});
-				
-				switch($type.val()) {
-					case "wb": 
-						woordNaarBetekenis(wordlist);
-						break;
-					case "bw": 
-						betekenisNaarWoord(wordlist);
-						break;
 				}
 				
 			});
+			
 			
 			$("#stop").on("click", function() {
 				stop();
