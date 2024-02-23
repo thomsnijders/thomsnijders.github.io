@@ -196,23 +196,29 @@
 		let showBetekenis = true;
 		let length = wordlist.length;
 		let i = 0;
-		
+				
 		$("h2").text("Klaar voor de start? We beginnen over " + interval / 1000 + " seconden. Veel succes!");
 		
 		currentInterval = setInterval(function() {
-			if(i < length) {
-				if(!showBetekenis) {
-					$("h2").text(wordlist[i].woord);
-					showBetekenis = true;
-					i++;
-				}else{
-					$("h2").empty();
-					$("h3").text(wordlist[i].betekenis);
-					showBetekenis = false;
-				}
-			}else{
-				clearInterval();
+			if(i == length) {
+				i = 0;
 			}
+			
+			if(i == 0) {
+				wordlist = shuffle(wordlist);
+			}
+		
+			if(!showBetekenis) {
+				$("h2").text(wordlist[i].woord);
+				showBetekenis = true;
+				i++;
+			}else{
+				$("h2").empty();
+				$("h3").text(wordlist[i].betekenis);
+				showBetekenis = false;
+			}
+			//}else{
+				//clearInterval();
 		}, interval);
 	}
 	
@@ -243,8 +249,6 @@
 						wordlist.push(value);
 					}
 				});
-				
-				wordlist = shuffle(wordlist);
 				
 				switch($type.val()) {
 					case "wb": 
@@ -278,6 +282,9 @@
 	</select>
 	
 	<select id='interval' name='interval'>
+		<option value="2000">2 seconden</option>
+		<option value="3000">3 seconden</option>
+		<option value="4000">4 seconden</option>
 		<option value="5000" selected="selected">5 seconden</option>
 		<option value="6000">6 seconden</option>
 		<option value="7000">7 seconden</option>
