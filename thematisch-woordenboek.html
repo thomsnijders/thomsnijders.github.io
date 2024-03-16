@@ -2,7 +2,6 @@
 <head>
 	<title>Thematisch woordenboek</title>
 	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
-	<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js" crossorigin="anonymous"></script>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
@@ -10,50 +9,79 @@
 	<style>	
 		body { 
 			font-family: "Roboto", serif;
-			padding: 30px;
-			background-color: #24292E;
+			background: #1D2125;
+			padding: 0;
+			margin: 0;
+			font-size: 12px;
 		}
 		
 		header {
-			padding: 20px;
-			background: #1D2125;
+			margin: 8px;
+			padding: 30px;
+			border-radius: 10px;
+			background: #24292E;
+			border-width: 1px 1px 4px 1px;
+			border-color: #141414 #141414 #0B56AC #141414;
+			border-style: solid;
+		}
+		
+		article {
+			margin: 8px;
 		}
 		
 		h1 {
+			font-size: 1.9rem;
+			margin-top: 0px;
 			font-family: "Roboto Slab", serif;	
-			color: white;
+			color: #9DCBFF;
 		}
 		
 		h2 {
+			font-size: 1.4rem;
 			font-family: "Roboto Slab", serif;
 			margin-bottom: 0px;
-			color: white;
+			color: #9DCBFF;
 		}
 		
 		p {
 			display: block;
 			padding: 10px 0;
-			color: white;
+			color: #EEF1F3;
 		}
 	
 		input {
 			border-radius: 10px;
-			border: 1px solid black;
+			border: 0 solid;
 			padding: 10px;
 			font-size: 15px;
 			width: 100%;
 			margin: 0 auto;
-			background-color: #F0F2F6;
+			background-color: #2B3137;
+			color: #EEF1F3;
+		}
+		
+		input::placeholder{
+			color: #A8A8A8;
+		}
+		
+		input:focus {
+			outline: 1px solid #0360C9;
 		}
 		
 		select {
 			border-radius: 10px;
-			border: 1px solid black;
+			border: 0 solid;
 			padding: 10px;
 			font-size: 15px;
 			width: 100%;
 			margin: 0 auto;
-			background-color: #F0F2F6;
+			background-color: #2B3137;
+			color: #EEF1F3;
+		}
+		
+		
+		select:focus  {
+			outline: 1px solid #0360C9;
 		}
 		
 		@media screen and (min-width: 1000px) {
@@ -67,8 +95,17 @@
 		}
 		
 		table {
-			padding: 10px;
-			color: white;
+			color: #EEF1F3;
+			width: 100%;
+		}
+		
+		tr {
+			display: block;
+			padding: 30px;			
+			border-radius: 10px;
+			margin-bottom: 10px;
+			background: #24292E;
+			border: 1px solid #141414;
 		}
 		
 		li::marker {
@@ -113,23 +150,24 @@
 	
 	$(document).ready(function() {
 		$.getJSON( "json/thematische-woordenlijst.json", function( dictionary ) {
+
 			$.each(woordsoorten, function(key, value) {
 				$("#woordsoort").append($("<option>")
 									.attr("value", value.abbreviation)
 									.text(value.full));
 			});
 			
-			$("#word").on("input", function() {\
+			$("#word").on("input", function() {
 				$("#result").empty();
 				let searchterm = $(this).val();
 				let woordsoort = $("#woordsoort").val();
 				if(searchterm.length >= 3) {
 					$.each(dictionary, function(key, value) {
-						if(value.woord.replace('de ', '').replace('het ', '').replace('een ', '').includes(searchterm) && (woordsoort == "alle" || value.woordsoort == woordsoort)) {
+						if(value.woord.replace('de ', '').replace('het ', '').replace('een ', '').includes(searchterm) && (woordsoort == "alle" || value.woordsoort == woordsoort) && value.betekenis !== "") {
 							let $tr = $("<tr>");
 							let $td = $("<td>").append("<h2>" + value.woord + "</h2")
 											   .append("<span> </span>")
-											   .append("<em>" + findWoordsoort(woordsoorten, value.woordsoort) + "</em>");
+											   .append("<em>" + (value.woordsoort == "znw" ? "lidwoord + " : "") + findWoordsoort(woordsoorten, value.woordsoort) + "</em>");
 											   
 							let $ol = $("<ol>");
 								$.each(value.betekenis.split("; "), function(key, value) {
@@ -149,7 +187,7 @@
 				$("#word").trigger("input");
 			});
 		});
-	});
+});
 
 	</script>
 </head>
@@ -159,6 +197,8 @@
 		<input id='word' name='word' placeholder='Van welk woord zoek je de betekenis?'>
 		<select id='woordsoort' name='woordsoort'></select>
 	</header>
-	<table id='result'></table>
+	<article>
+		<table id='result'></table>
+	</article>
 </body>
 </html>
