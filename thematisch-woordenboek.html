@@ -11,21 +11,29 @@
 		body { 
 			font-family: "Roboto", serif;
 			padding: 30px;
-			background-color: #EAEFF3;
+			background-color: #24292E;
+		}
+		
+		header {
+			padding: 20px;
+			background: #1D2125;
 		}
 		
 		h1 {
 			font-family: "Roboto Slab", serif;	
+			color: white;
 		}
 		
 		h2 {
 			font-family: "Roboto Slab", serif;
 			margin-bottom: 0px;
+			color: white;
 		}
 		
 		p {
 			display: block;
 			padding: 10px 0;
+			color: white;
 		}
 	
 		input {
@@ -60,6 +68,7 @@
 		
 		table {
 			padding: 10px;
+			color: white;
 		}
 		
 		li::marker {
@@ -110,8 +119,7 @@
 									.text(value.full));
 			});
 			
-			$("#word").on("input", function() {
-				alert("input");
+			$("#word").on("input", function() {\
 				$("#result").empty();
 				let searchterm = $(this).val();
 				let woordsoort = $("#woordsoort").val();
@@ -146,9 +154,11 @@
 	</script>
 </head>
 <body>
-	<h1>Thematisch woordenboek</h1>
-	<input id='word' name='word' placeholder='Van welk woord zoek je de betekenis?'>
-	<select id='woordsoort' name='woordsoort'></select>
+	<header>
+		<h1>Thematisch woordenboek</h1>
+		<input id='word' name='word' placeholder='Van welk woord zoek je de betekenis?'>
+		<select id='woordsoort' name='woordsoort'></select>
+	</header>
 	<table id='result'></table>
 </body>
 </html>
