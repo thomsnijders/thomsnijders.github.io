@@ -147,7 +147,7 @@
 			return false;
 		}
 	}
-	
+		
 	$(document).ready(function() {
 		$.getJSON( "json/thematische-woordenlijst.json", function( dictionary ) {
 
@@ -161,9 +161,10 @@
 				$("#result").empty();
 				let searchterm = $(this).val();
 				let woordsoort = $("#woordsoort").val();
-				if(searchterm.length >= 3) {
+				searchtermShorthand = searchterm.replace("de", "").replace("het", "").replace("een", "");
+				if(searchtermShorthand.length >= 3) {
 					$.each(dictionary, function(key, value) {
-						if(contains(value, searchterm) && (woordsoort == "alle" || value.woordsoort == woordsoort) && value.betekenis !== "") {
+						if(value.woord.toLowerCase().includes(searchterm.toLowerCase()) && (woordsoort == "alle" || value.woordsoort == woordsoort) && value.betekenis !== "") {
 							let $tr = $("<tr>");
 							let $td = $("<td>").append("<h2>" + value.woord + "</h2")
 											   .append("<span> </span>")
