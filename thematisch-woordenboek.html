@@ -163,7 +163,7 @@
 				let woordsoort = $("#woordsoort").val();
 				if(searchterm.length >= 3) {
 					$.each(dictionary, function(key, value) {
-						if(value.woord.replace('de ', '').replace('het ', '').replace('een ', '').includes(searchterm) && (woordsoort == "alle" || value.woordsoort == woordsoort) && value.betekenis !== "") {
+						if(value.includes(searchterm) && (woordsoort == "alle" || value.woordsoort == woordsoort) && value.betekenis !== "") {
 							let $tr = $("<tr>");
 							let $td = $("<td>").append("<h2>" + value.woord + "</h2")
 											   .append("<span> </span>")
