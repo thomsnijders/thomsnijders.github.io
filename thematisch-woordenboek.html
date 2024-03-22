@@ -213,7 +213,7 @@
 						
 						// Search for an exact match
 						if(dictionaryMatch(searchterm, woordsoort, value, true)) {
-							// An exact match was foun:  compile a result
+							// An exact match was found:  compile a result
 						
 							let $tr = $("<tr>");
 							let $td = $("<td>").append("<h2>" + value.woord +"</h2")
@@ -241,7 +241,7 @@
 							// Search for an approximate match
 							let cleanDictionaryWord = cleanWord(value.woord);
 						
-							if(cleanDictionaryWord.length - searchterm.length <= 2) {	
+							if(cleanDictionaryWord.length - searchterm.length <= 3) {	
 								let matches = search(cleanDictionaryWord, searchterm, 3);
 								if(matches.length > 0) {
 									// An approximate match was found								
@@ -273,8 +273,7 @@
 				$("#word").trigger("input");
 			});
 		});
-});
-
+	});
 	</script>
 </head>
 <body>
