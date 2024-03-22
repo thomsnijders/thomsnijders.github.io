@@ -2,13 +2,14 @@
 <head>
 	<title>Thematisch woordenboek</title>
 	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+	<script src="js/approx-string-match.js"></script>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 		
 	<style>	
 		body { 
-			font-family: "Roboto", serif;
+			font-family:"Roboto", serif;
 			background: #1D2125;
 			padding: 0;
 			margin: 0;
@@ -32,21 +33,29 @@
 		h1 {
 			font-size: 1.9rem;
 			margin-top: 0px;
-			font-family: "Roboto Slab", serif;	
+			font-family:"Roboto Slab", serif;	
 			color: #9DCBFF;
 		}
 		
 		h2 {
 			font-size: 1.4rem;
-			font-family: "Roboto Slab", serif;
+			font-family:"Roboto Slab", serif;
 			margin-bottom: 0px;
 			color: #9DCBFF;
 		}
-		
+	
 		p {
 			display: block;
 			padding: 10px 0;
 			color: #EEF1F3;
+		}
+		
+		
+		div#comment.active{
+			display: block;
+			padding: 30px;
+			color: #EEF1F3;
+			font-size: medium;
 		}
 	
 		input {
@@ -117,15 +126,16 @@
 	<script>
 	
 	let woordsoorten = [
-		{ abbreviation: "alle", full: "alle woordsoorten" },
-		{ abbreviation: "znw", full: "zelfstandig naamwoord" },
-		{ abbreviation: "ww", full: "werkwoord" },
-		{ abbreviation: "bvnw", full: "bijvoeglijk naamwoord" },
-		{ abbreviation: "combinatie", full: "combinatie/gezegde" },
-		{ abbreviation: "voorzetsel", full: "voorzetsel" },
-		{ abbreviation: "overig", full: "overig" },
+		{ abbreviation:"alle", full:"alle woordsoorten" },
+		{ abbreviation:"znw", full:"zelfstandig naamwoord" },
+		{ abbreviation:"ww", full:"werkwoord" },
+		{ abbreviation:"bvnw", full:"bijvoeglijk naamwoord" },
+		{ abbreviation:"combinatie", full:"combinatie/gezegde" },
+		{ abbreviation:"voorzetsel", full:"voorzetsel" },
+		{ abbreviation:"overig", full:"overig" },
 	];
 	
+	// Find a word type
 	function findWoordsoort(input, target){
 		let found;
 		
@@ -140,54 +150,129 @@
 		return found;
 	};
 	
-	function contains(haystack, needle) {
-		if(haystack.indexOf(needle) != -1){
-			return true
-		}else{
-			return false;
+	
+	// Remove "lidwoorden" from a word
+	function cleanWord(word) {
+		return word.replace("de ","").replace("het ","").replace("een ","");
+	}
+
+	// Check for a match
+	function dictionaryMatch(searchterm, woordsoort, dictionaryReference, caseSensitive) {
+		// Only for words with a given meaning
+		if(dictionaryReference.betekenis !=="") {
+			// Check the word type: all or specific
+			if((woordsoort =="alle" || dictionaryReference.woordsoort == woordsoort)) {
+				if(caseSensitive) {
+					// Search case sensitive
+					if(cleanWord(dictionaryReference.woord) == searchterm) {
+						return true;
+					}
+				}else{
+					// Search case insensitive
+					if(cleanWord(dictionaryReference.woord.toLowerCase()) == cleanWord(searchterm.toLowerCase())) {
+						return true;
+					}
+				}
+			}
 		}
+		return false;
 	}
 		
 	$(document).ready(function() {
-		$.getJSON( "json/thematische-woordenlijst.json", function( dictionary ) {
+		$.getJSON("json/thematische-woordenlijst.json", function( dictionary ) {
 
+			// Add word types to selectbox
 			$.each(woordsoorten, function(key, value) {
 				$("#woordsoort").append($("<option>")
 									.attr("value", value.abbreviation)
 									.text(value.full));
 			});
 			
-			$("#word").on("input", function() {
-				$("#result").empty();
-				let searchterm = $(this).val();
+			// Whenever the input of #word is changed or triggered
+			$("#word").on("input", function() {			
+				
+				// Start with an empty comment above the result list
+				$("#comment").removeClass("active").empty();
+				
+				// Start with an empty result list
+				$("#result").empty();				
+				
+				// Collect formdata
+				let searchterm = cleanWord($(this).val());
 				let woordsoort = $("#woordsoort").val();
-				searchtermShorthand = searchterm.replace("de", "").replace("het", "").replace("een", "");
-				if(searchtermShorthand.length >= 3) {
+				
+				// Only start a search when the length of the searchterm is more than 3
+				if(searchterm.length >= 3) {
+				
+					// Set counter to zero
+					let resultCount = 0;
+					let approximateMatch = 0;
+					
+					// For each word in the dictionary...
 					$.each(dictionary, function(key, value) {
-						if(value.woord.toLowerCase().includes(searchterm.toLowerCase()) && (woordsoort == "alle" || value.woordsoort == woordsoort) && value.betekenis !== "") {
+						
+						// Search for an exact match
+						if(dictionaryMatch(searchterm, woordsoort, value, true)) {
+							// An exact match was foun:  compile a result
+						
 							let $tr = $("<tr>");
-							let $td = $("<td>").append("<h2>" + value.woord + "</h2")
+							let $td = $("<td>").append("<h2>" + value.woord +"</h2")
 											   .append("<span> </span>")
-											   .append("<em>" + (value.woordsoort == "znw" ? "lidwoord + " : "") + findWoordsoort(woordsoorten, value.woordsoort) + "</em>");
+											   .append("<em>" + (value.woordsoort =="znw" ?"lidwoord +" :"") + findWoordsoort(woordsoorten, value.woordsoort) +"</em>");
 											   
 							let $ol = $("<ol>");
-								$.each(value.betekenis.split("; "), function(key, value) {
-									$ol.append("<li>" + value + "</li>");
+								$.each(value.betekenis.split(";"), function(key, value) {
+									$ol.append("<li>" + value +"</li>");
 								});
 											   
-							$td.append((value.betekenis !== "" ? $ol : "<p>Betekenis niet opgegeven.</p>"));
-							$td.append("<em>" + value.thema + "</em>");
+							$td.append((value.betekenis !=="" ? $ol :"<p>Betekenis niet opgegeven.</p>"));
+							$td.append("<em>" + value.thema +"</em>");
 							$tr.append($td);
 							$("#result").append($tr);
+							
+							resultCount++;
+						}else{
+							// Search for a case insensitive match
+							if(dictionaryMatch(searchterm, woordsoort, value, false)) {
+								resultCount++;
+								approximateMatch++;
+							}
+							
+							// Search for an approximate match
+							let cleanDictionaryWord = cleanWord(value.woord);
+						
+							if(cleanDictionaryWord.length - searchterm.length <= 2) {	
+								let matches = search(cleanDictionaryWord, searchterm, 3);
+								if(matches.length > 0) {
+									// An approximate match was found								
+									approximateMatch++;
+								}
+							}
 						}
+						
 					});
+					
+					if(resultCount == 0) {
+						// No results were found, include a comment
+						$("#comment").addClass("active").text("Oeps... Dat woord is niet gevonden. Heb je het hele woord ingetypt en goed gespeld?");
+					}
+					
+					
+					if(resultCount == 0 && approximateMatch > 0) {
+						// No results were found, but an approximate match was found, so include a comment
+						$("#comment").addClass("active").text("Heb je het zoekwoord goed gespeld? In de woordenlijst komt een woord voor dat op dit woord lijkt.");
+					}
+					
+				}else{
+					// Searchterm length is too short
+					$("#comment").addClass("active").text("De minimale woordlengte is 2 letters, exclusief lidwoorden.");
 				}
 			});
 			
 			$("#woordsoort").on("change", function() {
 				$("#word").trigger("input");
 			});
-		});
+		//});
 });
 
 	</script>
@@ -199,6 +284,7 @@
 		<select id='woordsoort' name='woordsoort'></select>
 	</header>
 	<article>
+		<div id="comment"></div>
 		<table id='result'></table>
 	</article>
 </body>
